@@ -1,14 +1,14 @@
-# Toledo Daily Safety Digest: Directive
+# Toledo Daily Safety Digest + Emerging Tech Watch: Directive
 
-This is the standing instruction Raenie (C T's Grok Bot assistant) follows every morning to build and send the Toledo, Ohio safety digest.
+This is the standing instruction Raenie (C T's Grok Bot assistant) follows every morning to build and send ONE combined morning email: the Toledo, Ohio safety digest plus an Emerging Tech Watch on geoengineering, smart dust, and 6G cellular.
 
 - **Schedule:** every day at 7:30 AM Eastern, weekends included (`CRON_TZ=America/New_York 30 7 * * *`)
 - **Delivery:** emailed from ctfoughtiv@gmail.com to foughtct@gmail.com, plus a short summary in the Grok Bot chat
-- **Last updated:** Sep 24, 2026
+- **Last updated:** Oct 4, 2026
 
 ---
 
-Put together today's Toledo, Ohio safety digest for C T and deliver it. Send it every day, including quiet days, when it should read as an all-clear.
+Put together today's combined digest for C T (Toledo safety plus Emerging Tech Watch) and deliver it as ONE email. Send it every day, including quiet days, when it should read as an all-clear.
 
 ## What to check
 
@@ -68,6 +68,14 @@ Check the last 24 to 48 hours, and carry forward anything still active.
     - Give the time in ET, where to look, whether it's visible to the naked eye, and the cloud outlook.
     - Verify every date with NASA, NOAA, timeanddate.com, Sky & Telescope, or EarthSky.
 
+### Emerging Tech Watch (sections 17 to 19)
+
+For each of these, cover new developments from the last 24 to 48 hours and flag anything specific to Ohio, Michigan, or the Great Lakes first. Use neutral, factual wording. Separate confirmed developments (official records, filings, standards documents, peer-reviewed work, credible reporting) from claims such as "chemtrail" allegations or speculative health and conspiracy theories. Label anything that rests only on social media or unverified sources with a short reliability note, and never present it as fact. Watch for old stories recirculated as new.
+
+17. **Geoengineering.** Solar radiation management (stratospheric aerosol injection, marine cloud brightening, cirrus thinning, space reflectors), cloud seeding and NOAA weather-modification reports, large-scale carbon removal (ocean alkalinity enhancement, iron fertilization, direct air capture at scale), field trials and startups, government and peer-reviewed studies and funding, federal and state bills to ban or regulate it, international moratoria, UN and Convention on Biological Diversity actions, and lawsuits.
+18. **Smart dust.** Networks of tiny wireless sensors (MEMS motes, neural dust, sprayable or ingestible micro-sensors, nanosensor networks): research papers, commercial products and deployments, defense programs and contracts (DARPA, DoD), medical uses, health and safety findings, privacy, surveillance, and civil-liberties concerns, and regulation (FCC, FDA, state privacy laws, EU rules).
+19. **6G cellular.** Standards work (3GPP Release 20/21, ITU IMT-2030), spectrum decisions and auctions (FCC, NTIA, upper mid-band, sub-THz), carrier and equipment-maker trials and rollouts (Verizon, AT&T, T-Mobile, Ericsson, Nokia, Samsung, Qualcomm), government funding and strategy, research breakthroughs, RF exposure studies, FCC exposure limits and lawsuits, privacy and surveillance (including sensing and positioning features built into 6G), and tower and small-cell permits or new wireless sites in Toledo, Lucas County, Ohio, or Michigan.
+
 ## How to prioritize and lay it out
 
 C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's discretion.
@@ -76,14 +84,18 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
   - Top priority is anything that needs action now: drinking-water orders or boil advisories, shelter-in-place orders or evacuations, active nearby gas leaks or hazmat releases, derailments with releases, unhealthy air, Class I recalls of common foods, and large demonstrations closing major roads today.
   - Next is what's worth knowing this week: new recalls, main breaks, big road closures, DUI checkpoints, planned protests, kids' product warnings, algal bloom changes, claim deadlines, and sky events.
   - Background items come last.
-- **Email layout:**
-  1. A one- or two-sentence summary saying whether anything needs action today.
-  2. **Needs attention:** most urgent first, each with what to do.
-  3. **Worth knowing:** grouped by topic.
-  4. **All clear / no change:** one short line per quiet section. Maumee River, Lake Erie, and Air are always listed.
-  5. **Sky:** a lighter closing note.
-- Unchanged ongoing items get a brief "ongoing" mention. Give full detail again only when something changes. Skip empty headings.
-- Use plain language and short entries, with a source link on every item.
+- **Email layout (one email covering everything):**
+  1. A one- or two-sentence summary saying whether anything needs action today, across all topics.
+  2. **Needs attention:** most urgent first, from any topic, each with what to do.
+  3. **Worth knowing (Toledo):** grouped by topic.
+  4. **Emerging Tech Watch:** Geoengineering, Smart Dust, and 6G Cellular subsections.
+  5. **All clear / no change:** one bullet per quiet section. Maumee River, Lake Erie, and Air are always listed, and so is any quiet Emerging Tech topic.
+  6. **Sky:** a lighter closing note.
+- **Bullets, full detail (C T's request, Oct 4, 2026):**
+  - Every item is its own bullet, with sub-bullets for the details: what happened, where, dates and times, who's affected, lot codes or product names, what to do, and the source link.
+  - Never drop or shorten details to save space, including for ongoing items. Carried-forward items keep their full details every day, marked "(ongoing)" or "(updated)".
+  - No paragraph blocks. Skip empty headings.
+- Use plain language, with a source link on every item.
 
 ## Rules
 
@@ -92,7 +104,7 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
 
 ## Delivery
 
-- **Email** the full digest to foughtct@gmail.com through the connected Gmail account (ctfoughtiv@gmail.com). The subject line flags urgency, for example "Toledo Safety Digest - <date> - ACTION: boil advisory". On quiet days it ends in "all clear", otherwise in "<n> new items". This is a standing request, so the email goes out without a draft step.
+- **Email** exactly ONE email with the full combined digest to foughtct@gmail.com through the connected Gmail account (ctfoughtiv@gmail.com). The subject line flags urgency, for example "Toledo Daily Digest - <date> - ACTION: boil advisory". On quiet days it ends in "all clear", otherwise in "<n> new items". This is a standing request, so the email goes out without a draft step.
 - **Chat:** post a short plain-language summary. It covers the top line, anything that needs attention, a quick mention of other new items, the Sky note, and confirmation that the email went out.
 - **Gmail failures:** if Gmail authentication fails, report it. If the same failure repeats on more than one run, pause the routine and say what needs reconnecting.
 
@@ -103,3 +115,6 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
   - Added the Maumee River, Sky, Air (hazmat and mold), Lake Erie and EPA, Rail, Kids / Poison Control, Lawsuits, Roadwork, Water mains & sewers, Gas leaks, Invasive species, Protests & demonstrations, and DUI checkpoints sections.
   - Added the priority layout.
   - Moved the send time to 7:30 AM ET.
+- **Oct 4, 2026:**
+  - Added the Emerging Tech Watch sections (geoengineering, smart dust, and 6G cellular), merged into this one morning email at C T's request instead of a separate digest.
+  - Made the whole email bulleted, with full details kept for every item, including ongoing ones.
