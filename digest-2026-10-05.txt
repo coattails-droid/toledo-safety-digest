@@ -1,0 +1,222 @@
+Toledo Daily Digest + Emerging Tech Watch - Monday, October 5, 2026
+
+SUMMARY
+- Nothing needs shelter-in-place, evacuation or a water order in Toledo today, and the air is Good. The action items are the same food and product recalls to check at home (berries, fettuccine, raw-milk cheese, sprouting seeds, kids' toys, hand warmers), plus a new Dollar Tree balloon-pump recall; in tech, cloud seeding made the news in Alaska and Malaysia and Qualcomm and Ericsson showed a pre-standard 6G demo.
+
+NEEDS ATTENTION
+- Great Value and Trader Joe's frozen organic berries - E. coli O145:H28 (ongoing; expanded Oct 2)
+  - What happened: Frutas y Hortalizas del Sur S.A. (San Carlos, Chile) expanded its July 3 and Sep 3 recalls to more lots.
+  - Products and lot codes:
+    - Great Value Organic Triple Berry Blend 10 oz, UPC 7874211226, lots 6 031 01 and 6 041 01 (best-by Jan 31 and Feb 10, 2028)
+    - Great Value Organic Blueberries 10 oz, UPC 7874211213, lots 6 019 01, 6 040 01 and 6 163 01 (best-by Jan 19, Feb 9 and Jun 12, 2028)
+    - Trader Joe's Organic Mixed Berry Blend 12 oz, UPC 00977654, lot 6 051 01 (best before Feb 20, 2028)
+  - Where: Walmart stores in 30 states and Trader Joe's in 26 states, both including Ohio and Michigan.
+  - Who's affected: linked to an outbreak (17 ill in FL and GA, 6 hospitalized, no deaths) that has been declared over; E. coli O145 can cause HUS, especially in young children, older adults and people with weak immune systems.
+  - What to do: check your freezer; don't eat; throw away or return for a refund; don't use in smoothies or baking.
+  - Sources: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/frutas-y-hortalizas-del-sur-sa-expands-recalls-include-additional-lots-great-value-frozen-organic
+    https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o145h28-frozen-blueberries-july-2026
+    https://eu.freep.com/story/news/local/michigan/2026/10/04/frozen-berry-recall-expanded-walmart-and-trader-joes/92090798007/
+
+- Bettergoods Authentic Italian Lemon Alfredo Fettuccine - Listeria (ongoing)
+  - What happened: Gias Foods, Inc. recall for possible Listeria monocytogenes.
+  - Product: frozen 22 oz yellow package, UPC 194346442706, all lot codes.
+  - Where: Walmart.
+  - Who's affected: highest risk for pregnant people, young children, older adults and the immunocompromised.
+  - What to do: don't eat; return to Walmart or throw away.
+  - Source: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/gias-foods-inc-recalls-bettergoods-authentic-italian-lemon-alfredo-fettuccine-because-possible-0
+
+- Graziers raw-milk cheese - E. coli O26:H11 (Class I, ongoing)
+  - What happened: Sierra Nevada Cheese Company recalled all Graziers grass-fed raw-milk cheeses tied to a multistate outbreak (Michigan among the states).
+  - Products: medium and sharp cheddar, jalapeno jack, Monterey jack.
+  - What to do: check fridge and freezer; throw away or return; clean and sanitize surfaces and containers the cheese touched.
+  - Sources: https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o26h11-raw-milk-cheese-september-2026
+    https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/sierra-nevada-cheese-company-recalls-graziers-raw-milk-cheese-because-possible-health-risk
+
+- Home Grown broccoli sprouting seeds - Salmonella (ongoing)
+  - What happened: EAK Distribution recall.
+  - Product: HOME GROWN Green Sprouting Calabrese Broccoli Seeds, 8 oz Heirloom, UPC 850056627443, production lot AUG172026.
+  - Where and when sold: Amazon, Aug 20 to Sep 18, 2026.
+  - What to do: don't use; throw away; contact Amazon for a refund.
+  - Source: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/eak-distribution-llc-recalls-home-grown-green-sprouting-calabrese-broccoli-seeds-8-oz-heirloom
+
+- Berlin Seeds alfalfa sprouting seed - STEC / Salmonella (Ohio company, ongoing)
+  - Product: alfalfa sprouting seed, lot SAL2-24JB (about 950 lbs).
+  - Where and when sold: Feb 13 to Aug 23, 2026, from Millersburg, OH and online to 44 states including Ohio and Michigan.
+  - What to do: stop using; throw away seed and any sprouts grown from it; sanitize sprouting equipment.
+  - Source: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/berlin-seeds-recalls-alfalfa-sprouting-seed-because-possible-health-risk
+
+- Dollar Tree electric balloon pumps - burn and fire hazard (NEW to this digest; CPSC recall Oct 1)
+  - What happened: about 360,500 pumps can overheat; 3 reports, including flames inside one unit and one that exploded; no injuries.
+  - Product: pink plastic high-pressure pump with blue handle and two nozzles, model 406198 on the silver label on the bottom and on the packaging; about $17.
+  - Where and when sold: Dollar Tree stores nationwide (including Toledo-area stores), dollartree.com and doordash.com, Aug 2025 to Jul 2026.
+  - What to do: stop using now; return to any Dollar Tree for a full refund (online buyers get a prepaid return label). Dollar Tree 877-530-8733, 7 a.m. to 11 p.m. ET daily, ddirect@dollartree.com.
+  - Source: https://www.cpsc.gov/Recalls/2027/Dollar-Tree-Stores-Recalls-Electric-Balloon-Pumps-Due-to-Burn-Hazard
+
+- Kids' products and HotHands hand warmers - stop use if you have them (ongoing)
+  - ABC Trading Squishy Dumpling / Crazy Squib Ball toys (about 37,000)
+    - Hazard: contain expanding water beads; swallowing can cause serious injury or death.
+    - What to do: take away from children, stop use, follow the refund steps in the notice.
+    - Source: https://www.cpsc.gov/Recalls/2027/ABC-Trading-Recalls-Squishy-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys
+  - LLK Trading Mochi Malrang Mystery Dumpling toys (about 480)
+    - Hazard: water beads, same risk as above.
+    - Source: https://www.cpsc.gov/Recalls/2027/LLK-Trading-Recalls-Mochi-Malrang-Mystery-Dumpling-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys
+  - GBYMIUY Magnetic Stick Figure Toy Sets (about 10,750; sold on Amazon)
+    - Hazard: loose high-powered magnets; swallowing can cause intestinal injury or death.
+    - What to do: take away from children; throw away; email a photo to zhangfa0426@outlook.com for a refund.
+    - Source: https://www.cpsc.gov/Recalls/2027/GBYMIUY-Recalls-Magnetic-Stick-Figure-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys
+  - HotHands rechargeable hand warmers, model H163650 (about 77,000; sold at Meijer, Target, Home Depot, Bass Pro and Amazon)
+    - Hazard: lithium battery can overheat or ignite.
+    - What to do: stop use; file a claim at https://hothands.com/recall-notice-rechargeable; dispose of as hazardous waste, not in the trash.
+    - Source: https://www.cpsc.gov/Recalls/2027/Kobayashi-Recalls-Rechargeable-Hand-Warmers-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards
+  - Also still active from earlier: ABC Trading light-up accessories (button batteries), Jerify magnets, Melissa & Doug Fire Truck Activity Board, Esjay/Lontcs busy boards.
+
+- Cherry Oil (Cherry St and Central Ave, Old West End area) gasoline release - repairs still underway (ongoing; last city update Oct 2)
+  - What happened: a hit-and-run driver struck pump 7 on Sep 20; gasoline entered sewers and neighbors reported fumes in homes.
+  - Latest: a contractor excavated the site and found the leak in the gasoline line and a break in the owner's sewer lateral; the property's sewer line is blocked so no gasoline can reach the city system; the station stays closed until repairs are done; city Environmental Services continues air monitoring. No new update since Oct 2.
+  - What to do if you smell gasoline indoors nearby: open a window, put a wet cloth around or refill drain P-traps, cover drains, and report it to Engage Toledo at 419-936-2020.
+  - Sources: https://toledo.oh.gov/news/2026/09/22/city-investigating-gasoline-odor-reports
+    https://www.13abc.com/2026/09/29/repairs-underway-toledo-gas-station-after-gas-leak-driver-still-missing/
+
+WORTH KNOWING (TOLEDO)
+- Recalls (Ohio, not Toledo stores)
+  - Saint Francis Apizza frozen pizzas - undeclared soy (NEW; FDA posted Oct 3)
+    - Products: Pepperoni, Plain Cheese, Supreme, and Mushroom & Onion frozen pizzas (label omits soybean oil and soy lecithin).
+    - Where: Cincinnati, Dayton and southwest Ohio shops (e.g., ETC Produce, Harvest Market in Milford, The Farm on Central in Carlisle). No Toledo-area outlets listed.
+    - What to do: anyone with a soy allergy shouldn't eat them; return or discard. No illnesses reported.
+    - Source: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/saint-francis-apizza-llc-issues-voluntary-recall-its-frozen-pizzas-missing-sub-ingredients-label-soy
+
+- Hazmat
+  - Brent Industries (2900 block of South Ave) cleanup - final stage (ongoing)
+    - Background: Aug 18 fire and building collapse at the textile reconditioning plant killed two people; mineral spirits tanks were on site.
+    - Latest (Oct 2): runoff contained, affected soil removed, tanks cleaned; Ohio EPA's contractor is waiting on waste-sample results to decide disposal, then expects to close the case. Air testing found no harmful levels; Hudson Ditch readings were clean. No community shelter-in-place.
+    - What to do: nothing for residents.
+    - Sources: https://toledo.oh.gov/news/2026/10/02/tfrd-responds-to-second-alarm-fire-on-south-ave
+      https://www.13abc.com/2026/10/02/brent-industries-cleanup-reaches-final-stage-weeks-after-deadly-explosion-toledo/
+
+- Lake Erie (updated)
+  - NOAA HAB bulletin (model updated Oct 5, 6 AM)
+    - The cyanobacteria bloom is still present in western Lake Erie; clouds and wind kept NOAA from measuring its size this time (last estimate about 260 sq mi on Oct 3).
+    - Where: Sep 29 imagery shows it offshore of Monroe, MI, extending north of the islands toward Colchester, ON, with patches along the Michigan and Ohio coasts, including Maumee Bay.
+    - Toxins detected below the recreational limit, but scums can be highly concentrated.
+    - What to do: keep yourself and pets out of any water with scum.
+    - Source: https://cdn.coastalscience.noaa.gov/hab-data/forecasts/LErie_forecast/web_latest/current_bulletin.pdf
+  - Toledo drinking water: the city reports tap water is safe; weekly microcystin testing continues at Collins Park.
+    - Source: https://toledo.oh.gov/residents/water/quality
+
+- Maumee River (ongoing)
+  - No new spill, fish kill or sewage notice in the last 48 hours.
+  - Toledo Harbor federal channel dredging (USACE, contractor Ryba Marine, about 750,000 cubic yards) continues through the fall into early 2027.
+    - Source: https://www.lrd.usace.army.mil/News/News-Releases/Display/Article/4614682/largest-great-lakes-dredging-operation-supports-1b-economic-impact/
+  - Swan Creek E. coli advisory still in effect
+    - Where: Swan Creek and its tributaries from Eastgate to the Maumee River, including Swan Creek Metropark, Highland, Sterling and Boeschenstein parks.
+    - What to do: avoid wading, swimming, fishing and other water contact until the health department lifts it.
+    - Source: https://lucascountyhealth.com/public-health-advisory-elevated-e-coli-levels-in-swan-creek-and-its-tributaries/
+
+- Air (today)
+  - AQI Good, around 33 at Toledo stations this morning (PM2.5 about 6 ug/m3). No ozone action day or wildfire-smoke alert.
+  - No refinery flaring or airborne hazmat notice for Toledo or Oregon.
+  - Mold: no outdoor spore count published for Toledo today; not guessing.
+  - Sources: https://www.airnow.gov/?city=Toledo&state=OH&country=USA
+    https://aqi.getambee.com/us/ohio/toledo
+
+- Roadwork (next 7 days and ongoing)
+  - Alexis Rd resurfacing, I-75 to Suder Ave (City of Toledo, began Jul 13)
+    - Crews work 7 p.m. to 6 a.m.; I-75 ramps at Alexis are closed during work hours.
+    - Source: https://toledo.oh.gov/residents/transportation-traffic/road-construction/major-roads-construction-list/alexis-2026
+  - Ohio Turnpike westbound Maumee River bridge (milepost 63) redecking through about Nov 15
+    - Two lanes each way, with occasional single-lane closures off-peak.
+    - Source: https://www.ohioturnpike.org/docs/default-source/news-release-documents/news-release--ohio-turnpike-announces-construction-projects-by-county-for-2026---04-22-26.pdf?sfvrsn=8a5dfac4_1
+  - Lucas County roundabout at Archbold-Whitehouse Rd and Providence-Neapolis-Swanton Rd
+    - Began mid-September for about 45 days (into late October); expect intersection closures and a detour.
+    - Source: https://www.lucascountyengineer.org/
+  - I-75 and I-475 corridors: seasonal work continues; check OHGO before driving.
+    - Source: https://ohgo.com/
+
+- Invasive species (ongoing)
+  - Spotted lanternfly egg-laying season (October to December)
+    - Statewide quarantine covers all 88 Ohio counties.
+    - What to do: scrape gray, waxy egg masses into soapy water or rubbing alcohol; check vehicles, firewood and outdoor gear before traveling; remove tree of heaven where you can.
+    - Sources: https://agri.ohio.gov/slf
+      https://www.dispatch.com/story/news/2026/10/01/spotted-lanternflies-breeding-ohio-counties-quarantine-spot-destroy-egg-masses/91806640007/
+
+- Lawsuits and claim deadlines (information only, not legal advice)
+  - Kroger prescription pricing settlement, Kirkbride et al. v. The Kroger Co., S.D. Ohio No. 2:21-cv-00022 (NEW to this digest)
+    - Who qualifies: people who paid for prescription drugs at Kroger using insurance during the class period (Toledo has several Kroger pharmacies).
+    - Deadlines: exclusion by Oct 22, 2026; claim form by Dec 21, 2026 (claims of $8,000 or more need payment records).
+    - Source: https://www.krogersavingsclubsettlement.com/
+  - Ohio AG generic drug price-fixing claims (ongoing)
+    - Who qualifies: Ohioans who bought certain generic drugs May 2009 to Dec 2019.
+    - How: www.AGGenericDrugs.com or 1-866-290-0182.
+    - Source: https://www.ohioattorneygeneral.gov/Media/News-Releases/September-2026/Consumer-Window-to-Submit-Claims-for-Inflated-Gene
+  - N.D. Ohio opioid third-party-payor settlement (ongoing)
+    - Claim deadline Dec 1, 2026.
+    - Source: https://tppopioidsettlement.com/file-a-claim/
+
+- Protests and demonstrations (next 7 days)
+  - No verified marches, rallies or strikes expected to close major Toledo-area roads through Oct 12.
+  - UT Banned Books Vigil, Wed Oct 8, Carlson Library: a campus library event, not a street protest.
+  - Looking ahead (outside this week): "No Kings: Vote Early Edition" sidewalk demonstration organized by Toledo Persists, Sat Oct 17, 10 a.m. to noon, Monroe St and Talmadge Rd; billed as peaceful with an early-voting push. Listed on event pages and the Lucas County Democratic Party site; no police traffic notice yet.
+    - Sources: https://allevents.in/toledo/no-kings-vote-early-edition/200030698171723
+      https://lucascountydemocraticparty.com/new-events/2026/10/17/no-kings-no-thrones-no-crowns
+
+EMERGING TECH WATCH
+- Geoengineering
+  - Ohio and Michigan bills (background, flagged first; no new action found in 48 hours)
+    - Ohio HB 290, the "Atmosphere Protection Act," would ban solar radiation modification, cloud seeding and sunlight-reflection methods with felony penalties. Introduced May 20, 2025; still in the House Natural Resources Committee (last hearing Feb 18, 2026).
+      - Source: https://ohiohouse.gov/legislation/136/hb290
+    - Michigan HB 4304 would ban intentional releases into the air meant to change weather or temperature. Introduced Mar 26, 2025; sitting in the Regulatory Reform Committee with no further action.
+      - Source: https://app.legiplex.com/mi/legislature/2025/2025-r/bills/hb4304
+  - Drone cloud seeding near Homer, Alaska draws local pushback (republished Oct 4; original story Sep 21)
+    - What happened: Rainmaker Technology Corp. (California) says it dispersed about 375 grams of silver iodide from a drone on Aug 23 near Kachemak Bay and produced about 19 million gallons of precipitation (roughly 0.01 inch over 100 square miles).
+    - Reaction: the Kenai Peninsula Borough mayor plans an ordinance for local oversight; state Rep. Sarah Vance sent a cease-and-desist letter; Alaska DEC is reviewing. The company says it had FAA approval and notified state land managers; the state's natural resources agency says it has no authority over cloud seeding and issued no specific permit.
+    - Confirmed vs. claimed: the operation and the official responses are confirmed; the rainfall amount is the company's own figure, and experts have long questioned how well seeding works.
+    - Source: https://www.adn.com/alaska-journal/news/2026/10/04/a-california-cloud-seeding-company-says-it-created-rain-near-homer-it-also-created-an-uproar/
+  - Malaysia steps up cloud seeding against haze (Oct 3)
+    - What happened: 14 government cloud-seeding operations with more than 50 flights by Sep 30, using salt-based wet and dry seeding, to boost rain, ease smoke haze from Indonesian peat fires and keep reservoirs up. The Sepang circuit's CEO said seeding could be done around the track before this weekend's Grand Prix.
+    - Source: https://www.malaymail.com/news/malaysia/2026/10/03/how-does-cloud-seeding-work-what-it-could-do-for-haze-at-sepang-this-weekend/237311
+
+- Smart Dust
+  - No confirmed new research, products, contracts or rules in the last 48 hours.
+  - Reliability note: social media posts claim the first human implant of "neural dust" happened in January 2026. No peer-reviewed or official source confirms it. Published work is still in animals or the lab, for example the DustNet ultrasonic implant network (arXiv).
+    - Source: https://arxiv.org/html/2511.14986v2
+
+- 6G Cellular
+  - Qualcomm and Ericsson announce a joint working 6G demonstration (Oct 3)
+    - What happened: the two companies say they have moved 6G "from concept to proof," calling it a path to commercialization.
+    - Context: this is pre-standard; 3GPP's first 6G specification is expected around 2028 and commercial networks around 2030. "Concept to proof" is the vendors' own wording.
+    - Source: https://telecomgazette.com/articles/qualcomm-and-ericsson-turn-6g-from-concept-into-working-proof-721200a5
+  - Background (from late September, not new in 48 hours)
+    - 3GPP's Madrid meetings agreed that 6G will share spectrum with 5G (called MRSS) as the baseline, but put off other 5G-to-6G migration choices to December in Boston. Formal 6G standards work starts in March 2027.
+      - Source: https://www.lightreading.com/6g/6g-talks-raise-more-questions-about-5g-migration
+    - T-Mobile asked the FCC for experimental licenses to test prototypes at 2.7 GHz and 4.8 to 4.9 GHz, Nov 2026 to Nov 2028; Verizon filed to test 6G-style object sensing at 4.8 to 4.9 GHz in Los Angeles. The FCC aims to auction the 2.7 GHz band in 2028, after the upper C-band in July 2027.
+      - Source: https://www.lightreading.com/6g/t-mobile-requests-to-test-2.7ghz-and-4ghz-in-6g-spectrum-pipeline
+  - Ohio: no new Toledo or Lucas County 6G sites or tower permits found. BGSU and Ohio State run 6G research programs (background).
+    - Source: https://www.bgsu.edu/news/2026/07/bgsu-research-helping-to-shape-the-future-of-wireless-infrastructure.html
+
+ALL CLEAR / NO CHANGE
+- Gas leaks: no new Columbia Gas emergencies, line strikes or gas explosions in Lucas or Wood counties.
+- Rail: no derailments in northwest Ohio or southeast Michigan.
+- Drinking water and crops: no boil or do-not-drink advisory for Toledo; the city says tap water is safe.
+- Water mains and sewers: no verified new main breaks, sewer collapses or sinkholes in the last 48 hours.
+- DUI checkpoints: no officially announced OVI checkpoints or saturation patrols in Lucas or Wood counties through Oct 12.
+- Kids / Poison Control: no new poison-center warnings; the toy recalls above are still active.
+- Maumee River: no new incidents; dredging and the Swan Creek advisory continue (above).
+- Lake Erie: bloom still present with toxins below the recreational limit; city water safe (above).
+- Air: Good AQI, no alerts, no mold count published (above).
+- Smart Dust: no confirmed new developments (above).
+
+SKY
+- Draconid meteor shower peak, evening of Wed Oct 8 (peak around 9 p.m. ET)
+  - Where to look: the northwest sky in early evening; the radiant is in Draco, high in the north.
+  - Naked eye: yes, but usually only a few meteors an hour. The Moon is a thin crescent (about 3 percent), so skies will be dark. New Moon is Oct 10.
+  - Sources: https://earthsky.org/astronomy-essentials/everything-you-need-to-know-draconid-meteor-shower/
+    https://www.timeanddate.com/astronomy/meteor-shower/draconid.html
+- Saturn, a day past opposition (Oct 4)
+  - Still at its brightest for 2026 (about magnitude 0.3) and up all night; look east after sunset for a steady golden "star" in Cetus. A small telescope shows the rings.
+  - Source: https://earthsky.org/astronomy-essentials/saturn-at-opposition-closest-brightest-best/
+- Aurora: NOAA logged a brief Kp 6 (G2) storm in the past day, and the forecast for Oct 5 to 7 tops out around Kp 4.7 (already reached late Sunday evening) and stays lower after, so northern Ohio is unlikely to see aurora this week.
+  - Source: https://services.swpc.noaa.gov/text/3-day-forecast.txt
+- Clouds: sunny and cool today (high in the mid-60s, low in the 40s) with clear skies tonight, which is good for Saturn.
+  - Source: https://www.foreca.net/United_States/Ohio/Toledo?details=20261005
+
+Sources checked: FDA, USDA FSIS, CPSC, City of Toledo, Toledo-Lucas County Health Department, 13abc/WTVG, NOAA NCCOS, NOAA SWPC, AirNow, USACE, Ohio Turnpike, Lucas County Engineer, ODOT/OHGO, Ohio Dept. of Agriculture, Ohio AG, Ohio House, Anchorage Press/ADN, Malay Mail, Light Reading, EarthSky, timeanddate. Nothing here is invented; verify recall details on the linked notices before acting.
