@@ -4,7 +4,7 @@ This is the standing instruction Raenie (C T's Grok Bot assistant) follows every
 
 - **Schedule:** every day at 7:30 AM Eastern, weekends included (`CRON_TZ=America/New_York 30 7 * * *`)
 - **Delivery:** emailed from ctfoughtiv@gmail.com to foughtct@gmail.com, plus a short summary in the Grok Bot chat
-- **Last updated:** Oct 4, 2026
+- **Last updated:** Oct 9, 2026
 
 ---
 
@@ -91,10 +91,12 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
   4. **Emerging Tech Watch:** Geoengineering, Smart Dust, and 6G Cellular subsections.
   5. **All clear / no change:** one bullet per quiet section. Maumee River, Lake Erie, and Air are always listed, and so is any quiet Emerging Tech topic.
   6. **Sky:** a lighter closing note.
-- **Bullets, full detail (C T's request, Oct 4, 2026):**
-  - Every item is its own bullet, with sub-bullets for the details: what happened, where, dates and times, who's affected, lot codes or product names, what to do, and the source link.
-  - Never drop or shorten details to save space, including for ongoing items. Carried-forward items keep their full details every day, marked "(ongoing)" or "(updated)".
-  - No paragraph blocks. Skip empty headings.
+- **Bullets, one email, long lists linked (C T's requests, Oct 4 and Oct 9, 2026):**
+  - Every item is its own bullet, with sub-bullets for what happened, where, dates and times, who's affected, the product name and brand, what to do, and the source link. No paragraph blocks. Skip empty headings.
+  - Every item appears in the email, including ongoing ones, marked "(ongoing)" or "(updated)". Never drop an item.
+  - Keep the email to ONE message under about 25,000 characters so it always sends. Long lot-code, UPC, NDC, model or serial-number lists (more than about three codes), long exposure-site lists, and extended background go ONLY in the full digest file. In the email, write "Lot codes and full details: <link>" pointing to that day's file.
+  - The full file is saved as /workspace/toledo-safety-digest/digest-YYYY-MM-DD.txt and committed and pushed to the repo BEFORE the email is sent. The link format is https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-YYYY-MM-DD.txt
+  - Before sending, check that the email body is under the limit and contains no placeholder text. Send exactly once, after checking Sent so it can't be duplicated.
 - Use plain language, with a source link on every item.
 
 ## Rules
@@ -118,3 +120,4 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
 - **Oct 4, 2026:**
   - Added the Emerging Tech Watch sections (geoengineering, smart dust, and 6G cellular), merged into this one morning email at C T's request instead of a separate digest.
   - Made the whole email bulleted, with full details kept for every item, including ongoing ones.
+- **Oct 9, 2026:** The email had grown too long to send (about 62,000 characters). It stays one bulleted email with every item, under about 25,000 characters, and long lot-code lists and extra background go in the day's file in this repo, with a link.
