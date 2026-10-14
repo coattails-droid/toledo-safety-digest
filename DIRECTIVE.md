@@ -79,6 +79,9 @@ Check the last 24 to 48 hours, and carry forward anything still active.
     - For each exposure site, list the place exactly as health officials named it, plus the date and time window, the date the 21-day symptom watch ends, and what to do (the contact form or phone number, call ahead before going in, check MMR). Include the source link.
     - Keep listing sites until their symptom watch ends. When nothing is active, give Measles a one-line entry in All clear.
 
+22. **Clothing recalls.** New and ongoing recalls of clothing, footwear and wearable accessories sold in the Toledo area or nationwide, including online. Sources include CPSC, Health Canada when it affects U.S. sales, and retailer notices. Typical hazards are children's sleepwear that fails flammability rules, drawstrings at the neck or waist, choking hazards from snaps and buttons, lead or chemicals, and cuts or falls from shoes.
+    - For each recall, give the brand and item, where and when it was sold, how to identify it (style or lot numbers, with long lists kept in the repo file), the hazard, what to do (stop using it, plus the refund or replacement details), and the source link.
+
 ### Emerging Tech Watch (sections 17 to 19)
 
 For each of these, cover new developments from the last 24 to 48 hours and flag anything specific to Ohio, Michigan, or the Great Lakes first. Use neutral, factual wording. Separate confirmed developments (official records, filings, standards documents, peer-reviewed work, credible reporting) from claims such as "chemtrail" allegations or speculative health and conspiracy theories. Label anything that rests only on social media or unverified sources with a short reliability note, and never present it as fact. Watch for old stories recirculated as new.
@@ -134,3 +137,4 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
 - **Oct 9, 2026:** The email had grown too long to send (about 62,000 characters). It stays one bulleted email with every item, under about 25,000 characters, and long lot-code lists and extra background go in the day's file in this repo, with a link.
 - **Oct 13, 2026:** Added section 20, Missing persons and missing children (official alerts and police requests only), at C T's request.
 - **Oct 13, 2026:** Added section 21, Measles, at C T's request. It goes at the top whenever measles news is active and covers Ohio case counts, new counties and NW Ohio exposure sites.
+- **Oct 13, 2026:** Added section 22, Clothing recalls, at C T's request.
