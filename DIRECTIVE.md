@@ -4,7 +4,7 @@ This is the standing instruction Raenie (C T's Grok Bot assistant) follows every
 
 - **Schedule:** every day at 7:30 AM Eastern, weekends included (`CRON_TZ=America/New_York 30 7 * * *`)
 - **Delivery:** emailed from ctfoughtiv@gmail.com to foughtct@gmail.com, plus a short summary in the Grok Bot chat
-- **Last updated:** Oct 9, 2026
+- **Last updated:** Oct 13, 2026
 
 ---
 
@@ -68,6 +68,12 @@ Check the last 24 to 48 hours, and carry forward anything still active.
     - Give the time in ET, where to look, whether it's visible to the naked eye, and the cloud outlook.
     - Verify every date with NASA, NOAA, timeanddate.com, Sky & Telescope, or EarthSky.
 
+20. **Missing persons and missing children.** Officially issued alerts and police requests for help finding missing people in Toledo, Lucas and Wood counties, and nearby northwest Ohio and southeast Michigan (Monroe County), from the last 7 days, plus any still-active AMBER Alert or Endangered Missing Adult Alert affecting the area.
+    - Sources: Ohio AMBER Alert, Ohio Endangered Missing Adult and Missing Child alerts, the Ohio Attorney General's Missing Persons Unit, Toledo Police, the Lucas and Wood County sheriffs, suburban police, Michigan State Police, NCMEC, and local news reporting police requests.
+    - For each person, give what police released: name, age, physical description and clothing, when and where last seen, any vehicle, whether police call them endangered, and the phone number to call (or 911). Include the official source link.
+    - An active AMBER Alert or endangered missing person in the area goes in Needs attention. Others go in Worth knowing.
+    - When police report someone found, say so once ("found safe" or "located" as officially worded) and then drop them. Share only what police published. Don't speculate about circumstances, and don't include unverified social posts.
+
 ### Emerging Tech Watch (sections 17 to 19)
 
 For each of these, cover new developments from the last 24 to 48 hours and flag anything specific to Ohio, Michigan, or the Great Lakes first. Use neutral, factual wording. Separate confirmed developments (official records, filings, standards documents, peer-reviewed work, credible reporting) from claims such as "chemtrail" allegations or speculative health and conspiracy theories. Label anything that rests only on social media or unverified sources with a short reliability note, and never present it as fact. Watch for old stories recirculated as new.
@@ -121,3 +127,4 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
   - Added the Emerging Tech Watch sections (geoengineering, smart dust, and 6G cellular), merged into this one morning email at C T's request instead of a separate digest.
   - Made the whole email bulleted, with full details kept for every item, including ongoing ones.
 - **Oct 9, 2026:** The email had grown too long to send (about 62,000 characters). It stays one bulleted email with every item, under about 25,000 characters, and long lot-code lists and extra background go in the day's file in this repo, with a link.
+- **Oct 13, 2026:** Added section 20, Missing persons and missing children (official alerts and police requests only), at C T's request.
