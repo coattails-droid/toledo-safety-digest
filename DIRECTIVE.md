@@ -82,6 +82,16 @@ Check the last 24 to 48 hours, and carry forward anything still active.
 22. **Clothing recalls.** New and ongoing recalls of clothing, footwear and wearable accessories sold in the Toledo area or nationwide, including online. Sources include CPSC, Health Canada when it affects U.S. sales, and retailer notices. Typical hazards are children's sleepwear that fails flammability rules, drawstrings at the neck or waist, choking hazards from snaps and buttons, lead or chemicals, and cuts or falls from shoes.
     - For each recall, give the brand and item, where and when it was sold, how to identify it (style or lot numbers, with long lists kept in the repo file), the hazard, what to do (stop using it, plus the refund or replacement details), and the source link.
 
+23. **Recall category checklist.** Every day, the recall coverage (section 1 and section 22) must check each of these categories and report new or ongoing recalls under labeled sub-bullets:
+    - Food and beverages (FDA, USDA FSIS)
+    - Medications and supplements (FDA)
+    - Children's toys and products (CPSC)
+    - Car seats and strollers (NHTSA, CPSC)
+    - Electronics with battery or fire risk (CPSC)
+    - Household appliances (CPSC)
+    - Clothing (section 22)
+    - Each recall gives what it is, how to identify it, the hazard, what to do, and the source. Quiet categories get one all-clear line together.
+
 ### Emerging Tech Watch (sections 17 to 19)
 
 For each of these, cover new developments from the last 24 to 48 hours and flag anything specific to Ohio, Michigan, or the Great Lakes first. Use neutral, factual wording. Separate confirmed developments (official records, filings, standards documents, peer-reviewed work, credible reporting) from claims such as "chemtrail" allegations or speculative health and conspiracy theories. Label anything that rests only on social media or unverified sources with a short reliability note, and never present it as fact. Watch for old stories recirculated as new.
@@ -138,3 +148,4 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
 - **Oct 13, 2026:** Added section 20, Missing persons and missing children (official alerts and police requests only), at C T's request.
 - **Oct 13, 2026:** Added section 21, Measles, at C T's request. It goes at the top whenever measles news is active and covers Ohio case counts, new counties and NW Ohio exposure sites.
 - **Oct 13, 2026:** Added section 22, Clothing recalls, at C T's request.
+- **Oct 13, 2026:** Added section 23, a recall category checklist (food and beverages, medications and supplements, children's toys and products, car seats and strollers, electronics with battery or fire risk, household appliances), at C T's request.
