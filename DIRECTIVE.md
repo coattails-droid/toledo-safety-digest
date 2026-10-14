@@ -92,6 +92,10 @@ Check the last 24 to 48 hours, and carry forward anything still active.
     - Clothing (section 22)
     - Each recall gives what it is, how to identify it, the hazard, what to do, and the source. Quiet categories get one all-clear line together.
 
+24. **Toyota recalls.** New and ongoing Toyota and Lexus vehicle recalls, parts and equipment recalls, and other Toyota safety notices, such as do-not-drive or park-outside warnings, investigations and technical service campaigns that affect safety. Sources are NHTSA (recalls and investigations) and Toyota's own recall announcements (pressroom.toyota.com and toyota.com/recall).
+    - For each item, give the models and model years, the number of vehicles if stated, the defect and its risk, the remedy and when owners will be notified, the NHTSA campaign number, and how to check a VIN (nhtsa.gov/recalls or toyota.com/recall). Include the source link. Keep long VIN or part lists in the repo file.
+    - Urgent do-not-drive or fire warnings go in Needs attention. Everything else goes with the recalls. On quiet days, give it one all-clear line.
+
 ### Emerging Tech Watch (sections 17 to 19)
 
 For each of these, cover new developments from the last 24 to 48 hours and flag anything specific to Ohio, Michigan, or the Great Lakes first. Use neutral, factual wording. Separate confirmed developments (official records, filings, standards documents, peer-reviewed work, credible reporting) from claims such as "chemtrail" allegations or speculative health and conspiracy theories. Label anything that rests only on social media or unverified sources with a short reliability note, and never present it as fact. Watch for old stories recirculated as new.
@@ -149,3 +153,4 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
 - **Oct 13, 2026:** Added section 21, Measles, at C T's request. It goes at the top whenever measles news is active and covers Ohio case counts, new counties and NW Ohio exposure sites.
 - **Oct 13, 2026:** Added section 22, Clothing recalls, at C T's request.
 - **Oct 13, 2026:** Added section 23, a recall category checklist (food and beverages, medications and supplements, children's toys and products, car seats and strollers, electronics with battery or fire risk, household appliances), at C T's request.
+- **Oct 13, 2026:** Added section 24, Toyota recalls and safety notices (NHTSA and Toyota), at C T's request.
