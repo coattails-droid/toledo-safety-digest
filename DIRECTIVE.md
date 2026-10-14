@@ -74,6 +74,11 @@ Check the last 24 to 48 hours, and carry forward anything still active.
     - An active AMBER Alert or endangered missing person in the area goes in Needs attention. Others go in Worth knowing.
     - When police report someone found, say so once ("found safe" or "located" as officially worded) and then drop them. Share only what police published. Don't speculate about circumstances, and don't include unverified social posts.
 
+21. **Measles (top priority).** Whenever there is any active measles news, put a Measles block first in the email, right after the summary and ahead of everything else, including other Needs attention items. Missing-person AMBER or endangered alerts are the only thing that can come before it.
+    - Scope: Ohio's statewide measles case count and what changed since the last report (from ODH), newly affected counties, outbreak declarations, and every new or still-open exposure-site listing anywhere in northwest Ohio (Lucas, Wood, Hancock, Fulton, Henry, Ottawa, Sandusky, Seneca, Williams, Defiance, Putnam and nearby counties). Include Monroe County, Michigan when it affects the Toledo area.
+    - For each exposure site, list the place exactly as health officials named it, plus the date and time window, the date the 21-day symptom watch ends, and what to do (the contact form or phone number, call ahead before going in, check MMR). Include the source link.
+    - Keep listing sites until their symptom watch ends. When nothing is active, give Measles a one-line entry in All clear.
+
 ### Emerging Tech Watch (sections 17 to 19)
 
 For each of these, cover new developments from the last 24 to 48 hours and flag anything specific to Ohio, Michigan, or the Great Lakes first. Use neutral, factual wording. Separate confirmed developments (official records, filings, standards documents, peer-reviewed work, credible reporting) from claims such as "chemtrail" allegations or speculative health and conspiracy theories. Label anything that rests only on social media or unverified sources with a short reliability note, and never present it as fact. Watch for old stories recirculated as new.
@@ -128,3 +133,4 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
   - Made the whole email bulleted, with full details kept for every item, including ongoing ones.
 - **Oct 9, 2026:** The email had grown too long to send (about 62,000 characters). It stays one bulleted email with every item, under about 25,000 characters, and long lot-code lists and extra background go in the day's file in this repo, with a link.
 - **Oct 13, 2026:** Added section 20, Missing persons and missing children (official alerts and police requests only), at C T's request.
+- **Oct 13, 2026:** Added section 21, Measles, at C T's request. It goes at the top whenever measles news is active and covers Ohio case counts, new counties and NW Ohio exposure sites.
