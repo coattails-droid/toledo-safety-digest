@@ -1,0 +1,204 @@
+Toledo Daily Digest + Emerging Tech Watch - Sunday, October 18, 2026
+
+SUMMARY
+- No shelter-in-place, evacuation or water order today; no AMBER or endangered alerts for the area. Measles: Van Wert County's case still has no public exposure sites (free MMR clinic Thu Oct 22); Ohio unchanged at 252 cases in 23 counties. Needs attention: Freeze Warning until 9 a.m. (patchy frost again early Monday); the Kayem/Al Fresco ready-to-eat meat recall is now USDA Class I, about 1.58 million pounds shipped nationwide. Air Good. Today: Immigration Solidarity Walk 1-3 p.m. (no closures). Coming up: rally at 115 S. St. Clair Wed 4-6 p.m.; Kroger Rx settlement opt-out deadline Thu. Tech: ocean carbon-removal study collection; One Earth sun-dimming editorial; China Mobile HK upper-6 GHz network. Sky: First Quarter Moon today; ISS Mon 6:42 a.m.; Orionids Oct 20-22.
+- Lot codes, site lists and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-10-18.txt
+
+MEASLES (top priority; no new NW Ohio sites)
+- Van Wert County: first confirmed case (ongoing; health district Oct 16)
+  - Still investigating exposures and notifying contacts; no public exposure sites listed yet (checked Oct 18). Public risk called low.
+  - Free vaccination clinic for possibly exposed people: Thu Oct 22, 2-4 p.m., Willshire Village Community Park, 206 Walcott St. Questions: 419-238-0808.
+  - Source: https://thevwindependent.com/news/2026/10/16/measles-case-confirmed-in-van-wert-county/
+- Ohio statewide (ongoing; ODH dashboard unchanged since Oct 15)
+  - 252 cases in 23 counties, 24 new in the week to Oct 15; Medina (15) and Pike (1) newest. Some outlets cite 254. Geauga 52, Wayne 45, Ashtabula 44. No Ohio deaths. Indiana: 40 cases.
+  - Source: https://www.cantonrep.com/story/news/2026/10/16/ohio-measles-cases-grow-medina-county-2026-outbreak/92265791007/
+  - Reliability note: "180 cases in 14 counties" stories use outdated Sep 23 numbers.
+- NW Ohio exposure sites still open (no new listed sites; checked Oct 18)
+  - Wood County: Falcon Health Center, Sep 28, 10 a.m.-2 p.m. (watch to ~Oct 19, tomorrow). Form: https://woodcountyhealth.org/measles-resources/ (419-352-8402)
+  - Hancock County (Findlay): NWO Urgent Care, Sep 29, 2:30-5:30 p.m.; Blanchard Valley Hospital ED, Sep 29, 3:30-6:30 p.m. (watch to ~Oct 20). Close Contact Investigation Form at hancockph.com.
+  - Lucas County and Monroe County, MI: nothing new.
+- What to do: watch for fever, runny nose, cough, red eyes, then rash, up to 21 days after exposure. Call ahead before going to a clinic or ER. Check your MMR status.
+
+NEEDS ATTENTION
+- Freeze Warning until 9 a.m. today (updated; NWS Cleveland, reissued 2:35 a.m.)
+  - Lows as low as 30 in NW Ohio; widespread frost before 10 a.m., then sunny, high ~63. Can kill plants and damage unprotected outdoor plumbing.
+  - What to do: keep plant covers on until mid-morning; check outdoor faucets and hoses before use; scrape windshields fully. Patchy frost again after 5 a.m. Monday (low ~36), so cover tender plants tonight too.
+  - Source: https://forecast.weather.gov/MapClick.php?lat=41.66&lon=-83.56
+
+- Kayem Foods ready-to-eat meat and poultry - now USDA Class I, ~1.58 million lb, nationwide (updated; FSIS Oct 17)
+  - Possible temperature abuse in a warehouse cooler; products made about Mar 31-Oct 7, 2026; shipped to retail and foodservice nationwide. No confirmed illnesses. Toledo-area stores not yet listed; FSIS will post retail lists.
+  - Identify: EST. M/P 7839, EST. P 20935A or EST. M 9520 in the USDA mark. Named so far: Kayem Pork & Beef Cocktail Franks 14 oz; Kayem Maplewood, Applewood and Maplewood Double Smoked Thick Cut Bacon 12 oz; Al Fresco Roasted Garlic, Sweet Italian and Sweet Apple chicken sausage 11 oz; Al Fresco Apple Breakfast Sausage 7.5 oz; other Kayem franks, patties, meatballs, loaves and liverwurst. UPCs and lots in the full file.
+  - What to do: don't eat; discard or return. Kayem 800-426-6100 / info@kayem.com; USDA hotline 888-674-6854.
+  - Source: https://www.fsis.usda.gov/recalls-alerts/kayem-foods-inc--recalls-meat-and-poultry-products-due-possible-temperature-abuse
+
+- Starfish Seafood Premium Cold Smoked Norwegian Salmon, sliced 8 oz - Listeria; sold in Ohio (ongoing; FDA Oct 16)
+  - Frozen, vacuum-sealed; UPC 4751048940099; lot D080-148, best before 27.11.2027; from Latvia. Distributed in NY, FL, GA, NJ, PA and OH. No illnesses.
+  - What to do: don't eat; return for refund. Krasnyi Oktyabr 718-858-6720. Highest risk: pregnancy, older adults, weak immune systems.
+  - Source: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/krasnyi-oktyabr-inc-recalls-starfish-seafood-premium-cold-smoked-norwegian-salmon-sliced-227g8oz
+
+- Toyota Land Cruiser 2024-2027 - fuel leak / fire risk (ongoing; Toyota Oct 14)
+  - Fuel tube connection near the tank can come apart and leak fuel until the hybrid system shuts the engine off; fire risk near an ignition source. About 106,000 U.S. vehicles.
+  - Free clamp (or fuel tube replacement); letters by mid-December. No do-not-drive/park-outside instruction; if you smell fuel, don't drive it. NHTSA number still not posted (checked Oct 18).
+  - Check VIN: https://www.toyota.com/recall or https://www.nhtsa.gov/recalls ; 1-800-331-4331.
+  - Source: https://pressroom.toyota.com/toyota-recalls-certain-my2024-2027-land-cruiser-vehicles/
+
+- CPSC Oct 15 recalls and warnings (ongoing; full details in the full file)
+  - 3M Scotch thermal laminators, model TL1302Z (Amazon): fire; unplug, register for refund at https://www.scotchbrand.com/3M/en_US/scotch-brand/tl1302Z-laminator-recall/
+  - Papablic bedside sleepers, model PAPA03001AI: infant entrapment/suffocation; stop use; refund via support@papablic.com.
+  - Tristar Power Quick Pot 6-qt pressure cookers, model Y6D-36: lid can open under pressure, 24 serious burns; NO recall; stop using and throw away.
+  - Kalorik MAXX / MAXX Advance French-door air fryer ovens: doors snap shut, burns; NO recall; stop using and dispose.
+  - bblüv high chairs (restraint problems) and Chalsea 4-drawer metal dressers, models WF-CT03WH01/WF-CT03BG01 (tip-over): NO recall; stop use; dispose or anchor dresser.
+  - Source: https://www.cpsc.gov/Recalls
+
+- Ongoing recalls still active (each: hazard; what to do; full IDs, lot codes and links in the full file)
+  - Romorgniz six-drawer dressers (CPSC Oct 8): tip-over; stop use unless anchored; refund via Romorgnizrecall@outlook.com.
+  - Decathlon Van Rysel GRVL AF gravel bikes, sold at REI (CPSC Oct 8): front wheel can loosen; stop riding; free REI fork repair.
+  - ONTHEWEI baby bath seats, model MY002 (CPSC Oct 8): drowning risk; stop use; refund via onthewei@outlook.com.
+  - PACEARTH swing seats (CPSC Oct 8): parts can break, 9+ injuries; stop use; refund via recall@pacearth.com.
+  - Babies' Magic Tea Baby Sleep Gripe Water, lot 25122bw (FDA Oct 7): undeclared ethanol, methanol, isopropanol; stop giving; Poison Control 1-800-222-1222.
+  - K.C. Pharmaceuticals store-brand eye drops at Kroger, Walgreens, Walmart Equate, Target up & up, CVS Leader, Discount Drug Mart (FDA Class II Oct 5): sterility not assured; match lot; stop use; ask pharmacist.
+  - Amazon Basic Care Extra Strength Acetaminophen 500 mg, NDC 72288-692 (FDA Oct 2): discolored tablets; check lot; don't take; Amazon refund.
+  - Gardeners Basics Waltham 29 broccoli sprouting seeds, lot W4105 (FDA Oct 8): Salmonella outbreak strain (32 sick in six states); discard; refund info@gardenersbasics.com.
+  - Eden Brothers, Home Grown (lot AUG172026) broccoli seeds and Berlin Seeds alfalfa seed (lot SAL2-24JB): Salmonella/STEC; discard seeds and sprouts.
+  - Great Value and Trader Joe's frozen organic berries (sold OH/MI): E. coli O145:H28; check lots; discard or return.
+  - Bettergoods Lemon Alfredo Fettuccine 22 oz (Walmart, UPC 194346442706): Listeria; discard or return.
+  - Graziers raw-milk cheeses (Class I; MI in outbreak): E. coli O26:H11; discard; sanitize surfaces.
+  - DR Power Pilot/Premier trimmer mowers (CPSC Oct 8): fire; stop use; free repair kit 800-854-3194.
+  - Walmart Expert Grill wire-bristle brushes (CPSC Oct 1): bristles can be swallowed; Walmart refund 800-925-6278.
+  - Cupcakes and Cashmere three-light floor lamps from HomeGoods, models 7927-OZ/-OZ1 (CPSC Oct 1): fire; unplug; refund via designsdirectllc.com/recalls.
+  - Dollar Tree electric balloon pumps, model 406198 (CPSC Oct 1): burn/fire; return to Dollar Tree.
+  - Kids' items: Conqueror Avengers medals (magnets), Giant SureLock LED keys (button cells), water-bead and magnet toys, HotHands H163650 and Gobi Heat UT3053 hand warmers, Mbabyjon crib bumpers (throw away).
+  - Sources: https://www.cpsc.gov/Recalls and https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts
+
+- Cherry Oil (Cherry & Central, Old West End) gasoline release - repairs ongoing (ongoing; last city update Oct 2; nothing newer Oct 18)
+  - Hit-and-run Sep 20; leak and broken sewer lateral found; station closed; EPA/city oversight continues.
+  - If you smell gasoline indoors nearby: open window; wet cloth/refill P-traps; cover drains; Engage Toledo 419-936-2020.
+  - Sources: https://toledo.oh.gov/news/2026/09/22/city-investigating-gasoline-odor-reports
+    https://www.13abc.com/2026/09/29/repairs-underway-toledo-gas-station-after-gas-leak-driver-still-missing/
+
+WORTH KNOWING (TOLEDO)
+- Recalls by category (daily checklist)
+  - Food and beverages: UPDATED Kayem/Al Fresco (now Class I) and ongoing Starfish salmon (Needs attention). NEW, not sold in Ohio/Michigan: Lidl Gelatelli Coffee & Vanilla Gelato (Listeria; 9 eastern states and DC; details in full file).
+  - Medications and supplements: no new FDA recalls Oct 16-18. Ongoing: Par Health argatroban (hospital-only; lots in full file); Edwards Commander M mitral valve delivery systems (hospital device; 4 lots, under 200 units).
+  - Car seats and strollers: Britax B-Safe 35, B-Safe Ultra, B-Safe Gen2 / FlexFit / FlexFit Plus and Endeavours infant seats made Aug 17, 2020-May 16, 2023 (ongoing; NHTSA 26C006000; 114,660 seats). Carry-handle screw can loosen and the handle detach (fall risk). Keep using it installed in a car or on a stroller but don't carry it by the handle. Free clip kit: https://www.crshubrecall.com or 1-888-427-4829. Model numbers in full file.
+  - Children's toys and products (ongoing; Oct 15 batch): Primark 101 Dalmatians children's coin purses (phthalates; model 2595301); return to Primark. Also the sleeper, high chair and dresser items in Needs attention.
+  - Household appliances (ongoing): Tristar pressure cookers, Kalorik air fryer ovens (Needs attention); Snow Peak inserts; DR Power mowers.
+  - Electronics with battery or fire risk (ongoing): 3M Scotch laminators (Needs attention); HotHands/Gobi Heat hand warmers; Dollar Tree balloon pumps; Cupcakes and Cashmere lamps.
+  - Other Oct 15 CPSC recalls (ongoing): HatsanUSA Blitz / Blitz 777 air rifles (can fire unexpectedly; free trigger fix 877-750-3375); Loving Thyself Rocks crystal glass cups; usOpal Xalirium adult bed rails. No new CPSC batch since Thursday.
+  - Clothing and footwear: nothing new (all clear).
+  - Source index: https://www.cpsc.gov/Recalls and https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts
+
+- Toyota and Lexus recalls (ongoing; nothing new Oct 17-18)
+  - Land Cruiser 2024-2027 fuel leak (Needs attention).
+  - 2026 RAV4 Plug-In Hybrid - loss of drive power (ongoing; Oct 7): 30,978 vehicles; free ECU software update; letters from Nov 22. NHTSA 26V659000. https://pressroom.toyota.com/toyota-recalls-certain-my2026-toyota-rav4-plug-in-hybrid-electric-vehicles/
+  - 2026 Grand Highlander and Lexus RX/TX - steering knuckles may crack (ongoing): 617 vehicles; free fix; letters Nov 2. NHTSA 26V598000. https://www.usatoday.com/recalls/automotive/NHTSA-26V598000/
+  - Older (awareness): 2026 C-HR braking software (Sep 2); 2021-2025 Highlander seat recliner (Sep 9). Check VIN: nhtsa.gov/recalls or toyota.com/recall.
+
+- Other recalls still active (ongoing)
+  - RAPTURE pre-workout with DMAA (lot 260327-4). Ritchey carbon forks. Snow Peak Takibi inserts/lava rocks. Gatorade 28 oz undeclared Yellow 5/6 (OH/MI). Star Meat Delivery uninspected meat. Agrish / YunHeng adult bed rails. Golden Resale camping showers; Gazelle Urban Arrow e-bikes.
+  - Lot codes, limited-geography items and full details: full file (link at top).
+
+- Hazmat
+  - Perrysburg Wastewater Treatment Plant (ongoing; Oct 16): hydrogen sulfide and methane released inside the plant; one building evacuated; all clear about 3 p.m. City says no public danger and water is safe; cause under investigation. https://www.wtol.com/article/news/local/no-danger-to-public-after-chemical-leak-at-perrysburg-wastewater-facility-water-is-safe-to-drink/512-e8610660-adf3-44e4-8287-25dc1706d8e4
+  - Brent Industries, South Ave (ongoing; no new agency response)
+    - Independent tester Scott Smith told a Thursday town hall that post-fire soot/soil samples exceeded EPA cancer screening levels (benzo[a]pyrene ~8x). Preliminary; more sampling planned; he suggested replacing furnace filters.
+    - Ohio EPA and the city still report no air or water hazards. No official order.
+    - Source: https://www.wtol.com/article/tech/science/environment/scientist-shares-results-from-independent-testing-done-near-brent-industries-fire-and-explosion-site/512-63f863a1-2b44-4b31-b03d-a20c8c1308e2
+    - Reliability note: aggregator pages claiming new Brent explosions recycle Aug 18.
+    - Added detail: a local newsletter (This Week in Toledo, Oct 17) gives Smith's figures as dioxin 26 ppt and benzo(a)pyrene 800 ppb vs. EPA screening values of 4.8 ppt and 110 ppb. Independent, preliminary; not agency findings. https://toledo.substack.com/p/october-17-2026
+
+- Rail: fatal train-pickup crash, Albon Rd near Airport Hwy, Springfield Twp (ongoing; Oct 11; no new OSHP update Oct 18)
+  - Pickup drove through lowered gates into a train; driver Michael Jones, 57, of Monclova, died. Not a derailment; no hazmat. Never go around lowered gates. https://www.13abc.com/2026/10/12/man-killed-railroad-crash-albon-road/
+  - Context (ongoing): Genoa Twp MI (Oct 7), Vermilion coal spill (Oct 6), Ecorse MI (Oct 4); details in full file.
+
+- Kids / Poison Control
+  - Ongoing: concentrated 7-OH kratom products (gummies, shots, capsules, teas sold at gas stations and smoke shops) have strong opioid-like effects and can look like candy; Michigan counted 69 child kratom exposures in 2025. Keep away from kids; 911 for slow breathing. https://www.poison.med.wayne.edu/poison-periodical-fall-26/kratom-and-concentrated-7-oh-products-what-you-need-to-know
+  - Heads-up: National Lead Poisoning Prevention Week is Oct 25-31; ask about a child blood lead test if your home predates 1978. https://www.msms.org/news/national-lead-poisoning-prevention-week
+  - Ongoing: fake "Cat's Claw" supplements laced with kratom-derived opioids are causing overdoses nationwide (4 deaths in Utah). Implicated: Buzzers and Homiez brands (vape shops, gas stations). Stop use; keep from kids; 911 and naloxone for slow breathing. https://www.wapc.org/insights/safety-alert-fake-cats-claw/
+  - Ongoing: Benadryl Challenge (lock up OTC meds); cannabis edibles away from Halloween candy. Poison Help 1-800-222-1222.
+
+- Lake Erie (updated)
+  - No marine advisories for Maumee Bay to The Islands this morning; yesterday's Small Craft Advisory has ended.
+  - NOAA HAB (model updated Oct 18): bloom present, Monroe MI to Leamington ON, patches possible in Maumee Bay; toxins below recreational limit; avoid scum. https://cdn.coastalscience.noaa.gov/hab-data/forecasts/LErie_forecast/web_latest/current_bulletin.pdf
+  - Toledo tap water safe; no boil advisory. Maumee Bay State Park beach algal toxin advisory since mid-Sept (check BeachGuard). No new EPA/EGLE notices.
+
+- Maumee River (ongoing)
+  - No new spill/fish kill/sewage notice. Toledo Harbor dredging into early 2027. Swan Creek E. coli advisory still in effect (Eastgate to Maumee River); avoid water contact. https://lucascountyhealth.com/public-health-advisory-elevated-e-coli-levels-in-swan-creek-and-its-tributaries/
+
+- Air (today): GOOD at 7 a.m. - PM2.5 AQI 29, ozone 12, PM10 8; yesterday Good. No ozone, smoke, flaring or airborne hazmat notices. No mold count published (not guessing). https://www.airnow.gov/?city=Toledo&state=OH&country=USA
+
+- Weather (updated): frost this morning, then sunny, high ~63; patchy frost early Monday and Tuesday; sunny, highs 66-68. https://forecast.weather.gov/MapClick.php?lat=41.66&lon=-83.56
+
+- Water mains and sewers
+  - Ongoing: W. Delaware Ave sinkhole (central Toledo): repair waits on Columbia Gas, whose crews are expected early this week, then sewer repair. No leak reported. Follow barricades; report sinkholes to Engage Toledo 419-936-2020. https://www.wtol.com/article/tech/science/environment/sinkhole-repairs-on-west-delaware-ave-in-toledo-expected-to-begin-soon-columbia-gas/512-e9364c19-2941-459b-948a-28e086fc464b
+  - Ongoing: Sylvania Township broken water line (13abc video Oct 16); no follow-up or boil advisory found. https://www.13abc.com/video/2026/10/16/broken-line-sends-water-shooting-into-air-sylvania-twp/
+  - Ongoing: Lucas County courthouse building boil advisory after Oct 13 leak; don't drink from its fountains. https://www.toledoblade.com/local/courts/2026/10/13/courthouse-reopen-after-water-repair/stories/20261013096
+
+- Roadwork (next 7 days)
+  - NEW to digest: Nantuckett Drive one-day paving closure (Blade Oct 14; date not in accessible text; watch for signs). https://www.toledoblade.com/local/transportation/2026/10/14/paving-to-close-nantuckett-drive-for-1-day/stories/20261014101
+  - UT Stadium Drive closed through morning Wed Oct 21 (South Glass Bowl Dr to Area 10 north entrance); use Douglas Rd for Area 5.
+  - US 20A/Strayer Rd roundabout (Monclova) and OH 199 north of US 6 were listed to reopen Oct 16; still not confirmed.
+  - Executive Parkway (Central-Secor): confusing work zone, wrong-way drivers reported; follow cones; done by end of October.
+  - Ongoing (details in full file): SB I-75 at Bays Rd lane; US 20 Perrysburg-Maumee bridge; OH 235/Kellogg stop Oct 27; Hamilton St; Woodville Rd; Huron St; Turnpike bridge; Arlington Ave; Alexis Rd nights; Perrysburg e-bike registration. Live: https://ohgo.com/
+
+- Other local notices
+  - Tent City on Jackson St downtown wraps up this morning.
+  - Council Flock camera resolution, possible vote Tue Oct 20 (ongoing): five members sponsor ending the contracts; police credit a Flock hit with finding missing children this week; critics cite privacy. https://www.13abc.com/2026/10/17/toledo-police-use-flock-camera-locate-three-missing-children/
+  - Sylvania Township fall leaf pickup starts Mon Oct 19. Lucas County EMA alert survey: https://arcg.is/X0uWi1
+
+- Invasive species (ongoing): spotted lanternfly egg-laying season; Ohio-wide quarantine; Monroe MI populations; new Michigan find in Berrien County (Sep 28). Scrape egg masses; check vehicles and firewood. https://agri.ohio.gov/slf
+
+- Lawsuits (info only, not legal advice; ongoing)
+  - Kroger Rx pricing settlement: exclusion by Thu Oct 22 (4 days); claims by Dec 21; hearing Jan 11, 2027. https://www.krogersavingsclubsettlement.com/
+  - Ohio AG generics: AGGenericDrugs.com / 1-866-290-0182. N.D. Ohio opioid TPP claims by Dec 1.
+
+- Protests / civic (next 7 days)
+  - No verified road-closing marches through Oct 25. Coca-Cola Teamsters picket ongoing (workplace).
+  - TODAY 1-3 p.m.: "Immigration Solidarity Walk," Sofia Quintero Center, 1222 Broadway (Toledo Immigrant Alliance); route and size not given; no closure notice.
+  - NEW: Wed Oct 21, 4-6 p.m.: campaign rally for Marcy Kaptur with the AFT bus tour, Toledo Federation of Teachers, 115 S. St. Clair St. (Lucas County Democratic Party listing); no closure notice. https://lucascountydemocraticparty.com/new-events/2026/10/21/rally-for-marcy-kaptur-with-the-aft-bus-tour
+  - Early voting: 3737 W. Sylvania Ave (Entrance C). https://toledovotes.com/early-absentee-voting-info/
+
+EMERGING TECH WATCH
+- Geoengineering
+  - Ohio HB 290 / Michigan HB 4304: no new action (checked Oct 18).
+  - NEW: an 11-study Frontiers in Environmental Engineering collection on ocean carbon removal (alkalinity enhancement, direct ocean capture, iron fertilization, macroalgae) finds most methods early-stage, with big gaps in storage durability, verification, ecological effects and governance; it says large-scale direct ocean capture is premature. Peer-reviewed. https://doi.org/10.3389/fenve.2026.1908453
+  - NEW: One Earth editorial "The risks of reflecting sunlight" says sun-dimming's regional effects on rain, crops and ecosystems are highly uncertain and affected regions should share authority over research and risk; emissions cuts stay the priority. Opinion, not new research. https://www.cell.com/one-earth/fulltext/S2590-3322(26)00275-7
+  - Ongoing: Philippines funds P13 million November cloud seeding over sugar lands (agency claims "100 percent" success; unverified). https://newsinfo.inquirer.net/2325093/sra-allots-p13m-to-induce-rains-over-sugar-lands
+  - Ongoing: African Diplomatic Group call (Oct 11-13) for an international ban on solar geoengineering funding and outdoor tests. https://shabait.com/2026/10/15/eritrea-participates-in-workshop-on-non-use-of-solar-geoengineering/
+  - Context (ongoing): Kenai Peninsula, AK cloud-seeding ordinance hearing Tue Oct 20; more background in full file.
+  - Recycled: "White House report suggests blocking sunlight" pages repeat the 2023 research plan, which didn't endorse deployment.
+
+- Smart Dust
+  - Nothing new Oct 17-18.
+  - Ongoing: UC Berkeley's "DustNet" (IEEE TBCAS, Oct 2026): four 0.7 mm³ ultrasonic neural implants sharing one link, 200 kb/s combined at 90 mm; bench test in oil only. https://doi.org/10.1109/tbcas.2026.3705632
+  - Reliability: claims of a first human "neural dust" implant remain unverified.
+
+- 6G Cellular
+  - NEW: China Mobile Hong Kong says it switched on an upper-6 GHz network at its Mong Kok store (100 MHz won in HK's 2024 auction; up to 3 Gbps combined with other bands). Company claim; a 5G-Advanced deployment in a candidate 6G band, not a 6G launch. https://www.prnewswire.com/apac/news-releases/china-mobile-hong-kong-establishes-hong-kongs-first-u6g-network-302911836.html
+  - Ongoing: NTIA expects its 7.125-7.4 GHz study by December, FCC auction rules soon after; automakers and Apple oppose mobile use of lower 7 GHz. https://broadbandbreakfast.com/ntia-on-track-to-finish-spectrum-study-by-december/
+  - Ongoing: Verizon/Ericsson pre-standard 6G outdoor call in 7 GHz (Concord, CA); proof of concept, not a launch. https://www.fierce-network.com/wireless/verizon-ericsson-dial-6g-7-ghz-field-test
+  - Ongoing: 3GPP Release 20 6G meetings ended Oct 16; outcome summaries pending; core architecture due November. ISAC sensing trials; FCC Oct 29 meeting; Auction 115 Apr 2027.
+
+ALL CLEAR / NO CHANGE
+- Missing persons: no active AMBER, endangered missing or police requests in Toledo, Lucas/Wood, NW Ohio or Monroe MI (checked Oct 18).
+- DUI checkpoints: none announced for Lucas/Wood through Oct 25.
+- Toyota: no new Toyota/Lexus recalls or do-not-drive notices.
+- Gas leaks: no Columbia Gas emergencies, line strikes or explosions in Lucas/Wood. https://www.columbiagasohio.com/services/alert-center
+- Rail: no derailments or rail hazmat releases in NW Ohio / SE Michigan.
+- Drinking water and crops: no Toledo boil or do-not-drink advisory; no crop or livestock notices (frost risk above).
+- Maumee River: no new incidents (above).
+- Lake Erie: bloom present, toxins below limit, tap water safe; no marine advisories.
+- Air: Good; no alerts; no mold count.
+- Invasive species and lawsuits: nothing new locally.
+- Smart dust: nothing new.
+- 6G (local): no Toledo, Ohio or Michigan tower or small-cell news.
+
+SKY
+- Moon: First Quarter today; sets 12:35 a.m. Monday. Full Hunter's Moon Oct 26.
+- ISS: Mon Oct 19, 6:42-6:47 a.m. (WNW to NE, bright).
+- Orionids: peak mornings Oct 20-22, best Oct 21; watch from moonset (about 1:40-3:50 a.m.) until dawn.
+- Aurora: unlikely; NOAA expects a minor (G1, about Kp 5) storm around 11 p.m. Mon-2 a.m. Tue ET, below the Kp 6 usually needed here. Glance north if you're out for the Orionids.
+- Planets: Saturn all evening; Jupiter with Mars above it before dawn.
+- Clouds: clear nights through Tuesday; dress for frost.
+
+Full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-10-18.txt
