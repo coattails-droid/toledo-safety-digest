@@ -1,0 +1,236 @@
+Toledo Daily Digest + Emerging Tech Watch - Sunday, October 25, 2026
+
+SUMMARY
+- No emergency orders today: every evacuation and shelter-in-place order from the north Toledo chemical release (MC Tank, 1266 Progress Ave.) was lifted by noon Friday, and EPA's mobile lab found no glycidyl methacrylate in neighborhood air; if your home was in the plume area, follow the city's clean-up steps below. No AMBER or endangered missing alerts for the area. Air is Moderate; patchy fog early, then sunny and low 70s.
+- This edition also catches up on Oct 22-24, when the morning digest did not go out. Measles: Ohio at 260 cases in 24 counties (+8), Van Wert newly listed, no open NW Ohio exposure sites. New recalls: Class I ZestiGreens broccoli sprouting seeds (Salmonella), CIYTI light-up princess costumes and Bamamon finger-light toys (button batteries, right before Halloween), Costway high chairs, VQQQ gas patio heaters, PowRyte pressure washers (electrocution warning), Ultimate Forza "male enhancement" supplement (hidden drugs), Lexus NX display recall. A CSX derailment (no spill) has East Manhattan Blvd closed. Sky: Full Hunter's Moon tonight.
+- Lot codes and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-10-25.txt
+
+MEASLES (top priority; active statewide news; no open NW Ohio exposure sites)
+- Ohio statewide (updated; ODH dashboard Oct 22)
+  - 260 cases in 24 counties this year (+8 in the past week, down from +24 the week before). Van Wert County newly added. Geauga 54, Wayne 45, Ashtabula 44; Pike now 22 confirmed plus 2 suspected; Medina reports 18 (3 confirmed, 15 probable) with no public exposure sites. WFMJ cites 262. No Ohio deaths reported.
+  - Source: https://www.cincinnati.com/story/news/healthcare/2026/10/23/ohio-measles-outbreak-cases-2026/92383034007/
+- Van Wert County (ongoing; first case Oct 16)
+  - No public exposure sites listed; contacts notified. The Oct 22 vaccination clinic has passed. Questions: 419-238-0808.
+  - Source: https://thevwindependent.com/news/2026/10/16/measles-case-confirmed-in-van-wert-county/
+- Hancock County (Findlay): both Sep 29 exposure watches ended Oct 20 (dropped). Lucas, Wood and Monroe County, MI: nothing new.
+- Central Ohio context: Kraft House No. 5, Powell (Delaware County, Oct 4) watch ends about today, Oct 25.
+- What to do: watch for fever, runny nose, cough, red eyes, then rash, up to 21 days after exposure. Call ahead before going to a clinic or ER. Check your MMR status.
+
+NEEDS ATTENTION
+- UPDATED: North Toledo chemical release (MC Tank, 1266 Progress Ave.) - all orders lifted; clean-up steps for homes in the plume area
+  - What happened: about 5,500 gallons of glycidyl methacrylate vented from a tank starting Tue Oct 20; the mayor says an employee error during a transfer caused a chemical reaction. Shelter-in-place lifted Wed 5 p.m.; evacuation cut to 1/2 mile Wed, 1/4 mile Thu; tank finished venting Thu night; last evacuation lifted Fri Oct 23 at noon (about 152 people). Site returned to the company Fri evening for clean-up under U.S. EPA and Ohio EPA oversight.
+  - Air: EPA's TAGA mobile lab (bus moving about 5 mph through the area) found no detectable glycidyl methacrylate in surrounding neighborhoods in raw data from Fri evening on; monitoring and lab sampling continue. An independent tester (Scott Smith) says his lab results will take 3-5 weeks.
+  - If your home was in the plume: open windows on opposite sides to air it out; wipe surfaces with warm water and dish soap while wearing gloves; throw away uncovered food, pet food or water left out during the release (closed fridge/freezer food may be fine); if eyes, skin or breathing get irritated indoors, go outside to fresh air and get medical advice, saying you may have been exposed to GMA; 911 for severe breathing trouble.
+  - Help: Health Department chemical-leak hotline 419-779-7089; shelter needs 1-800-RED-CROSS or 211.
+  - Sources: https://toledo.oh.gov/news/2026/10/24/hazmat-evacuation-in-north-toledo and https://lucascountyhealth.com/public-health-update-glycidyl-methacrylate-gma-chemical-leak/ and https://www.wtol.com/article/news/local/epa-continues-air-monitoring-after-glycidyl-methacrylate-leak-in-north-toledo-ohio-chemical-air-quality/512-9bbed01a-d454-4a75-9567-2b79d76d8e52
+
+- NEW: CIYTI light-up princess costumes and Bamamon LED finger-light toys - button batteries kids can reach (CPSC, Oct 22)
+  - CIYTI light-up princess costumes (about 94 units): battery compartment easily opened; take away from children now and contact the seller for a refund.
+  - Bamamon LED Projecting Finger Lights (about 6,533; 32-piece boxes in assorted colors projecting space images; Amazon, Mar 2025-Aug 2026, about $13-14): stop use, email bamamonproductrecall@outlook.com with a photo of disposal for a refund; recycle the batteries as hazardous waste.
+  - Hazard: swallowed button batteries can cause internal burns and death. Swallowed one? Go to the ER now; Poison Help 1-800-222-1222.
+  - Sources: https://www.cpsc.gov/Recalls/2027/FoShanShiNanHaiQuNuoAiTongZhuangShangHang-Recalls-CIYTI-Light-Up-Princess-Costumes-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys and https://www.cpsc.gov/Recalls/2027/BAMAMON-Recalls-LED-Projecting-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys
+
+- NEW: ZestiGreens Broccoli Seeds for Sprouting & Microgreens - FDA Class I, Salmonella (classified Oct 23)
+  - 8 oz (SKU X004IOM4AJ) and 16 oz (SKU B0D5289F94) Heirloom Broccoli Seeds; about 600 lb, sold mainly on Amazon nationwide (Amazon has stopped sales). No illnesses reported.
+  - What to do: don't sprout or eat them; discard or return.
+  - Source: https://freshrecall.com/recalls/zestigreens-broccoli-seeds-recalled-for-salmonella-risk (FDA Enforcement Report H-0176-2027)
+
+- NEW: PowRyte pressure washers - CPSC warning, electrocution (Oct 22)
+  - No ground-fault (GFCI) protection on the cord. Not a recall: the seller isn't cooperating. Stop using now, unplug, cut the cord and dispose of it.
+  - Source: https://www.cpsc.gov/Warnings/2027/CPSC-Warns-Consumers-to-Stop-Using-PowRyte-Pressure-Washers-Immediately-Due-to-Serious-Shock-and-Electrocution-Hazards-Risk-of-Serious-Injury-or-Death
+
+- NEW: VQQQ natural gas patio heaters (models VQQQ-A1, VQQQ-001) - gas release, fire and burns (CPSC, Oct 22)
+  - About 100 sold on Amazon, Jul 2024-Aug 2026 (about $346); bronze pole, silver mushroom top, 24-ft gray hose.
+  - What to do: stop using, shut the gas valve, disconnect the hose; write "Recalled" on the base, email a photo to vqqqrecall@163.com for a full refund, then dispose.
+  - Source: https://www.cpsc.gov/Recalls/2027/VQQQ-Gas-Patio-Heaters-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards
+
+- Kayem Foods ready-to-eat meat and poultry - USDA Class I, ~1.58 million lb, nationwide (ongoing; FSIS Oct 17)
+  - Possible temperature abuse in a warehouse cooler; made about Mar 31-Oct 7, 2026. No illnesses. FSIS official retail store list still not posted (a circulating distributor list naming Kroger, Meijer and Giant Eagle is not official).
+  - Identify: EST. M/P 7839, EST. P 20935A or EST. M 9520 in the USDA mark (Kayem franks, bacon, bologna, loaves, kielbasa; Al Fresco chicken sausages). Product names and UPCs: full file / FSIS link.
+  - What to do: don't eat; discard or return. Kayem 800-426-6100; USDA hotline 888-674-6854.
+  - Source: https://www.fsis.usda.gov/recalls-alerts/kayem-foods-inc--recalls-meat-and-poultry-products-due-possible-temperature-abuse
+
+- Starfish Seafood Premium Cold Smoked Norwegian Salmon, sliced 8 oz - Listeria; sold in Ohio (ongoing; FDA Oct 16)
+  - UPC 4751048940099; lot D080-148, best before 27.11.2027. No illnesses.
+  - What to do: don't eat; return for refund. Krasnyi Oktyabr 718-858-6720.
+  - Source: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/krasnyi-oktyabr-inc-recalls-starfish-seafood-premium-cold-smoked-norwegian-salmon-sliced-227g8oz
+
+- Toyota Land Cruiser 2024-2027 - fuel leak / fire risk (ongoing; Toyota Oct 14)
+  - Fuel tube connection near the tank can come apart and leak fuel; fire risk. About 105,800 U.S. vehicles.
+  - Free inspection, supplemental clamp or fuel tube replacement; letters by mid-December. No official do-not-drive instruction; if you smell fuel, don't drive it. NHTSA campaign number still unconfirmed.
+  - Check VIN: https://www.toyota.com/recall or https://www.nhtsa.gov/recalls ; 1-800-331-4331.
+  - Source: https://pressroom.toyota.com/toyota-recalls-certain-my2024-2027-land-cruiser-vehicles/
+
+- Cherry Oil (Cherry & Central, Old West End) gasoline release (ongoing; no city update since Oct 2): station closed for repairs under EPA/city oversight. Smell gasoline indoors nearby? Open a window, refill drain traps, cover drains, call Engage Toledo 419-936-2020. https://toledo.oh.gov/news/2026/09/22/city-investigating-gasoline-odor-reports
+
+WORTH KNOWING (TOLEDO)
+- Missing persons
+  - NEW: Tristyn Alexandria Asher, 17, Toledo - listed missing by NCMEC since Oct 8
+    - 5 ft 2 in, about 135 lb, brown eyes, brown hair. Last seen at her family's Toledo home the night of Oct 7; a Toledo police report was filed. She is not listed as an Ohio endangered missing child alert.
+    - Information: call Toledo police (911 if you see her) or NCMEC 1-800-THE-LOST (1-800-843-5678).
+    - Source: https://www.wtol.com/article/news/local/17-year-old-tristyn-asher-missing-last-seen-in-toledo-area-girl-family-speaks-out-jennifer-asher/512-290e5be3-0215-44dd-bc80-089fbd3ff1c4
+
+- Recalls by category (daily checklist)
+  - Food and beverages: NEW ZestiGreens seeds (Class I, above). NEW Natural Grocers Organic Mung Beans, 2 lb - possible glass fragments; Natural Grocers stores in 22 states, shipped since Jun 10; don't eat, return for refund (https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/10/23/natural-grocers-mung-beans-recall/92396725007/). WinCo hoagie rolls (undeclared sesame) are sold only in western states. FSIS public health alert: Grace Ready-to-Eat Chicken Vienna Sausages illegally imported from Jamaica; don't eat (https://content.govdelivery.com/accounts/USFSIS/bulletins/42e3bd1). Ongoing: Kayem and Starfish (Needs attention).
+  - Medications and supplements: NEW Ultimate Forza male supplement (Tonight We Ride, LLC; FDA Oct 24) - contains hidden sildenafil, tadalafil and dapoxetine, hidden prescription drug ingredients that can interact dangerously with other medicines; stop using (https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts). Ongoing: Apothecary Pharma compounded tirzepatide (lots in full file); Babies' Magic Tea gripe water lot 25122bw; K.C. Pharmaceuticals store-brand eye drops (lots in full file); Amazon Basic Care acetaminophen 500 mg (lots in full file); RAPTURE pre-workout (DMAA). Pet owners: Wedgewood Pharmacy compounded veterinary drugs (potency; FDA Oct 21) - ask your vet.
+  - Children's toys and products: NEW CIYTI costumes and Bamamon finger lights (Needs attention). NEW Costway convertible high chairs - about 3,332; no passive crotch restraint, child can slip through and be trapped or fall; stop using, free replacement via recall@costway.com or 844-242-1885 (https://www.cpsc.gov/Recalls/2027/Costway-Recalls-Convertible-High-Chairs-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Fall-Hazards-Violate-Mandatory-Standard-for-High-Chairs). NEW CPSC warning on squishy toys (Oct 22; https://www.cpsc.gov/Recalls). Ongoing: Brush Buddies/Crayola/evo/ARU kids' toothpaste (4.3 million tubes, FDA Class II; check tubes); Papablic bedside sleepers; bblüv Grow high chairs; ONTHEWEI bath seats; Primark 101 Dalmatians coin purses; water-bead and magnet toys.
+  - Car seats and strollers (ongoing): Britax B-Safe family and Endeavours infant seats made Aug 2020-May 2023 (NHTSA 26C006000): handle can detach; free clip kit at https://www.crshubrecall.com or 1-888-427-4829. Model numbers in full file.
+  - Electronics with battery or fire risk: NEW PowRyte pressure washers (Needs attention). Ongoing: 3M Scotch TL1302Z laminators; HotHands/Gobi Heat hand warmers; Dollar Tree balloon pumps 406198; Cupcakes and Cashmere lamps.
+  - Household appliances: NEW VQQQ patio heaters (Needs attention). Ongoing: Tristar Power Quick Pot Y6D-36 pressure cookers and Kalorik MAXX air fryer ovens (stop using; no recall); DR Power trimmer mowers; Snow Peak Takibi inserts.
+  - Other new (Oct 22): Reliancer adult portable bed rails - CPSC warning, entrapment and suffocation; stop using and dispose. Lithonia Lighting RSX luminaires with AASP/AARP/AAWB/AAWSC tilt arms (commercial outdoor lights, about 11,532): fixture can fall; free repair 855-307-2454. https://www.cpsc.gov/Recalls
+  - Clothing and footwear: nothing new (CIYTI costumes are a battery hazard, listed under kids).
+
+- Toyota and Lexus recalls
+  - NEW to this digest: 2022-2024 Lexus NX250, NX350, NX350h and NX450h+ - instrument panel may not show warnings (oil pressure, coolant temperature, charging); 68,356 vehicles; free meter software update; letters by Dec 7. NHTSA 26V687000 (Lexus 26LA10). https://www.usatoday.com/recalls/automotive/NHTSA-26V687000/
+  - Ongoing: Land Cruiser fuel leak (Needs attention); 2026 RAV4 Plug-In Hybrid loss of drive power, 30,978 vehicles, ECU update, letters Nov 22-Dec 6, NHTSA 26V659000; 2026 Grand Highlander and Lexus RX/TX steering knuckles, 617 vehicles, NHTSA 26V598000. Check VIN: nhtsa.gov/recalls or toyota.com/recall.
+
+- Other recalls still active (ongoing): Ritchey carbon forks; Gatorade 28 oz undeclared Yellow 5/6 (OH/MI; codes in full file); Great Value and Trader Joe's frozen organic berries (lots in full file); sprouting seeds (Gardeners Basics lot W4105 and others); Bettergoods Lemon Alfredo Fettuccine; Graziers raw-milk cheeses; Family Farmstead raw cheddar (E. coli); HatsanUSA Blitz air rifles; Giant SureLock locks (serials in full file); Decathlon Van Rysel GRVL AF bikes; Romorgniz and Chalsea dressers (tip-over). Lot codes and full details: full file.
+
+- Rail
+  - NEW: CSX locomotive and two cars derailed Fri afternoon, 3000 block of East Manhattan Blvd near Detwiler Ditch. No injuries; police said no chemicals spilled; the locomotive's ~4,000 gallons of diesel appear contained. East Manhattan closed between Suder and New York Aves for 2-3 days (into about Mon); Wallace Blvd affected. Cause not released. https://www.wtol.com/article/news/local/east-manhattan-boulevard-railroad-train-derailment/512-d4ced6ba-9ea6-4c2a-bb57-01a7ce06d721
+  - Rail lines near Progress Ave. that were shut during the chemical release have reopened along with all roads and waterways (city, Oct 23).
+
+- Hazmat (other)
+  - NEW: a package with a suspicious substance addressed to Rep. Marcy Kaptur's office was intercepted at a local postal facility Oct 23; FBI and Postal Inspectors investigating similar mailings to other members of Congress. No public exposure reported. https://www.13abc.com/2026/10/23/suspicious-package-intercepted-before-being-delivered-rep-kaptur-office/
+  - Perrysburg Wastewater plant leak (ongoing; Oct 16): contained; water safe. Brent Industries, South Ave (ongoing): independent tester's soot results above EPA screening levels; Ohio EPA and city report no air or water hazard; town hall planned in 4-5 weeks.
+
+- Kids / Poison Control
+  - Halloween week: check light-up costumes and toys for screwed-shut battery doors (two button-battery recalls above); keep cannabis edibles and look-alike candy away from trick-or-treat bags.
+  - Today starts National Lead Poisoning Prevention Week (Oct 25-31): ask about a child blood lead test if your home was built before 1978.
+  - Ongoing: concentrated 7-OH kratom and fake "Cat's Claw" supplements; Benadryl Challenge. Poison Help 1-800-222-1222.
+
+- Lake Erie (updated)
+  - NOAA HAB bulletin (Oct 23): bloom about 220 sq mi, up from Oct 22; low-to-medium concentrations north of Maumee Bay to Stony Point, MI, and south of Leamington past Pelee Island; patches may be near shore, including Maumee Bay. Toxins below recreational limits; keep people and pets away from scum. https://cdn.coastalscience.noaa.gov/hab-data/forecasts/LErie_forecast/web_latest/current_bulletin.pdf
+  - No NWS marine alerts for western Lake Erie this morning. Toledo tap water safe; no boil advisory. Maumee Bay State Park beach algal toxin advisory (ongoing). No new EPA/EGLE notices.
+
+- Maumee River (ongoing): no new spill, fish kill or sewage notice; city lists no active combined sewer overflows. Toledo Harbor dredging continues. Swan Creek E. coli advisory still in effect; avoid water contact. https://lucascountyhealth.com/public-health-advisory-elevated-e-coli-levels-in-swan-creek-and-its-tributaries/
+
+- Air (updated): Moderate. PM2.5 AQI 78 at 7 a.m. (yesterday's daily 62); ozone and PM10 Good. Unusually sensitive people should ease off long, hard outdoor exertion this morning. No smoke or ozone alert; no refinery flaring notice found. No outdoor mold count published. https://www.airnow.gov/?city=Toledo&state=OH&country=USA
+
+- Weather: patchy, sometimes dense fog early (less than the past two mornings); mostly sunny, high in the low 70s; low mid-40s tonight. Low 70s Mon, mid-60s Tue, 70s rest of week; small shower chance Thu evening. No frost expected. https://www.13abc.com/2026/10/25/temperatures-rise-into-70s-new-workweek-annies-first-alert-forecast-oct-25-2026/
+
+- Water mains and sewers (ongoing): W. Delaware Ave sinkhole repair waits on Columbia Gas, then sewer work (report sinkholes 419-936-2020); Lucas County courthouse building boil advisory after Oct 13 leak. No new main breaks or city boil advisories found.
+
+- Roadwork (next 7 days)
+  - NOW: East Manhattan Blvd closed Suder to New York Aves (derailment, above).
+  - I-75 (ODOT): possible lane restrictions between I-475 and Lagrange St, and restrictions and ramp closures between Stickney and Delaware Aves. Thu Oct 29, 10 p.m. to Fri 6 a.m.: SB I-75 ramp to WB I-475 closed; detour via Collingwood Blvd (Exit 202B). https://www.thenbxpress.com/odot-roadwork-lucas-co-oct-21/ ; live map https://ohgo.com/
+  - Tue Oct 27: OH 235 / Kellogg becomes an all-way stop (ongoing item).
+  - Ongoing: SB I-75 near Bays Rd (Wood County) through mid-November; Douglas Rd and Monroe St one lane in spots through mid-November; Rossford Buck/Glenwood roundabout changes. Others (Nantuckett Dr; US 20 Perrysburg-Maumee bridge; Hamilton St; Woodville Rd; Huron St; Executive Pkwy; Turnpike bridge; Arlington Ave; Alexis Rd) in full file.
+
+- Other local notices
+  - Toledo City Council: Flock camera resolution R-435-26 second reading Wed Nov 4 (ongoing).
+  - NEW: Block Communications filed a WARN notice: The Blade (116 employees) would stop publishing Dec 31 unless a buyer is found. https://toledo.substack.com/p/october-24-2026
+  - Ongoing: Benton Ridge Telephone outage (Henry/Hancock counties), no restoration date; make sure relatives there have a working cell phone for 911.
+
+- Invasive species (ongoing): Michigan bans untreated out-of-state firewood from Jan 1, 2027; spotted lanternfly egg-laying season, scrape egg masses and check vehicles and firewood. https://agri.ohio.gov/slf
+
+- Lawsuits (info only, not legal advice)
+  - NEW: several Toledo law firms are advertising investigations into the MC Tank chemical release; no lawsuit or class action has been confirmed as filed. MC Tank says it accepts responsibility. https://www.thekag.com/wp-content/uploads/Press-Release-MC-Tank-Toledo.pdf
+  - Ongoing: Kroger Rx pricing settlement - opt-out deadline passed Oct 22; claims due Dec 21 (https://www.krogersavingsclubsettlement.com/). Ohio AG generics: AGGenericDrugs.com / 1-866-290-0182. N.D. Ohio opioid third-party payer claims by Dec 1.
+
+- Protests / civic (next 7 days)
+  - Thu Oct 29, 5:30-8 p.m.: "Fighting for Ohio" campaign rally in Toledo (Ohio Federation of Teachers; Sherrod Brown and Amy Acton listed); address sent only to RSVPs; no road closures announced. https://www.mobilize.us/oft/event/1067020/
+  - No verified road-closing marches through Nov 1. Coca-Cola Teamsters picket (ongoing). Early voting: 3737 W. Sylvania Ave (Entrance C). https://toledovotes.com/early-absentee-voting-info/
+
+EMERGING TECH WATCH
+- Geoengineering
+  - UPDATED: Kenai Peninsula Borough, Alaska enacted Ordinance 2026-35 as amended on Oct 20: new code KPB 17.10.165 requires permits for weather modification and geoengineering on borough lands, effective immediately. https://alaskapublic.org/news/environment/2026-10-22/kenai-peninsula-borough-adopts-new-rules-for-weather-modification
+  - Ongoing: EU tender (about EUR 35 million) to detect and attribute unauthorized sun-dimming attempts, no deployment funding; Leeds-led governance simulation found no agreement (Wired coverage); IRIS maps about $412 million in solar-geoengineering funding since 2007. https://www.energyconnects.com/news/renewables/2026/october/eu-wants-to-track-potential-rogue-efforts-to-block-out-sun/
+  - Ohio HB 290 / Michigan HB 4304: no new action. Reliability: "White House sun-blocking report" posts recycle the 2023 research plan.
+
+- Smart Dust
+  - Research: a Frontiers in Neuroscience paper describes implanting batches of 16-25 non-working "motes" with carbon-fiber electrodes in rat brains (about 87% success); a placement method only, not a working sensor network. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1848862/pdf
+  - Ongoing: UC Berkeley "DustNet" ultrasonic implants (bench test). Reliability: claims of a first human "neural dust" implant remain unverified; no human trials of injectable neural dust are underway.
+
+- 6G Cellular
+  - NEW: 3GPP radio group RAN1 #126-bis (Jeju) settled the 6G sync-block slot structure and four-step random access; bigger radio choices move to the Calgary meeting in November. Core-network group SA2 #177 agreed principles but pushed the choice among three 6G architectures to November. https://3gpp-explorer.com/articles/ran1-126bis-jeju-6g-radio-outcomes/
+  - NEW: RCR Wireless says spectrum sharing is becoming central to 6G as testing gets harder (analysis). https://rcrwireless.com/20261023/6g/6g-spectrum-sharing-testing
+  - Related, not 6G: FCC moved a 6 GHz unlicensed (Wi-Fi) proposal for higher-power geofenced devices. https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-applauds-fcc-action-on-6-ghz-spectrum
+  - Ongoing: FCC open meeting Oct 29; NTIA 7 GHz study due by December; Auction 115 Apr 2027.
+
+ALL CLEAR / NO CHANGE
+- Missing persons: no active AMBER or endangered missing alerts for Toledo, Lucas/Wood, NW Ohio or Monroe MI (Ohio AG list Oct 24: active adult alerts are in Vinton, Hamilton, Mahoning and Summit counties).
+- DUI checkpoints: none announced for Lucas/Wood through Nov 1 (last were Oct 16 in Maumee).
+- Gas leaks: no Columbia Gas emergencies or line strikes found. Drinking water and crops: no Toledo boil or do-not-drink advisory; no crop or livestock notices.
+- Hazmat: all north Toledo orders lifted; clean-up under EPA oversight.
+- Maumee River: no new incidents.
+- Lake Erie: bloom about 220 sq mi, toxins below limits, tap water safe; no marine alerts.
+- Air: Moderate; no alerts; no mold count.
+- Clothing recalls: nothing new.
+- 6G (local): no Toledo, Ohio or Michigan tower or small-cell news.
+
+SKY
+- Full Hunter's Moon: full at 12:12 a.m. Mon Oct 26, so it's bright all night tonight; rises in the east around sunset. Clouds: partly cloudy tonight. https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-23-to-30-2026/
+- Planets: Saturn in the southeast after dark, up most of the night; before dawn, Mars (rises about 1:22 a.m.) and brighter Jupiter (about 2:07 a.m.) in the east-southeast. Mercury and Venus too close to the Sun. https://www.timeanddate.com/astronomy/night/usa/toledo
+- No meteor shower peak, eclipse or strong aurora expected this week.
+
+Full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-10-25.txt
+
+==================================================================
+FULL LOT / CODE LISTS AND BACKGROUND (email links here; not repeated in full in the email body)
+
+Note: the scheduled digests for Oct 22, 23 and 24 did not go out; this edition covers news from Oct 21 evening through Oct 25 morning.
+
+North Toledo GMA release timeline (City of Toledo page, last updated Oct 24, 6:24 p.m.):
+- Tue Oct 20, 9:30 p.m.: 911 call reports an active release from a tanker at 1266 Progress Ave (MC Tank Terminal).
+- Tue 10:48 p.m.: 1-mile evacuation (threat of explosion).
+- Wed Oct 21, 4:24 a.m.: 3-mile shelter-in-place.
+- Wed 5:00 p.m.: evacuation cut to 1/2 mile; shelter-in-place lifted.
+- Thu Oct 22, 10:30 a.m.: evacuation cut to 1/4 mile.
+- Thu 6:00 p.m.: tank stopped releasing; crews approached for inspection.
+- Fri Oct 23, 12:00 p.m.: evacuation lifted.
+- Fri 7:30 p.m.: site safety plan approved; site turned over to owners for clean-up under U.S. EPA oversight.
+- Mayor's estimates: ~1,000 people in the 1-mile zone, ~300 at 1/2 mile, ~5,400 under the 3-mile shelter order; final 152 returned Friday. EPA: the reaction lasted about 30 hours.
+- EPA response site: https://response.epa.gov/site/site_profile.aspx?site_id=17475 ; AP: https://apnews.com/article/toledo-chemical-release-ohio-hazmat-bdb36e0f9153a1a4450f73ae2321cdc7 ; 13abc: https://www.13abc.com/2026/10/23/investigators-city-leaders-hold-news-conference-giving-update-chemical-release/ ; Blade: https://www.toledoblade.com/local/environment/2026/10/24/city-releases-preliminary-air-monitoring-data-while-several-agencies-continue-te/stories/20261024073
+
+New CPSC items, Oct 22 (recall numbers): VQQQ patio heaters 27-039; Bamamon finger lights 27-042; Costway high chairs; CIYTI costumes; Lithonia RSX tilt arms (made Aug 2019-Jul 2020 and Aug 2024-Apr 2026); warnings for PowRyte pressure washers, Reliancer adult bed rails (27-037) and squishy toys. All at https://www.cpsc.gov/Recalls
+
+Lexus NX (NHTSA 26V687000; Lexus 26LA10): 2022-2024 NX250, NX350, NX350h, NX450h+; 68,356 vehicles; combination meter may not display warnings, a FMVSS 101 noncompliance. https://freshrecalls.com/recall/nhtsa/26V687000
+
+Compounded tirzepatide lots (Apothecary Pharma Tirzepatide Injection 18 mg/mL, 4 mL multi-dose vial; FDA Class II; lot - beyond-use date, as listed by USA Today Oct 19):
+- AP-202622 (07-Oct-2026), AP-202623 (08-Oct-2026), AP-202624 (19-Oct-2026), AP-202625 (10/20/2026), AP-202627 (10/26/2026), AP-202628 (10/27/2026), AP-202629 (10/28/2026), AP-202630 (10/31/2026), AP-202631 (11/01/2026), AP-202632 (11/03/2026), AP-202633 (11/07/2026), AP-202634 (11/08/2026), AP-202635 (11/16/2026), AP-202636 (11/17/2026), AP-202637 (11/18/2026), AP-202638 (11/19/2026), AP-202639 (11/20/2026), AP-202640 (11/21/2026), AP-202641 (11/22/2026), AP-202642 (11/24/2026), AP-202643 (11/25/2026), AP-202644 (11/26/2026). (No AP-202626 is listed.)
+
+Eye-drop lot codes (K.C. Pharmaceuticals Class II; all 0.5 fl oz / 15 mL unless noted; lot on box and bottle):
+- Artificial Tears Sterile Lubricant Eye Drops (PVA 0.5%, povidone 0.6%): Kroger UPC 0 11110 38600 7 lot AT24N01; Walgreens UPC 3 11917 06503 8 lots AT25D01, AT25F01, AT25K02; Leader NDC 70000-0011-1 lots AT24N01, AT25B01, AT25D01, AT25F01, AT25F02, AT25K02; Good Sense NDC 50804-110-01 lots AT24N01, AT25B01, AT25D01, AT25F01, AT25F02, AT25K01, AT25K02; Good Neighbor Pharmacy NDC 24385-006-05 lots AT25D01, AT25K02; TopCare Health UPC 0 36800 09331 7 lots AT25B01, AT25D01; Quality Choice NDC 83324-189-14 lots AT25B01, AT25F02, AT25K01; Best Choice UPC 0 70038 47008 3 lot AT25B01; Medic'c Choice NDC 55651-008-01 lot AT25B01; P (Publix) UPC 0 41415 00976 9 lots AT25B01, AT25D01.
+- Sterile Eye Drops Original (tetrahydrozoline 0.05%): Kroger UPC 0 11110 38597 0 lot RG24N02; Equate NDC 79903-158-05 lots RG25E01, RG25K01, RG25K02, RG25K05, RG25M01, RG25M02, RG25P01; Walgreens UPC 3 11917 20073 6 lots RG25D01, RG25K03; Discount Drug Mart UPC 0 93351 01157 3 lot RG25K04; Circle K UPC 1 94283 65135 8 lots RG24N02, RG25D01, RG25D02, RG25K03, RG25K04, RG25N02, RG25N03; Good Sense NDC 50804-141-01 lots RG24N02, RG25D01, RG25D02, RG25K02, RG25K03, RG25N02; TopCare UPC 0 36800 03639 0 lots RG24N02, RG25K04, RG25M01, RG25N02, RG25N03; Lil' DrugStore UPC 3 66715 68324 3 lots RG24N02, RG25D01, RG25D02, RG25K02, RG25K04, RG25K05, RG25N02; QC Quality Choice NDC 83324-340-15 lot RG25K05; Best Choice UPC 0 70038 47011 3 lot RG24N02; also H-E-B and Harris Teeter versions.
+- Sterile Eye Drops Redness Relief (glycerin 0.25%, naphazoline 0.02%): Equate NDC 79903-012-01 lots RL25E01, RL25G01, RL25K05, RL25M05, RL25N03, RL25H01; Walgreens UPC 3 11917 17741 0 lots RL25D01, RL25E01, RL25G01, RL25K05, RL25N03, RL25H01; Clear Eyes Redness Relief UPC 6 78112 25415 6 lots RL25G02–G04, RL25K01–K04, RL25M01–M04, RL25N01, RL25N02, RL25N04, RL25H02–H04; Leader NDC 70000-0010-1 lots RL25D01, RL25G01, RL25K05, RL25N03; Discount Drug Mart UPC 0 93351 03411 4 lots RL25D01, RL25G01; Equaline UPC 0 41163 46151 2 lot RL25D01; Colirio Ojo de Aguila UPC 3 48201 01615 5 lots RL25E01, RL25K05; Xpect Industrial Eye Relief lots RL25D01, RL25E01, RL25K05, RL25M05, RL25N03, RL25H01.
+- Eye Drops Maximum Redness Relief: up & up NDC 11673-100-01 lots CM25B01, CM25E01, CM25E02, CM25K01, CM25M01; Walgreens UPC 3 11917 20075 0 lots CM25B01, CM25E02, CM25K01, CM25M01; TopCare UPC 0 36800 21123 0 lots CM25B01, CM25F01, CM25K01, CM25M01; Tyson Mike Red Eye Drops UPC 7 84847 57549 4 lots CM25A02, CM25B01, CM25C01–C03, CM25E02, CM25F01; also Exchange Select and Harris Teeter.
+- Sterile Lubricant Dry Eye Relief: Discount Drug Mart UPC 0 93351 01156 6 lots LT25D02, LT25K01; Leader NDC 70000-0502-1 lot LT25B01; TopCare UPC 0 36800 36100 3 lots LT25B01, LT25D02, LT25M02; Geri-Care NDC 57896-181-05 lots LT25B01, LT25D01, LT25D02, LT25K01, LT25M01, LT25M02, LT25N01, LT25N02; Foster & Thrive NDC 70677-1157-1 lot LT25B01; Crocodile Tears UPC 8 67166 00000 4 lots LT25D02, LT25K01; also Exchange Select, H-E-B, Harris Teeter.
+- Sterile Eye Drops Advanced Relief: Leader NDC 70000-0456-1 lot AR25A02; GoodSense NDC 50804-130-01 lots AR25A01, AR25N01; QC-Quality Choice NDC 83324-191-14 lots AR25A01, AR25N01; TopCare UPC 0 36800 03641 3 lot AR25A01; Equaline UPC 0 41163 25392 6 lot AR25A02; Foster & Thrive NDC 70677-1158-1 lot AR25A02; Medic'c Choice NDC 55651-025-01 lot AR25A02; Colirio Manzanill A+ lots AR25F01, AR25N01; also H-E-B and Publix.
+- Sterile Eye Drops AC: Good Sense NDC 50804-121-01 lots AC25B01, AC25C01; TopCare UPC 0 36800 03640 6 lot AC25C01; Equaline UPC 0 41163 25114 4 lot AC25C01; QC-Quality Choice NDC 83324-190-14 lot AC25C01; also H-E-B.
+- Sterile High Performance Ultra Lubricating Eye Drops (PEG 400 0.4%): Walgreens UPC 3 11917 20167 2 lot SU25B01; Leader NDC 70000-0457-1 lot SU25B01; Good Sense NDC 50804-160-01 lots SU25B01, SU25N01, SU25N02; Exchange Select lot SU25N01.
+
+Berry lot codes:
+- Great Value Organic Triple Berry Blend 10 oz, UPC 7874211226, lots 6 031 01 and 6 041 01 (best-by Jan 31 and Feb 10, 2028)
+- Great Value Organic Blueberries 10 oz, UPC 7874211213, lots 6 019 01, 6 040 01 and 6 163 01 (best-by Jan 19, Feb 9 and Jun 12, 2028)
+- Trader Joe's Organic Mixed Berry Blend 12 oz, UPC 00977654, lot 6 051 01 (best before Feb 20, 2028)
+
+Acetaminophen lots (Amazon Basic Care Extra Strength 500 mg):
+- 200-count NDC 72288-692-20 UPC 1 95515 04887 3: lot ACD125040A (exp 9/30/2027); 14,640 bottles
+- 500-count NDC 72288-692-50 UPC 1 95515 04890 3: lots ACD124036A, ACD124030A (exp 9/30/2027), ACD124042A (10/31/2027), ACD124048B (11/30/2027), ACD125010A (2/29/2028); 90,456 bottles
+- 1,000-count NDC 72288-692-01 UPC 1 95515 04888 0: lot ACD124048A (exp 11/30/2027); 7,836 bottles
+
+Gatorade 28 oz lot/date codes: 091026 DL (JUN 07 27), 091126 DL (JUN 08 27), 072226 DT (APR 18 27), 072426 TL (APR 20 27), 073126 TL (APR 27 27), 072926 TL (APR 25 27), 073026 TL (APR 25 27), 081026 TL (MAY 07 27), 082126 OA (APR 18 27), 080126 DL (APR 28 27), 082026 DL (MAY 17 27), 083126 DT (JUN 07 27), 082526 KM (MAY 22 27), 090426 KM (JUN 01 27), 072726 TL (APR 23 27).
+
+Giant SureLock LED key serial ranges (underside of lock): SURELOCK PROTECTOR 1 DT 00000 2303–2607; PROTECTOR 1 STD 00001 2303–2607; PROTECTOR 1 LS 00002 2303–2607; FLEX KEY COIL 15 00010 2303–2607; FLEX KEY COIL 12 00011 2303–2607; FLEX KEY 15 00013 2303–2607; FLEX KEY 12 00014 2303–2607; GIANT SURELOCK FLEX KEY COIL 12 00065 2303–2607; GIANT SURELOCK FLEX KEY COIL 15 00066 2303–2607.
+
+Argatroban lots (Par Health, Oct 13, 2026; lot - expiration):
+- NDC 42023-182-01: 83449 (10/2026), 82682 (11/2026), 86714 (02/2027), 87302 (02/2027), 87560 (02/2027), 87753 (03/2027), 88401 (03/2027), 88614 (04/2027), 88836 (04/2027), 90220 (05/2027), 91216 (06/2027), 91219 (06/2027), 92004 (07/2027), 92006 (07/2027), 92009 (08/2027), 92596 (08/2027), 92782 (08/2027), 93107 (08/2027), 93329 (08/2027), 93890 (09/2027)
+- NDC 42023-182-89: 84193 (10/2026), 92880 (08/2027)
+
+Britax car seat model numbers (NHTSA 26C006000; model number is on the label under the seat cover). Britax's notice lists six groups for B-Safe 35, B-Safe Ultra, B-Safe Gen2, B-Safe Gen2 FlexFit, B-Safe Gen2 FlexFit Plus and Endeavours; the PDF text doesn't cleanly pair each group with its model name, so all numbers are listed together here:
+- E1A183D, E1A728Y, E1A728Z, E1A729R, E1A729X, E1C368Y, S010144500, S05587900, S05588400, S05588500, S09385000, S11809100, S11809200, S11880000, S12044800, S12045000, S12317300, S12645500
+- E1C001Q, E1C002G, E1C008M, E1C008N, E1C009E, E1C009S, E1C009T, E1C438M, S05588100, S05588200, S09828600, S10888400, S10888700, S11251600, S11747200, S11747300, S11747400, S11771800
+- E1C732C, E1C732J, E1C732L, E1C772C, E1C802, EXC772C, S12652000, S12652100, S12776100, S12776200, S12776300, S12776400, S12778600, S12778700
+- E1C741Q, E1C742G, E1C746B, E1C749S, S12776700, S12776800, S12777000, S12777200, S12777300
+- E1C767N, E1C767T, E1C769V, S12777600, S12777800, S12778100
+- E1A535Q, E1A537U, E1A539E, E1A539L, E1A909V, S11747900, S11771200, S12034400, S12399800
+- Confirm on Britax's notice: https://cdne1britaxus.azureedge.net/bri/uploads/Recall-Page/Britax-US-Consumer-Notice-crs-hub-recall-FINAL_EN-SP.pdf
+
+
+
+Kayem/Al Fresco: the full product and UPC list is on the FSIS notice (Recall 026-2026 product labels PDF): https://www.fsis.usda.gov/recalls-alerts/kayem-foods-inc--recalls-meat-and-poultry-products-due-possible-temperature-abuse . Kayem's own notice: https://www.kayemfoods.com/kayem-foods-voluntary-product-recall-october-2026
+
+Toothpaste (Brush Buddies / evo / ARU; Pritam International, distributed by Ashtel Studios Inc., Ontario, CA): 17 Class II recalls, 4,301,700 tubes; initiated Sep 10, 2026; expiration dates Nov 2026-Jun 2028. Product-level codes are in the FDA Enforcement Report (search "Pritam International"): https://www.accessdata.fda.gov/scripts/ires/index.cfm . Report: https://www.kcci.com/article/fda-brush-budies-toothpaste-recall-nationwide/74195828
+
+Sources checked (Oct 25 morning, ET): City of Toledo hazmat page (Oct 23-24 updates), Toledo-Lucas County Health Dept GMA page, WTOL, 13abc, AP, The Blade, This Week in Toledo (Oct 24), ToledoBuzz/WTOL derailment reports, AirNow reporting-area file (Toledo 7 a.m.), NWS alerts API (Toledo point; western Lake Erie marine zones), 13abc forecast, NOAA NCCOS HAB bulletin (Oct 23), FDA recalls page, FDA Enforcement Report via FreshRecall, USA Today, USDA FSIS, CPSC recalls and warnings, Toyota/NHTSA via USA Today recalls, Ohio AG missing-persons alerts, Cincinnati Enquirer/Clinical Observer/WFMJ/NBC4 measles coverage, Van Wert Independent, City of Toledo CSO page, ODOT via NBXpress, Mobilize event page, KDLL/Alaska Public Media (Kenai), Energy Connects, 3GPP Explorer, RCR Wireless, Wi-Fi Alliance, Frontiers in Neuroscience, Astronomy.com, timeanddate.com. Nothing here is invented; verify recall details on the linked notices before acting.
