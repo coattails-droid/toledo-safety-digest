@@ -75,10 +75,10 @@ def build_prompt(day, directive, prior_name, prior_text):
     subj_date = day.strftime("%b %-d, %Y")
     link = f"{REPO_URL}/digest-{s}.txt"
     return f"""You write C T's daily Toledo, Ohio safety digest for {pretty} (America/New_York).
-Follow the DIRECTIVE below exactly: every numbered section 1-24, the priority layout
+Follow the DIRECTIVE below exactly: every numbered section in it (currently 1-25), the priority layout
 (summary; Measles right after the summary when measles news is active, with only AMBER/endangered
 missing-person alerts ahead of it; Needs attention; Worth knowing (Toledo); Emerging Tech Watch;
-All clear / no change, which always lists Maumee River, Lake Erie and Air; Sky last), the rules
+All clear / no change, which always lists Maumee River, Lake Erie, Air and Fog; Sky last), the rules
 and the style. Use web search thoroughly for news from the last 24-48 hours. Never invent
 incidents, readings, closures, cases or events; if you could not confirm something, say so.
 Carry forward every still-active item from the PRIOR DIGEST, marked "(ongoing)" or "(updated)",

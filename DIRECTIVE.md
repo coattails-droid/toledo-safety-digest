@@ -96,6 +96,10 @@ Check the last 24 to 48 hours, and carry forward anything still active.
     - For each item, give the models and model years, the number of vehicles if stated, the defect and its risk, the remedy and when owners will be notified, the NHTSA campaign number, and how to check a VIN (nhtsa.gov/recalls or toyota.com/recall). Include the source link. Keep long VIN or part lists in the repo file.
     - Urgent do-not-drive or fire warnings go in Needs attention. Everything else goes with the recalls. On quiet days, give it one all-clear line.
 
+25. **Fog & cloud systems.** The daily NWS Cleveland and Detroit fog outlook for Toledo, Lucas and Wood counties, western Lake Erie and the Maumee corridor: whether fog is expected, any Dense Fog Advisories, timing, and visibility. Also low cloud ceilings, stratus decks, temperature inversions or stagnant-air setups, and lake-effect cloud, with what they mean for visibility and travel.
+   - Whenever a hazmat release, fire or smoke incident is active (for example the Oct 21, 2026 MC Tank glycidyl methacrylate leak, when fog and a low cloud deck lingered), explain how fog, inversions and clouds may trap or disperse the plume. Use official NWS or agency statements and the NWS Area Forecast Discussion (AFD) where available, and don't speculate beyond the sources.
+   - Placement: a Dense Fog Advisory, or fog or an inversion during an active incident, goes in Needs attention. Otherwise give a short line in Worth knowing or All clear. All clear always lists Fog.
+
 ### Emerging Tech Watch (sections 17 to 19)
 
 For each of these, cover new developments from the last 24 to 48 hours and flag anything specific to Ohio, Michigan, or the Great Lakes first. Use neutral, factual wording. Separate confirmed developments (official records, filings, standards documents, peer-reviewed work, credible reporting) from claims such as "chemtrail" allegations or speculative health and conspiracy theories. Label anything that rests only on social media or unverified sources with a short reliability note, and never present it as fact. Watch for old stories recirculated as new.
@@ -117,7 +121,7 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
   2. **Needs attention:** most urgent first, from any topic, each with what to do.
   3. **Worth knowing (Toledo):** grouped by topic.
   4. **Emerging Tech Watch:** Geoengineering, Smart Dust, and 6G Cellular subsections.
-  5. **All clear / no change:** one bullet per quiet section. Maumee River, Lake Erie, and Air are always listed, and so is any quiet Emerging Tech topic.
+  5. **All clear / no change:** one bullet per quiet section. Maumee River, Lake Erie, Air, and Fog are always listed, and so is any quiet Emerging Tech topic.
   6. **Sky:** a lighter closing note.
 - **Bullets, one email, long lists linked (C T's requests, Oct 4 and Oct 9, 2026):**
   - Every item is its own bullet, with sub-bullets for what happened, where, dates and times, who's affected, the product name and brand, what to do, and the source link. No paragraph blocks. Skip empty headings.
@@ -155,3 +159,4 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
 - **Oct 13, 2026:** Added section 23, a recall category checklist (food and beverages, medications and supplements, children's toys and products, car seats and strollers, electronics with battery or fire risk, household appliances), at C T's request.
 - **Oct 13, 2026:** Added section 24, Toyota recalls and safety notices (NHTSA and Toyota), at C T's request.
 - **Oct 26, 2026:** Digest moving to GitHub Actions (workflow daily-digest.yml); Grok Bot routine to be paused once the workflow has delivered a good run.
+- **Oct 26, 2026:** Added section 25, Fog & cloud systems (NWS fog outlook, Dense Fog Advisories, low ceilings, inversions and lake-effect cloud, and how they affect any active hazmat or smoke plume), at C T's request. Fog is now always listed in All clear.
