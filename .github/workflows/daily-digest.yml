@@ -1,0 +1,111 @@
+name: Daily Toledo digest
+
+on:
+  schedule:
+    # GitHub cron is UTC. 11:30 UTC = 7:30 EDT (until Nov 1, 2026); 12:30 UTC = 7:30 EST.
+    # Both fire every day; the "gate" step lets only the one landing in the 7 AM ET hour proceed.
+    - cron: "30 11 * * *"
+    - cron: "30 12 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Write and commit the digest file, but do not send the email"
+        type: boolean
+        default: false
+      force:
+        description: "Regenerate even if today's digest file already exists"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      DIGEST_PROVIDER: ${{ vars.DIGEST_PROVIDER || 'openai' }}
+      DIGEST_MODEL: ${{ vars.DIGEST_MODEL }}
+      DIGEST_TO: ${{ vars.DIGEST_TO || 'foughtct@gmail.com' }}
+    steps:
+      - name: Gate (7 AM New York hour on schedule; manual runs always proceed)
+        id: gate
+        run: |
+          hour=$(TZ=America/New_York date +%H)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$hour" != "07" ]; then
+            echo "New York hour is $hour, not 07; this is the off-season cron. Exiting."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check secrets
+        id: secrets
+        if: steps.gate.outputs.go == 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          case "$DIGEST_PROVIDER" in
+            openai) keyvar=OPENAI_API_KEY ;;
+            anthropic) keyvar=ANTHROPIC_API_KEY ;;
+            xai) keyvar=XAI_API_KEY ;;
+            *) echo "::warning::DIGEST_PROVIDER must be openai, anthropic or xai (got '$DIGEST_PROVIDER'). Skipping."; echo "ok=false" >> "$GITHUB_OUTPUT"; exit 0 ;;
+          esac
+          missing=""
+          [ -z "${!keyvar}" ] && missing="$missing $keyvar"
+          if [ "$DRY_RUN" != "true" ]; then
+            [ -z "$GMAIL_USER" ] && missing="$missing GMAIL_USER"
+            [ -z "$GMAIL_APP_PASSWORD" ] && missing="$missing GMAIL_APP_PASSWORD"
+          fi
+          if [ -n "$missing" ]; then
+            echo "::warning::Missing secret(s):$missing. Add them under Settings > Secrets and variables > Actions. No digest generated, no email sent."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.secrets.outputs.ok == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.secrets.outputs.ok == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Generate digest
+        id: gen
+        if: steps.secrets.outputs.ok == 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          FORCE: ${{ inputs.force }}
+        run: python scripts/run_digest.py generate
+
+      - name: Commit and push digest files
+        if: steps.gen.outputs.status == 'generated'
+        run: |
+          d=$(TZ=America/New_York date +%F)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "digest-$d.txt" "email-$d.txt" "email-subject-$d.txt"
+          git commit -m "Digest $d (GitHub Actions)"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+      - name: Send email
+        if: steps.gen.outputs.status == 'generated' && inputs.dry_run != true
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python scripts/run_digest.py send

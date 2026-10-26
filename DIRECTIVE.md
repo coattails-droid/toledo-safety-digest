@@ -154,3 +154,4 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
 - **Oct 13, 2026:** Added section 22, Clothing recalls, at C T's request.
 - **Oct 13, 2026:** Added section 23, a recall category checklist (food and beverages, medications and supplements, children's toys and products, car seats and strollers, electronics with battery or fire risk, household appliances), at C T's request.
 - **Oct 13, 2026:** Added section 24, Toyota recalls and safety notices (NHTSA and Toyota), at C T's request.
+- **Oct 26, 2026:** Digest moving to GitHub Actions (workflow daily-digest.yml); Grok Bot routine to be paused once the workflow has delivered a good run.
