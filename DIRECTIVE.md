@@ -97,8 +97,8 @@ Check the last 24 to 48 hours, and carry forward anything still active.
     - Urgent do-not-drive or fire warnings go in Needs attention. Everything else goes with the recalls. On quiet days, give it one all-clear line.
 
 25. **Fog & cloud systems.** The daily NWS Cleveland and Detroit fog outlook for Toledo, Lucas and Wood counties, western Lake Erie and the Maumee corridor: whether fog is expected, any Dense Fog Advisories, timing, and visibility. Also low cloud ceilings, stratus decks, temperature inversions or stagnant-air setups, and lake-effect cloud, with what they mean for visibility and travel.
-   - Whenever a hazmat release, fire or smoke incident is active (for example the Oct 21, 2026 MC Tank glycidyl methacrylate leak, when fog and a low cloud deck lingered), explain how fog, inversions and clouds may trap or disperse the plume. Use official NWS or agency statements and the NWS Area Forecast Discussion (AFD) where available, and don't speculate beyond the sources.
-   - Placement: a Dense Fog Advisory, or fog or an inversion during an active incident, goes in Needs attention. Otherwise give a short line in Worth knowing or All clear. All clear always lists Fog.
+    - Whenever a hazmat release, fire or smoke incident is active (for example the Oct 21, 2026 MC Tank glycidyl methacrylate leak, when fog and a low cloud deck lingered), explain how fog, inversions and clouds may trap or disperse the plume. Use official NWS or agency statements and the NWS Area Forecast Discussion (AFD) where available, and don't speculate beyond the sources.
+    - Placement: a Dense Fog Advisory, or fog or an inversion during an active incident, goes in Needs attention. Otherwise give a short line in Worth knowing or All clear. All clear always lists Fog.
 
 ### Emerging Tech Watch (sections 17 to 19)
 
