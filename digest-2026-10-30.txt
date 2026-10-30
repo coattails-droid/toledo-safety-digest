@@ -27,22 +27,22 @@ NEEDS ATTENTION
   - Source: https://www.cpsc.gov/Recalls (Oct 29 warnings; full links in the repo file)
 
 - NEW: NTI and HTP brand gas boilers (made by Ariston, formerly NTI Boilers) - fire, carbon monoxide and impact hazard (CPSC Oct 29)
-  - 4,726 units. The condensate dish can crack during a delayed ignition, letting unburned gas build up; if it ignites, the front cover can blow off. 34 incidents reported, including a technician's broken jaw.
+  - 4,726 units. The condensate dish can crack during a delayed ignition, letting unburned gas build up; if it ignites, the front cover can blow off.
   - What to do: stop using it and call Ariston for a free repair by a certified technician (800-688-2575, https://ntiboilers.com/safety-recalls). If you must keep using it until the repair, make sure you have working smoke and CO alarms.
   - Source: https://www.cpsc.gov/Recalls (Oct 29)
 
 - NEW: PILLANI nursing pillows - infant suffocation risk (CPSC Oct 29)
-  - About 25,762 U-shaped pillows with a small attached pillow and waist strap; model NP4351, batch 202604, 202605 or 202606 on the label. Amazon, Apr-Sep 2026, $30-$40.
-  - What to do: stop using it now; contact PILLANI for a full refund (https://pill-ani.com/pages/recall, pillanirecall@gmail.com).
-  - Source: https://www.cpsc.gov/Recalls/2027/PILLANI-Recalls-Nursing-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standards-for-Nursing-Pillows
+  - About 25,762 nursing pillows, model NP4351, batch 202604, 202605 or 202606. Sold on Amazon, Apr-Sep 2026.
+  - What to do: stop using it now; contact PILLANI for a refund at https://pill-ani.com/pages/recall
+  - Source: https://www.cpsc.gov/Recalls
 
 - NEW: HAIARA power banks sold on Amazon by Mitrytech - battery can explode and ignite (CPSC Oct 29)
-  - About 11,000 units; 600 reports of fire or overheating, 3 burns, 9 property-damage reports.
-  - What to do: stop using it; write "recalled" on it, photograph it, dispose of it properly, and contact Mitrytech for a refund (http://www.haiara.net/recalls.html, HAIARArecall@outlook.com). Don't put lithium batteries in the trash.
+  - About 11,000 units; about 600 reports of fire or overheating.
+  - What to do: stop using it and contact Mitrytech for a refund (http://www.haiara.net/recalls.html). Don't put lithium batteries in the trash.
   - Source: https://www.cpsc.gov/Recalls (Oct 29)
 
 - NEW: Wise Wife brand ground cinnamon, 110 g (3.88 oz) - elevated lead (FDA Oct 29; sold in Ohio and Michigan)
-  - Clear plastic jar, black screw cap; UPC 0688474302754; best before 4/25/2027. Sold to grocery stores in 14 states including OH and MI, Sep 8, 2025-Jun 28, 2026. No illnesses reported.
+  - UPC 0688474302754; best before 4/25/2027. Sold to grocery stores in 14 states including OH and MI, Sep 8, 2025-Jun 28, 2026.
   - What to do: don't use it; throw it away or return it for a refund. If a child ate it regularly, ask your pediatrician about a blood lead test.
   - Source: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/slr-food-distribution-inc-recalls-wise-wife-brand-ground-cinnamon-due-elevated-lead-levels
 
@@ -100,12 +100,12 @@ WORTH KNOWING (TOLEDO)
     - Ongoing: Truly AIP baking mix, ZestiGreens seeds, Imperio jerky, Kayem, Starfish salmon (Needs attention); Haifa cold smoked sprats (NJ/NY/PA; botulism); H-E-B BBQ Chop Salad Kit (Texas only; best by today); Natural Grocers mung beans (glass); Grace chicken Vienna sausages from Jamaica (FSIS alert); Lidl Gelatelli gelato (Listeria); WinCo hoagie rolls (sesame); Darwin's cat food lots 12731 and 12493 (Salmonella). No new USDA FSIS recall since Oct 24.
   - Medications, supplements and medical devices:
     - No new FDA drug or supplement recall posted. Ongoing: Ultimate Forza (hidden sildenafil, tadalafil, dapoxetine); Apothecary Pharma compounded tirzepatide; Babies' Magic Tea gripe water; K.C. Pharmaceuticals store-brand eye drops; Amazon Basic Care acetaminophen 500 mg; Par Health argatroban; RAPTURE pre-workout; Wedgewood veterinary drugs. Lots: full file.
-    - NEW (devices, for patients): Boston Scientific Nalu TD2 Therapy Disc (REF 34014-001) and TD2 Patient Kit (REF 74011) for a spinal-cord stimulator can stop working because of a firmware bug; shipped to OH and MI among others; ask your doctor. https://recallcanary.com/recall/fda/boston-scientific-neuromodulation-nalu-td2-therapy-disc-with-firmware . FDA also posted an early alert on Medline-brand hospital/home beds (details still being collected). https://www.fda.gov/medical-devices/medical-device-safety/medical-device-recalls-and-early-alerts
+    - NEW (devices, for patients): Boston Scientific Nalu TD2 Therapy Disc and patient kit for a spinal-cord stimulator can stop working because of a firmware bug; shipped to OH and MI among others; ask your doctor. https://recallcanary.com/recall/fda/boston-scientific-neuromodulation-nalu-td2-therapy-disc-with-firmware . FDA also posted an early alert on Medline-brand hospital/home beds (details still being collected). https://www.fda.gov/medical-devices/medical-device-safety/medical-device-recalls-and-early-alerts
     - NEW: RootStim minoxidil hair-regrowth bottles (about 11,000) aren't child-resistant; minoxidil can seriously poison a child. Lock it away; RootStim offers a replacement (finergraceing@gmail.com, 202-743-1714). https://www.cpsc.gov/Recalls
   - Children's toys and products:
-    - NEW: Harkla children's compression sensory swings, SKU LS-COMP-1BLU or LS-COMP-1BLU-SW, four-hole ceiling hook only (about 25,541) - hook can separate; 14 injuries including two concussions. Stop using until you get the free repair kit at https://harkla.co/pages/ceiling-hook-recall-2026 or 844-442-7552. https://www.cpsc.gov/Recalls/2027/Harkla-Recalls-Childrens-Sensory-Swings-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard
+    - NEW: Harkla children's compression sensory swings, SKU LS-COMP-1BLU or LS-COMP-1BLU-SW, four-hole ceiling hook only (about 25,541) - hook can separate; 14 injuries. Stop using until you get the free repair kit at https://harkla.co/pages/ceiling-hook-recall-2026 or 844-442-7552. https://www.cpsc.gov/Recalls
     - NEW: PILLANI nursing pillows; CHE-US magnet stick figures, magnetic fidget balls, ASONPAO remotes (Needs attention).
-    - NEW: Yinklev Jocoevol 6-drawer dressers (about 32,791; Amazon) and SOOWERY 8-drawer fabric dressers (about 138) - tip-over risk; stop using unless anchored and get a refund (SOOWERYrecall@outlook.com). https://www.cpsc.gov/Recalls/2027/Yinklev-Recalls-Jocoevol-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units
+    - NEW: Yinklev Jocoevol 6-drawer dressers (about 32,791; Amazon) and SOOWERY 8-drawer fabric dressers (about 138) - tip-over risk; stop using unless anchored and get a refund. https://www.cpsc.gov/Recalls
     - Ongoing: CIYTI costumes, Bamamon finger lights (Needs attention); Costway convertible high chairs (free replacement 844-242-1885); CPSC water-bead squishy toys; Primark 101 Dalmatians coin purses; Brush Buddies/Crayola/evo/ARU kids' toothpaste; Papablic bedside sleepers; bbluv high chairs; ONTHEWEI bath seats.
   - Car seats and strollers:
     - Britax B-Safe family and Endeavours infant seats made Aug 2020-May 2023 (ongoing; NHTSA 26C006000) - handle can detach; free clip kit at https://www.crshubrecall.com or 1-888-427-4829. Model numbers: full file. Nothing new.
@@ -114,8 +114,8 @@ WORTH KNOWING (TOLEDO)
     - Ongoing: 3M Scotch TL1302Z laminators; HotHands/Gobi Heat hand warmers; Dollar Tree balloon pumps 406198; Cupcakes and Cashmere lamps; Giant SureLock LED keys; PowRyte pressure washers.
   - Household appliances:
     - NEW: DREO heaters and NTI/HTP boilers (Needs attention).
-    - NEW: Bodum French press coffee makers with replaceable 8- and 12-cup glass carafes (Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, Kenya), 5.9 million - a cracked carafe can break and scald; 48 burn reports. Stop stirring with metal spoons, don't use a cracked carafe, and get a free plastic stirrer and warning label: http://www.bodumfrenchpressrecall.expertinquiry.com/ or 888-879-8213. https://www.cpsc.gov/Recalls/2027/Bodum-USA-Recalls-5-9-Million-French-Press-Coffee-Makers-with-Replaceable-Glass-Carafes-Due-to-Risk-of-Serious-Burn-Injury
-    - NEW: Whatever Works microwave grills (about 8,709; online) - can ignite; 3 fires. Stop using; refund from Whatever Works. https://www.cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard
+    - NEW: Bodum French press coffee makers with replaceable 8- and 12-cup glass carafes (Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, Kenya), 5.9 million - a cracked carafe can break and scald; 48 burn reports. Stop stirring with metal spoons, don't use a cracked carafe, and get a free plastic stirrer and warning label: http://www.bodumfrenchpressrecall.expertinquiry.com/ or 888-879-8213. https://www.cpsc.gov/Recalls
+    - NEW: Whatever Works microwave grills (about 8,709; online) - can ignite; 3 fires. Stop using; refund from Whatever Works. https://www.cpsc.gov/Recalls
     - NEW: Longjili Trading "Pamag Pieeoo" mattresses (about 50) fail the flammability standard; stop using; refund via Pamagpieeoo@outlook.com.
     - Ongoing: VQQQ patio heaters; Tristar Power Quick Pot 6-quart and Kalorik MAXX air fryer ovens (stop using; no recall); DR Power trimmer mowers; Snow Peak Takibi inserts; Reliancer and Xalirium adult bed rails; Lithonia RSX tilt arms; Chalsea and Romorgniz dressers.
   - Clothing and footwear:
@@ -169,8 +169,8 @@ WORTH KNOWING (TOLEDO)
 
 - Protests / civic (next 7 days)
   - Today, Fri Oct 30 (ongoing): "Rally for Toledo" campaign event (Ramaswamy for Ohio); time and place only via RSVP; no closures announced. https://vivekforohio.com/event/toledo/
-  - Sat Oct 31, 9:30-11 a.m.: union get-out-the-vote canvass with AFSCME President Patrick Moran, Rep. Marcy Kaptur and David Pepper, starting at AFSCME Council 8, 420 S. Reynolds Rd. No closures announced. https://www.mobilize.us/mayday/event/1065769/
-  - NEW: CCNO (Stryker) - a vote Wednesday to end its ICE detention arrangement failed; CCNO will study the cost of dropping ICE detainees. Lucas County Commissioner Pete Gerken and Sheriff Mike Navarre spoke for the change. https://www.13abc.com/2026/10/29/ccno-will-continue-holding-ice-detainees/
+  - Sat Oct 31, 9:30-11 a.m.: labor get-out-the-vote canvass starting at AFSCME Council 8, 420 S. Reynolds Rd. No closures announced. https://www.mobilize.us/mayday/event/1065769/
+  - NEW: CCNO (Stryker) - a vote Wednesday to end its ICE detention arrangement failed; CCNO will study the cost of dropping ICE detainees. https://www.13abc.com/2026/10/29/ccno-will-continue-holding-ice-detainees/
   - Toledo City Council Flock camera ordinance (ongoing). https://www.13abc.com/2026/10/28/i-team-toledo-ordinance-would-limit-police-use-flock-license-plate-camera-data/
   - Election Day Tue Nov 3: TARTA fare-free all day; Toledo Issue 16 safety levy (the city says 73 layoffs and no 2027 police or fire classes if it fails) and Oregon Issue 25 on the ballot. Early voting at 3737 W. Sylvania Ave (Entrance C). https://toledovotes.com/early-absentee-voting-info/ ; https://www.toledobuzz.com/2026/10/29/issue-16-toledo-warns-of-73-layoffs-no-police-or-fire-classes-if-levy-fails/
 
@@ -180,7 +180,7 @@ WORTH KNOWING (TOLEDO)
 
 - Kids / Poison Control
   - Halloween (ongoing): check light-up costumes and toys for screwed-shut battery doors; keep cannabis edibles and loose magnets away from candy bags; check candy before kids eat it. Swallowed button battery: ER now, 1-800-498-8666. Poison Help 1-800-222-1222. https://www.poison.org/battery/tips
-  - NEW: RootStim minoxidil (not child-resistant) and Wise Wife cinnamon (lead) above. National Lead Poisoning Prevention Week ends Saturday: ask about a child blood lead test if your home was built before 1978.
+  - NEW: RootStim minoxidil (not child-resistant) and Wise Wife cinnamon (lead) above. It's National Lead Poisoning Prevention Week: ask about a child blood lead test if your home was built before 1978.
 
 - Other local notices
   - Kent Branch Library (ongoing): reopening not confirmed in news found. The Blade (ongoing): WARN notice says it would stop publishing Dec 31 unless a buyer is found. Benton Ridge Telephone outage (Henry/Hancock): no restoration date found.
@@ -223,42 +223,41 @@ FULL LOT / CODE LISTS AND BACKGROUND (email links here; not repeated in full in 
 
 Note: this edition covers news from Oct 29 morning through Oct 30 morning (ET).
 
-CPSC Oct 29 batch (full links):
-- DREO DR-HSH015 heaters (recall 27-054): made 2025/04-2026/01 (date on underside label); importer Hesung Innovation Corp dba DREO, Clifton NJ; made in Vietnam; about 36,300 more sold in Canada. https://www.cpsc.gov/Recalls/2027/DREO-Recalls-DR-HSH015-Space-Heaters-Due-to-Fire-and-Burn-Hazards ; DREO notice https://www.dreo.com/pages/safety-rc
-- Smoke/CO alarm warnings: JuzhiAnn / Yfwsrecinoe / JAEHSKA model JZA-540COM (search summary says sold on Amazon and eBay) https://www.cpsc.gov/Warnings/2027/CPSC-Warns-Consumers-to-Stop-Using-Yfwsrecinoe-Smoke-and-Carbon-Monoxide-Detectors-Immediately-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard ; GuardianSense / KLTseanife model YHW-542COM-R (two reports of failing to alarm in smoke or fire) https://www.cpsc.gov/Recalls
-- NTI and HTP gas boilers (Ariston): 4,726 U.S. plus 2,261 Canada; 34 condensate-dish incidents, 3 front-cover detachments. https://ntiboilers.com/safety-recalls ; VCexchanger@ariston.com ; 800-688-2575.
-- PILLANI nursing pillows: model NP4351; batches 202604, 202605, 202606; colors and prints: cloud and stars, wild animal, white with leaf and feather, stars, pink with leaf, light blue, pink, light yellow, gray, light gray, beige, light green. https://www.cpsc.gov/Recalls/2027/PILLANI-Recalls-Nursing-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standards-for-Nursing-Pillows
-- HAIARA power banks (Mitrytech, Amazon): about 11,000; 600 fire/thermal reports, 3 burns, 9 property damage. http://www.haiara.net/recalls.html
-- Bodum French presses: models Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, Kenya with replaceable 8- and 12-cup glass carafes; 70 breakage reports, 48 burns. http://www.bodumfrenchpressrecall.expertinquiry.com/ ; Bodum3302@sedgwick.com ; 888-879-8213. https://www.cpsc.gov/Recalls/2027/Bodum-USA-Recalls-5-9-Million-French-Press-Coffee-Makers-with-Replaceable-Glass-Carafes-Due-to-Risk-of-Serious-Burn-Injury
-- Harkla compression sensory swings: blue fabric seat, four-hole hook, 18-24 in. drop; SKU LS-COMP-1BLU or LS-COMP-1BLU-SW on the box; 29 hook separations, 14 injuries (two concussions, a broken arm); about 5,534 more in Canada. recall@harkla.co ; 844-442-7552. https://www.cpsc.gov/Recalls/2027/Harkla-Recalls-Childrens-Sensory-Swings-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard
-- Yinklev Jocoevol 6-drawer dressers: about 32,791; search summary lists model C-0633, sold on Amazon; verify on CPSC. https://www.cpsc.gov/Recalls/2027/Yinklev-Recalls-Jocoevol-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units
-- SOOWERY 8-drawer fabric dressers: about 138; write RECALLED on top, front and sides, remove drawers, email photos to SOOWERYrecall@outlook.com for a refund.
-- Whatever Works microwave grills: about 8,709; search summary lists model K4001, sold online Jan 2025-Jun 2026 for about $22; 3 fires. https://www.cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard ; https://www.whateverworks.com/CustomerService.aspx?page=Product+Recalls
-- RootStim minoxidil: about 11,000; write RECALLED on the bottle, discard it, send a photo to finergraceing@gmail.com for a replacement; https://rootstim.com ; 202-743-1714.
-- Longjili Trading Pamag Pieeoo mattresses: about 50; Pamagpieeoo@outlook.com.
-- QZH.DUAO children's pajama sets: short-sleeve tops and matching pants; colors Pink Bow, Pink, Black, Light Blue, Purple, Mint Green, Hot Pink, Pink Bowknot, Blue Bowknot, Pink Strawberry, Pink Bow Flower; sizes 4-5T through 13-14 years; Amazon Feb-Jul 2026, about $23. https://www.cpsc.gov/Recalls/2027/Fashion-Brand-Apparel-Recalls-QZH-DUAO-Pajama-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear
-- Stop-use warnings (no recall): ASONPAO Ghost Controls gate-opener remotes (accessible lithium coin batteries); CHE-US magnetic stick figures (limbs release strong small magnets; recalledornot.com lists packaging code X004N3MGCB); Wnd and Clouds' magnetic sensory fidget balls. Related: GBYMIUY magnetic stick figure toy sets recall. https://www.recalledornot.com/recalls/cpsc/27053/cpsc-warns-consumers-to-stop-using-che-us-magnetic-stick-figures-immedia
-- CPSC news release listing all of the above: https://www.prnewswire.com/news-releases/cpsc-posts-new-product-recalls-and-product-safety-warnings-to-its-web-site-302923919.html
+CPSC Oct 29 batch (full details):
+- DREO DR-HSH015 heaters (recall 27-054): about 338,800; black ceramic, about 11.5 x 13 in., with remote; made April 2025-January 2026 (date label underneath); 17 ignition reports; Costco stores and Dreo.com, BestBuy.com, Kohls.com, Lowes.com, QVC.com, HomeDepot.com, B2BRenew.com, Costco.com, Sep 2025-Oct 2026, $70-$110. Free replacement: cut cord, send photo; 833-820-0887, spaceheater@realtimeresults.net, www.recallrtr.com/spaceheater. https://www.cpsc.gov/Recalls/2027/DREO-Recalls-DR-HSH015-Space-Heaters-Due-to-Fire-and-Burn-Hazards
+- Smoke/CO alarm stop-use warnings: JuzhiAnn / Yfwsrecinoe / JAEHSKA model JZA-540COM (a search summary says sold on Amazon and eBay; verify on CPSC); GuardianSense / KLTseanife model YHW-542COM-R. Dispose and replace. https://www.cpsc.gov/Recalls
+- NTI and HTP gas boilers (Ariston): 4,726 units; cracked condensate dish can let unburned gas build up, then fire, CO or the front cover blowing off. Free repair: 800-688-2575, https://ntiboilers.com/safety-recalls
+- PILLANI nursing pillows: model NP4351; batches 202604, 202605, 202606; about 25,762; Amazon Apr-Sep 2026; refund https://pill-ani.com/pages/recall
+- HAIARA power banks (Mitrytech, Amazon): about 11,000; about 600 fire or thermal reports; refund http://www.haiara.net/recalls.html
+- Bodum French presses: 5.9 million; 8- and 12-cup replaceable glass carafes, models Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, Kenya; 70 breakage reports, 48 burns; free plastic spoon and warning label: http://www.bodumfrenchpressrecall.expertinquiry.com/ , 888-879-8213.
+- Harkla compression sensory swings: SKU LS-COMP-1BLU or LS-COMP-1BLU-SW, four-hole ceiling hook; 25,541 units; 14 injuries; free repair kit https://harkla.co/pages/ceiling-hook-recall-2026 , 844-442-7552.
+- Yinklev Jocoevol 6-drawer dressers: about 32,791, Amazon; a search summary lists model C-0633 (verify on CPSC). SOOWERY 8-drawer fabric dressers: about 138. Tip-over; refund.
+- Whatever Works microwave grills: about 8,709; a search summary lists model K4001, sold online Jan 2025-Jun 2026 for about $22 (verify on CPSC); 3 fires; refund.
+- RootStim minoxidil: about 11,000 bottles, not child-resistant; replacement via finergraceing@gmail.com, 202-743-1714.
+- Longjili Trading Pamag Pieeoo mattresses: about 50; flammability; refund via Pamagpieeoo@outlook.com.
+- QZH.DUAO children's pajama sets: about 300; Amazon Feb-Jul 2026, about $23; sizes 4-5T through 13-14; fail children's sleepwear flammability standards. Cut in half, email photo to qzh.duaoproductrecall@outlook.com for refund. https://www.cpsc.gov/Recalls/2027/Fashion-Brand-Apparel-Recalls-QZH-DUAO-Pajama-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear
+- Stop-use warnings (no recall): ASONPAO Ghost Controls gate-opener remotes (reachable coin batteries; about 2,610 units); CHE-US magnetic stick figures (recalledornot.com lists code X004N3MGCB); Wnd and Clouds' magnetic sensory fidget balls. Related: GBYMIUY magnetic stick figure recall.
+- CPSC news release listing these: https://www.prnewswire.com/news-releases/cpsc-posts-new-product-recalls-and-product-safety-warnings-to-its-web-site-302923919.html
 
-Wise Wife ground cinnamon (FDA, Oct 29): SLR Food Distribution Inc., Hicksville NY; 110 g (3.88 oz) clear plastic container, black screw cap; UPC 0688474302754 on back label; best before 4/25/2027; distributed to CT, IN, KS, MA, MI, MN, NC, NE, NY, OH, PA, TX, VA, WI, Sep 8, 2025-Jun 28, 2026; found by Connecticut Agricultural Experiment Station sampling.
+Wise Wife ground cinnamon (FDA, Oct 29): SLR Food Distribution Inc.; 110 g (3.88 oz); UPC 0688474302754; best before 4/25/2027; sold in 14 states including OH and MI, Sep 8, 2025-Jun 28, 2026. https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/slr-food-distribution-inc-recalls-wise-wife-brand-ground-cinnamon-due-elevated-lead-levels
 
-Boston Scientific Nalu (FDA enforcement report, classified Oct 29): Nalu TD2 Therapy Disc with firmware, REF 34014-001, and TD2 Patient Kit, REF 74011; recall began Sep 30, 2026; distributed in PA, FL, OR, AZ, OH, SC, TX, OK, MI, CA, NJ.
+Boston Scientific Nalu TD2 (FDA enforcement report, classified Oct 29): Therapy Disc with firmware and TD2 patient kit; distribution included OH and MI. https://recallcanary.com/recall/fda/boston-scientific-neuromodulation-nalu-td2-therapy-disc-with-firmware
 
 Measles: Outbreak News Today (Oct 29) reports ODH at 296 cases in 24 counties (Geauga 54, Wayne 45, Ashtabula 47, Medina 27). Previous: 262 (WFMJ, as of Oct 23). ODH dashboard updates Thursday afternoons per an ODH provider alert. Crawford County suspected measles/mumps: no test result found this morning. Akron Children's watch ends Nov 10.
 
-Missing persons statewide (outside our area, for reference): Ohio AG list shows endangered missing adult alerts for Glenn Stout (Vinton County) and Tommie Cecil (Hamilton County); no active AMBER alert. Portage County man (Mike Lanham) found safe Oct 29.
+Missing persons statewide (outside our area): the Ohio AG list shows endangered missing adult alerts in Vinton and Hamilton counties only; no active AMBER alert.
 
-MC Tank lawsuits (WTOL, Oct 29): at least nine filed, all seeking class status, none certified. Lucas County Common Pleas: seven, including Sydney Ann Petty (first, Oct 22), the Oct 23 business-owner case, Mallory Van Camp (Oct 26), the DannLaw/Bryson case (Heather Keyes), Jesse Leonard (Dryden Drive; filed Wed Oct 28), John Clarke (Stellantis Toledo Assembly worker; filed Thu Oct 29). Federal: Kathy Thiede of Erie, MI, E.D. Michigan (filed Wed Oct 28), proposed class up to 15 miles with Ohio and Michigan subclasses. Petty's lawyers moved to consolidate. Note: our Oct 27-29 digests called the Oct 23 business-owner case the first filed; WTOL says Petty's Oct 22 case was first. These are allegations, not findings.
+MC Tank lawsuits (WTOL, Oct 29): at least nine filed, all seeking class status, none certified. Seven in Lucas County Common Pleas, including Sydney Ann Petty (first, Oct 22; her lawyers moved to consolidate), Jesse Leonard of Dryden Drive (Oct 28) and Stellantis Toledo Assembly (Jeep) worker John Clarke (Oct 29); earlier cases listed in the carried-forward Oct 29 section below. Federal: Kathy Thiede of Erie, MI, E.D. Michigan (Oct 28), proposed class up to 15 miles. Note: earlier digests called the Oct 23 business-owner case the first filed; WTOL says Petty's Oct 22 case was first. These are allegations, not findings.
 
-MC Tank claims line (13abc, Oct 29): 888-271-0577. Skeldon Law statement: a receipt confirms payment for specific expenses; a release can waive future claims, including health effects not yet known; ask to sign a receipt, request and read any document first, keep records. Mayor's office: city documenting its response expenses and evaluating options to seek reimbursement.
+MC Tank claims line (13abc, Oct 29): 888-271-0577. Skeldon Law statement (summarized): ask to sign a receipt rather than a release, read any document before signing, and keep records. Mayor's office: city documenting its response expenses and evaluating options to seek reimbursement.
 
 Geoengineering reliability note: thedanipost.com item dated Oct 30, 2026 describes the OSTP "Congressionally-Mandated Report on Solar Radiation Modification" required by the 2022 Consolidated Appropriations Act; that report was released in 2023 (the article's image path is dated 2023/07). Not treated as new.
 
-Space weather: SWPC 3-day forecast issued Oct 30 00:30 UTC: Kp 5.00 (G1) Oct 31 00-03 UT (8-11 p.m. ET Fri), 4.67 (G1) 03-06 UT Oct 31 and Nov 1 (11 p.m.-2 a.m. ET Fri night and Sat night). Rationale: G1 storms likely Oct 31 and Nov 1 from a coronal hole high-speed stream.
+Space weather: SWPC 3-day forecast issued Oct 30 00:30 UTC: Kp 5.00 (G1) Oct 31 00-03 UT (8-11 p.m. ET Fri), 4.67 (G1) 03-06 UT Oct 31 and Nov 1 (11 p.m.-2 a.m. ET Fri night and Sat night). SWPC: G1 storms likely Oct 31 and Nov 1.
 
 Workflow comparison note: as of about 7:50 a.m. ET Oct 30, the GitHub Actions workflow daily-digest.yml has still never produced a digest. Its Oct 29 scheduled runs (1:30 p.m. and 2:35 p.m. ET) failed in 3-4 seconds, like every run since Oct 27 (GitHub had reported failed account payments or a spending limit). No run had appeared yet today. This file was written by the Grok Bot routine under the normal name.
 
-Sources checked (Oct 30 morning, ET): NWS alerts API (Toledo point; LEZ142/162/444, OHZ003/006, MIZ083), NWS forecast (CLE 20,66), NWS Cleveland AFD (7:29 a.m.), AirNow reporting-area file (Toledo 7 a.m.), NOAA NCCOS HAB bulletin (Oct 30), NOAA SWPC 3-day forecast, City of Toledo MC Tank page, 13abc, WTOL, Spectrum News, ToledoBuzz, FDA recalls and device recalls pages, CPSC recalls page and PR Newswire release, NHTSA summaries (NextCarReview, Fixes, RecallBench), Outbreak News Today, Cincinnati Enquirer, WFMJ, Ohio AG missing persons, NCMEC, Monroe County MI alert center, Mobilize, Federal Register, NTIA, Communications Daily, RCR Wireless, NGMN, Light Reading, EDF, University of Leeds, IEEE TBCAS. Not confirmed: East Manhattan Blvd reopening; Franklin Park Mall reopening (one search summary claimed it reopened, but no article said so). Nothing here is invented; verify recall details on the linked notices before acting.
+Sources checked (Oct 30 morning, ET): NWS alerts API (Toledo point; LEZ142/162/444, OHZ003/006, MIZ083), NWS forecast (CLE 20,66), NWS Cleveland AFD (7:29 a.m.), AirNow reporting-area file (Toledo 7 a.m.), NOAA NCCOS HAB bulletin (Oct 30), NOAA SWPC 3-day forecast, City of Toledo MC Tank page, 13abc, WTOL, Spectrum News, ToledoBuzz, FDA recalls and device recalls pages, CPSC recalls page and PR Newswire release, NHTSA summaries (NextCarReview, Fixes, RecallBench), Outbreak News Today, Ohio AG missing persons, NCMEC, Monroe County MI alert center, Mobilize, Federal Register, NTIA, Communications Daily, RCR Wireless, NGMN, Light Reading, EDF, University of Leeds, IEEE TBCAS. Not confirmed: East Manhattan Blvd reopening; Franklin Park Mall reopening (one search summary claimed it reopened, but no article said so). Nothing here is invented; verify recall details on the linked notices before acting.
 
 ----- Carried forward from the Oct 29 file -----
 Note: this edition covers news from Oct 28 morning through Oct 29 morning (ET).
