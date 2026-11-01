@@ -31,7 +31,7 @@ from zoneinfo import ZoneInfo
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REPO_URL = "https://github.com/coattails-droid/toledo-safety-digest/blob/main"
 EMAIL_LIMIT = 25000
-DEFAULT_MODELS = {"openai": "gpt-5.5", "anthropic": "claude-opus-5-5", "xai": "grok-4.7"}
+DEFAULT_MODELS = {"openai": "gpt-5.5", "anthropic": "claude-opus-5-5", "xai": "grok-4.3"}
 KEY_VARS = {"openai": "OPENAI_API_KEY", "anthropic": "ANTHROPIC_API_KEY", "xai": "XAI_API_KEY"}
 PLACEHOLDER_RE = re.compile(r"\b(TODO|TBD|PLACEHOLDER|lorem ipsum|\[insert|XX:XX)\b", re.I)
 
@@ -130,6 +130,57 @@ def responses_api(base, key, model, prompt, tools, extra=None):
     return text
 
 
+def xai_api(key, model, prompt, use_search):
+    """xAI Chat Completions with Live Search, streamed.
+
+    The Responses-API path failed twice in production testing: grok-4.3
+    returned a ~1k-char stub through it, and grok-4.7 hung until the socket
+    timed out at 1500s. Chat Completions + search_parameters is xAI's
+    classic Live Search shape (one clean content string), and streaming
+    keeps bytes flowing during long searches so nothing idles to death.
+    """
+    payload = {"model": model,
+               "messages": [{"role": "user", "content": prompt}],
+               "max_tokens": 16000,
+               "stream": True,
+               "stream_options": {"include_usage": True}}
+    if use_search:
+        payload["search_parameters"] = {
+            "mode": "on", "return_citations": True, "max_search_results": 30,
+            "sources": [{"type": "web"}, {"type": "news"}, {"type": "x"}]}
+    req = urllib.request.Request(
+        "https://api.x.ai/v1/chat/completions",
+        data=json.dumps(payload).encode(), method="POST",
+        headers={"Content-Type": "application/json",
+                 "Authorization": f"Bearer {key}"})
+    parts, usage = [], {}
+    try:
+        with urllib.request.urlopen(req, timeout=900) as r:
+            for raw in r:
+                line = raw.decode("utf-8", "replace").strip()
+                if not line.startswith("data:"):
+                    continue
+                data = line[5:].strip()
+                if data == "[DONE]":
+                    break
+                try:
+                    chunk = json.loads(data)
+                except ValueError:
+                    continue
+                if chunk.get("usage"):
+                    usage = chunk["usage"]
+                for choice in chunk.get("choices", []):
+                    piece = (choice.get("delta") or {}).get("content")
+                    if piece:
+                        parts.append(piece)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(
+            f"HTTP {e.code} from xAI chat completions: "
+            f"{e.read().decode(errors='replace')[:2000]}")
+    log(f"usage: {json.dumps(usage)}")
+    return "".join(parts)
+
+
 def anthropic_api(key, model, prompt, use_search):
     headers = {"x-api-key": key, "anthropic-version": "2023-06-01"}
     messages = [{"role": "user", "content": prompt}]
@@ -163,8 +214,7 @@ def call_llm(prompt, use_search=True):
         return responses_api("https://api.openai.com/v1", key, model, prompt, tools,
                              {"reasoning": {"effort": "medium"}})
     if provider == "xai":
-        tools = [{"type": "web_search"}, {"type": "x_search"}] if use_search else None
-        return responses_api("https://api.x.ai/v1", key, model, prompt, tools)
+        return xai_api(key, model, prompt, use_search)
     if provider == "anthropic":
         return anthropic_api(key, model, prompt, use_search)
     raise ValueError(f"unknown DIGEST_PROVIDER {provider!r}")
@@ -195,7 +245,9 @@ def problems(subject, email, digest, link):
 
 
 def _attempt(prompt, link):
-    subject, email, digest = split_parts(call_llm(prompt))
+    text = call_llm(prompt)
+    log(f"raw model output: {len(text)} chars; head: {text[:240]!r}")
+    subject, email, digest = split_parts(text)
     errs = problems(subject, email, digest, link)
     if any("chars (limit" in e for e in errs):  # one cheap no-search shortening pass
         log("email too long; asking the model to shorten it")
@@ -218,7 +270,11 @@ def generate():
     link = f"{REPO_URL}/digest-{day.isoformat()}.txt"
     prior_name, prior_text = prior_digest(day)
     prompt = build_prompt(day, read(os.path.join(ROOT, "DIRECTIVE.md")), prior_name, prior_text)
-    subject, email, digest, errs = _attempt(prompt, link)
+    try:
+        subject, email, digest, errs = _attempt(prompt, link)
+    except Exception as e:  # a dead API call becomes a failed attempt, not a dead run
+        subject, email, digest = "", "", ""
+        errs = [f"generation call failed: {e}"]
     if errs:  # one full retry with the required format spelled out (model output varies run to run)
         log("first attempt failed checks; retrying once with the format reinforced:\n  " + "\n  ".join(errs))
         retry_prompt = (prompt + "\n\n===== FORMAT REMINDER (a previous attempt failed validation) =====\n"
@@ -227,7 +283,10 @@ def generate():
                         f"section is the short summary and must stay under {EMAIL_LIMIT} characters; put "
                         "the full detail in the DIGEST section (the long version). Never put a markdown "
                         "bold marker on its own line.")
-        subject, email, digest, errs = _attempt(retry_prompt, link)
+        try:
+            subject, email, digest, errs = _attempt(retry_prompt, link)
+        except Exception as e:
+            errs = errs + [f"retry call failed: {e}"]
     if errs:
         log("ERROR: output failed checks, nothing written:\n  " + "\n  ".join(errs))
         set_output("status", "error")
