@@ -131,25 +131,22 @@ def responses_api(base, key, model, prompt, tools, extra=None):
 
 
 def xai_api(key, model, prompt, use_search):
-    """xAI Chat Completions with Live Search, streamed.
+    """xAI Responses API (Agent Tools), streamed, with an output-token cap.
 
-    The Responses-API path failed twice in production testing: grok-4.3
-    returned a ~1k-char stub through it, and grok-4.7 hung until the socket
-    timed out at 1500s. Chat Completions + search_parameters is xAI's
-    classic Live Search shape (one clean content string), and streaming
-    keeps bytes flowing during long searches so nothing idles to death.
+    History: the original non-streamed Responses call returned a ~1k-char
+    stub from grok-4.3 (no max_output_tokens set, so reasoning could eat
+    the whole budget) and hung grok-4.7 to the 1500s socket timeout.
+    Chat Completions Live Search is not an option: xAI retired it
+    (HTTP 410, "switch to the Agent Tools API"). So: Responses + tools,
+    but streamed (bytes keep flowing; no idle-socket death) and with
+    max_output_tokens set generously.
     """
-    payload = {"model": model,
-               "messages": [{"role": "user", "content": prompt}],
-               "max_tokens": 16000,
-               "stream": True,
-               "stream_options": {"include_usage": True}}
+    payload = {"model": model, "input": prompt,
+               "max_output_tokens": 16000, "stream": True}
     if use_search:
-        payload["search_parameters"] = {
-            "mode": "on", "return_citations": True, "max_search_results": 30,
-            "sources": [{"type": "web"}, {"type": "news"}, {"type": "x"}]}
+        payload["tools"] = [{"type": "web_search"}, {"type": "x_search"}]
     req = urllib.request.Request(
-        "https://api.x.ai/v1/chat/completions",
+        "https://api.x.ai/v1/responses",
         data=json.dumps(payload).encode(), method="POST",
         headers={"Content-Type": "application/json",
                  "Authorization": f"Bearer {key}"})
@@ -164,18 +161,19 @@ def xai_api(key, model, prompt, use_search):
                 if data == "[DONE]":
                     break
                 try:
-                    chunk = json.loads(data)
+                    event = json.loads(data)
                 except ValueError:
                     continue
-                if chunk.get("usage"):
-                    usage = chunk["usage"]
-                for choice in chunk.get("choices", []):
-                    piece = (choice.get("delta") or {}).get("content")
-                    if piece:
-                        parts.append(piece)
+                etype = event.get("type", "")
+                if etype == "response.output_text.delta":
+                    parts.append(event.get("delta", ""))
+                elif etype == "response.completed":
+                    usage = (event.get("response") or {}).get("usage") or {}
+                elif etype in ("response.failed", "error"):
+                    raise RuntimeError(f"xAI stream error event: {data[:500]}")
     except urllib.error.HTTPError as e:
         raise RuntimeError(
-            f"HTTP {e.code} from xAI chat completions: "
+            f"HTTP {e.code} from xAI responses: "
             f"{e.read().decode(errors='replace')[:2000]}")
     log(f"usage: {json.dumps(usage)}")
     return "".join(parts)
