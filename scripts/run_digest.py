@@ -95,7 +95,11 @@ long exposure-site lists and extended background go ONLY in the full digest; in 
 "Lot codes and full details: {link}". Include that link in the SUMMARY section.
 ===DIGEST===
 The full digest file (no length limit), same structure with all details, codes and sources.
+The DIGEST is the complete record and must run at least 3,000 characters: include every
+section of the directive even on quiet days (write "no change" for a section rather than
+omitting it). The EMAIL is the short version; the DIGEST is the long one.
 
+Write the three marker lines bare - never wrap them in ** or any other markdown.
 No placeholder text. No commentary outside the three parts.
 
 ===== DIRECTIVE.md =====
@@ -219,10 +223,15 @@ def call_llm(prompt, use_search=True):
 
 
 def split_parts(text):
+    # Grok habitually wraps the markers in markdown bold (**===EMAIL===**)
+    # and sometimes leaves a stray '**' line behind; normalize both away
+    # before parsing instead of failing an otherwise good digest.
+    text = re.sub(r"\*\*\s*(===SUBJECT===|===EMAIL===|===DIGEST===)\s*\*\*", r"\1", text)
+    text = re.sub(r"(?m)^\s*\*\*\s*$", "", text)
     m = re.search(r"===SUBJECT===\s*(.*?)\s*===EMAIL===\s*(.*?)\s*===DIGEST===\s*(.*)\Z", text, re.S)
     if not m:
         raise RuntimeError("model output missing ===SUBJECT===/===EMAIL===/===DIGEST=== markers")
-    subject = m.group(1).strip().splitlines()[0].strip()
+    subject = m.group(1).strip().splitlines()[0].strip().strip("*").strip()
     return subject, m.group(2).strip() + "\n", m.group(3).strip() + "\n"
 
 
@@ -279,8 +288,10 @@ def generate():
                         "Return EXACTLY three sections, in order, marked ===SUBJECT===, ===EMAIL===, "
                         "===DIGEST===. The subject line must begin 'Toledo Daily Digest - '. The EMAIL "
                         f"section is the short summary and must stay under {EMAIL_LIMIT} characters; put "
-                        "the full detail in the DIGEST section (the long version). Never put a markdown "
-                        "bold marker on its own line.")
+                        "the full detail in the DIGEST section (the long version), which must run at "
+                        "least 3,000 characters and include every directive section, writing 'no change' "
+                        "for quiet sections instead of omitting them. Write the marker lines bare: no "
+                        "** anywhere on a marker line, and no markdown bold markers on their own lines.")
         try:
             subject, email, digest, errs = _attempt(retry_prompt, link)
         except Exception as e:
