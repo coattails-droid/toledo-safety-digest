@@ -1,0 +1,37 @@
+Toledo Daily Digest + Emerging Tech Watch - Sunday, November 1, 2026
+
+SUMMARY
+- Nothing needs emergency action today: no evacuation, shelter-in-place, boil or do-not-drink orders, no NWS watches/warnings/advisories, and no AMBER or endangered missing alerts for the Toledo area. Clocks fell back one hour at 2 a.m. today. A fatal head-on crash occurred late Saturday in South Toledo (3 dead, 3 hospitalized; investigation ongoing). Air Moderate this morning. No fog expected. Lot codes and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-01.txt
+
+MEASLES (top priority; active statewide news; no open NW Ohio exposure sites)
+- Ohio statewide (ongoing)
+  - ODH reports 296 cases in 24 counties in 2026 (up 34 from 262 the week before). Leading counties: Geauga 54, Ashtabula 47, Wayne 45, Medina 27, Pike 22. Mostly unvaccinated people. Pike County added 20 cases recently.
+  - Sources: https://www.lancastereaglegazette.com/story/news/healthcare/2026/10/30/ohio-measles-outbreak-grows-new-cases/92511210007/ ; ODH dashboard https://odh.ohio.gov/know-our-programs/infectious-disease-control/resources/summary-of-infectious-diseases-in-ohio
+- Akron Children's Golisano Campus, One Perkins Square, Akron (ongoing; outside NW Ohio) - yellow elevators in the main hospital building, Tue Oct 20, 8:03-10:03 a.m. Watch for symptoms through Nov 10.
+  - Source: https://www.akronchildrens.org/news/Measles-exposure.html
+- Lucas, Wood, Hancock and Monroe County, MI: no open exposure sites.
+- What to do: watch for fever, runny nose, cough, red eyes, then rash, up to 21 days after exposure. Call ahead before going to a clinic or ER. Check your MMR status.
+
+NEEDS ATTENTION
+- (All prior Needs Attention items remain ongoing; see full DIGEST for details on recalls, MC Tank, etc. No new urgent items confirmed in last 24-48 hours.)
+
+WORTH KNOWING (TOLEDO)
+- Fatal head-on crash, South Toledo (new)
+  - Late Saturday evening (Oct 31), near Hill and Wentz: 3 dead (Tewan Terry 19, Antonio Adams 17, Nasir Johnson 26), 3 hospitalized (ages 16, 17, 28). Terry driving Dodge Charger east on Hill hit Chevy Blazer driven by Johnson westbound. Investigation ongoing.
+  - Source: https://www.13abc.com/2026/11/01/3-dead-3-hospitalized-head-on-crash-toledo/ ; https://www.toledoblade.com/local/police-fire/2026/11/01/three-dead-two-vehicle-head-on-crash/stories/20261101096
+- All other Worth Knowing items (missing persons, MC Tank ongoing, recalls by category, Toyota, roadwork, etc.) carried forward as (ongoing); see full DIGEST and linked repo file for details.
+
+EMERGING TECH WATCH
+- 6G, Geoengineering, Smart Dust: no new confirmed developments specific to Ohio/Michigan/Great Lakes in last 24-48 hours. Ongoing items carried forward.
+
+ALL CLEAR / NO CHANGE
+- Maumee River: no new incidents.
+- Lake Erie: bloom about 240 sq mi; no toxins detected per latest NOAA (Oct 31).
+- Air: Moderate this morning (PM2.5); no alerts.
+- Fog: none expected.
+- All other quiet sections (gas leaks, rail, water mains, invasive species, protests, DUI, etc.): no change.
+
+SKY
+- After time change, sunrise/sunset an hour earlier on the clock. Minor G1 geomagnetic storm possible but cloudy skies; aurora unlikely.
+
+Full details and all carried-forward items: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-01.txt
