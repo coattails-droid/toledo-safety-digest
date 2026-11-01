@@ -17,12 +17,12 @@ The digest is moving off the Grok Bot routine to the workflow [`.github/workflow
 
 **Secrets** (Settings > Secrets and variables > Actions > Secrets)
 - One LLM key matching the provider: `OPENAI_API_KEY`, `ANTHROPIC_API_KEY` or `XAI_API_KEY`
-- `GMAIL_USER` (ctfoughtiv@gmail.com) and `GMAIL_APP_PASSWORD` (a Google app password; needs 2-Step Verification on the account)
+- `GMAIL_USER` (the sending Gmail address) and `GMAIL_APP_PASSWORD` (a Google app password; needs 2-Step Verification on the account)
 
 **Variables** (same page, Variables tab; all optional)
 - `DIGEST_PROVIDER`: `openai` (default), `anthropic` or `xai`
 - `DIGEST_MODEL`: model override. Defaults: openai `gpt-5.5`, anthropic `claude-opus-5-5`, xai `grok-4.7`
-- `DIGEST_TO`: recipient, default `foughtct@gmail.com`
+- `DIGEST_TO`: recipient address (repo secret; falls back to GMAIL_USER)
 
 **Manual run:** Actions tab > "Daily Toledo digest" > Run workflow. `dry_run` writes and commits the files without emailing. `force` regenerates even if today's file exists (and, without `dry_run`, emails again). From the CLI: `gh workflow run daily-digest.yml -f dry_run=true`.
 

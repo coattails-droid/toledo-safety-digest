@@ -31,7 +31,7 @@ jobs:
     env:
       DIGEST_PROVIDER: ${{ vars.DIGEST_PROVIDER || 'openai' }}
       DIGEST_MODEL: ${{ vars.DIGEST_MODEL }}
-      DIGEST_TO: ${{ vars.DIGEST_TO || 'foughtct@gmail.com' }}
+      DIGEST_TO: ${{ secrets.DIGEST_TO }}
     steps:
       - name: Gate (7 AM New York hour on schedule; manual runs always proceed)
         id: gate

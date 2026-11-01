@@ -3,7 +3,7 @@
 This is the standing instruction Raenie (C T's Grok Bot assistant) follows every morning to build and send ONE combined morning email: the Toledo, Ohio safety digest plus an Emerging Tech Watch on geoengineering, smart dust, and 6G cellular.
 
 - **Schedule:** every day at 7:30 AM Eastern, weekends included (`CRON_TZ=America/New_York 30 7 * * *`)
-- **Delivery:** emailed from ctfoughtiv@gmail.com to foughtct@gmail.com, plus a short summary in the Grok Bot chat
+- **Delivery:** emailed from the user's sending Gmail (stored in the GMAIL_USER secret) to the user's other Gmail (stored in the DIGEST_TO secret), plus a short summary in the Grok Bot chat
 - **Last updated:** Oct 13, 2026
 
 ---
@@ -138,7 +138,7 @@ C T asked on Sep 24, 2026 for the briefing to be prioritized at the assistant's 
 
 ## Delivery
 
-- **Email** exactly ONE email with the full combined digest to foughtct@gmail.com through the connected Gmail account (ctfoughtiv@gmail.com). The subject line flags urgency, for example "Toledo Daily Digest - <date> - ACTION: boil advisory". On quiet days it ends in "all clear", otherwise in "<n> new items". This is a standing request, so the email goes out without a draft step.
+- **Email** exactly ONE email with the full combined digest to the user's Gmail stored in the DIGEST_TO secret, through the connected Gmail account (stored in the GMAIL_USER secret). The subject line flags urgency, for example "Toledo Daily Digest - <date> - ACTION: boil advisory". On quiet days it ends in "all clear", otherwise in "<n> new items". This is a standing request, so the email goes out without a draft step.
 - **Chat:** post a short plain-language summary. It covers the top line, anything that needs attention, a quick mention of other new items, the Sky note, and confirmation that the email went out.
 - **Gmail failures:** if Gmail authentication fails, report it. If the same failure repeats on more than one run, pause the routine and say what needs reconnecting.
 

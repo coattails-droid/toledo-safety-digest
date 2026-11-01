@@ -10,7 +10,7 @@ Env:
   DIGEST_PROVIDER  openai | anthropic | xai   (default openai)
   DIGEST_MODEL     optional model override
   OPENAI_API_KEY / ANTHROPIC_API_KEY / XAI_API_KEY
-  GMAIL_USER, GMAIL_APP_PASSWORD, DIGEST_TO (default foughtct@gmail.com)
+  GMAIL_USER, GMAIL_APP_PASSWORD, DIGEST_TO (all from repo secrets)
   FORCE=true       regenerate even if today's digest file already exists
   DIGEST_MOCK=1    skip the LLM call and use canned text (local testing only)
   GITHUB_OUTPUT    (set by Actions) receives status=generated|skipped|error
@@ -230,7 +230,7 @@ def send():
     day = today_ny()
     _, email_p, subj_p = paths(day)
     user, pw = os.environ.get("GMAIL_USER", ""), os.environ.get("GMAIL_APP_PASSWORD", "")
-    to = os.environ.get("DIGEST_TO", "").strip() or "foughtct@gmail.com"
+    to = os.environ.get("DIGEST_TO", "").strip() or user
     if not (user and pw):
         log("ERROR: missing secret GMAIL_USER or GMAIL_APP_PASSWORD; not sending.")
         return 1
@@ -240,7 +240,7 @@ def send():
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context()) as s:
         s.login(user, pw.replace(" ", ""))
         s.send_message(msg)
-    log(f"sent '{msg['Subject']}' to {to}")
+    log(f"sent '{msg['Subject']}' to the DIGEST_TO recipient")
     return 0
 
 
