@@ -194,6 +194,19 @@ def problems(subject, email, digest, link):
     return errs
 
 
+def _attempt(prompt, link):
+    subject, email, digest = split_parts(call_llm(prompt))
+    errs = problems(subject, email, digest, link)
+    if any("chars (limit" in e for e in errs):  # one cheap no-search shortening pass
+        log("email too long; asking the model to shorten it")
+        short = call_llm(f"Shorten this email body to under {EMAIL_LIMIT - 2000} characters. Keep every "
+                         f"item, bullets and source links; move lists and background out (they are in "
+                         f"{link}). Return only the email body.\n\n{email}", use_search=False)
+        email = short.strip() + "\n"
+        errs = problems(subject, email, digest, link)
+    return subject, email, digest, errs
+
+
 def generate():
     day = today_ny()
     digest_p, email_p, subj_p = paths(day)
@@ -205,15 +218,16 @@ def generate():
     link = f"{REPO_URL}/digest-{day.isoformat()}.txt"
     prior_name, prior_text = prior_digest(day)
     prompt = build_prompt(day, read(os.path.join(ROOT, "DIRECTIVE.md")), prior_name, prior_text)
-    subject, email, digest = split_parts(call_llm(prompt))
-    errs = problems(subject, email, digest, link)
-    if any("chars (limit" in e for e in errs):  # one cheap no-search shortening pass
-        log("email too long; asking the model to shorten it")
-        short = call_llm(f"Shorten this email body to under {EMAIL_LIMIT - 2000} characters. Keep every "
-                         f"item, bullets and source links; move lists and background out (they are in "
-                         f"{link}). Return only the email body.\n\n{email}", use_search=False)
-        email = short.strip() + "\n"
-        errs = problems(subject, email, digest, link)
+    subject, email, digest, errs = _attempt(prompt, link)
+    if errs:  # one full retry with the required format spelled out (model output varies run to run)
+        log("first attempt failed checks; retrying once with the format reinforced:\n  " + "\n  ".join(errs))
+        retry_prompt = (prompt + "\n\n===== FORMAT REMINDER (a previous attempt failed validation) =====\n"
+                        "Return EXACTLY three sections, in order, marked ===SUBJECT===, ===EMAIL===, "
+                        "===DIGEST===. The subject line must begin 'Toledo Daily Digest - '. The EMAIL "
+                        f"section is the short summary and must stay under {EMAIL_LIMIT} characters; put "
+                        "the full detail in the DIGEST section (the long version). Never put a markdown "
+                        "bold marker on its own line.")
+        subject, email, digest, errs = _attempt(retry_prompt, link)
     if errs:
         log("ERROR: output failed checks, nothing written:\n  " + "\n  ".join(errs))
         set_output("status", "error")
