@@ -2,8 +2,10 @@ name: Daily Toledo digest
 
 on:
   schedule:
-    # GitHub cron is UTC. 11:30 UTC = 7:30 EDT (until Nov 1, 2026); 12:30 UTC = 7:30 EST.
-    # Both fire every day; the "gate" step lets only the one landing in the 7 AM ET hour proceed.
+    # GitHub cron is UTC. 11:30 UTC = 7:30 EDT / 6:30 EST; 12:30 UTC = 8:30 EDT / 7:30 EST.
+    # Both fire every day. GitHub delivers scheduled runs late (observed ~5.5h on
+    # 2026-11-01), so there is no live-hour gate: the first run of the ET day to
+    # land generates the digest, and run_digest.py skips if today's file exists.
     - cron: "30 11 * * *"
     - cron: "30 12 * * *"
   workflow_dispatch:
@@ -33,16 +35,11 @@ jobs:
       DIGEST_MODEL: ${{ vars.DIGEST_MODEL }}
       DIGEST_TO: ${{ secrets.DIGEST_TO }}
     steps:
-      - name: Gate (7 AM New York hour on schedule; manual runs always proceed)
+      - name: Gate (first run of the ET day proceeds; generate skips if today's digest exists)
         id: gate
         run: |
-          hour=$(TZ=America/New_York date +%H)
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "$hour" != "07" ]; then
-            echo "New York hour is $hour, not 07; this is the off-season cron. Exiting."
-            echo "go=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "go=true" >> "$GITHUB_OUTPUT"
-          fi
+          echo "New York time is $(TZ=America/New_York date '+%F %H:%M %Z'); event: ${{ github.event_name }}"
+          echo "go=true" >> "$GITHUB_OUTPUT"
 
       - name: Check secrets
         id: secrets
