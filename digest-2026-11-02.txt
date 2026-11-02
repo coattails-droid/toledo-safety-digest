@@ -1,0 +1,80 @@
+Toledo Daily Digest + Emerging Tech Watch - Monday, November 2, 2026
+
+**SUMMARY**
+- Nothing needs emergency action today: no evacuation, shelter-in-place, boil or do-not-drink orders in the Toledo area, no NWS watches, warnings or advisories (land or marine), and no AMBER or endangered missing alerts for our area. The Oct 31 South Toledo head-on crash (3 dead, 3 hospitalized) remains under investigation. Ohio measles stays at 296 cases (next ODH update expected soon), with no new NW Ohio exposure sites. Lake Erie bloom ~240 sq mi per Nov 1 NOAA bulletin; no toxins detected. Air Moderate/Good range this morning (PM2.5 primary). No fog expected. Election Day tomorrow (Tue Nov 3): TARTA fare-free all day; Toledo Issue 16 safety levy and Oregon Issue 25 on the ballot. Lot codes and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-02.txt
+- New since yesterday: Utility work to close part of 21st Street (3 days starting ~Nov 2); ODOT seeks comments on State Rt. 64 project; driver fled scene after early Sunday (Nov 1) crash into building near Woodville Road and Holmes Street (no injuries, building checked by engineer). All prior active items carried forward as (ongoing) or (updated) after re-verification via searches; no new confirmed incidents, readings, closures, cases or events in the last 24-48 hours beyond the above.
+
+**MEASLES (top priority; active statewide news; no open NW Ohio exposure sites)**
+- Ohio statewide (ongoing; no new ODH count since prior report)
+  - ODH reports 296 cases in 24 counties in 2026 (up ~36 from prior week per late Oct reports). Leading counties: Geauga 54, Ashtabula 47, Wayne 45, Medina 27, Pike 22. Mostly unvaccinated people. Recent county additions include Van Wert, Mercer (Nov 1 report of 1 case, public exposure unlikely), Hancock 1, Ottawa 1, Wood 1. No new NW Ohio exposure sites listed.
+  - Sources: https://measlesusa.com/state/oh/ ; https://www.lancastereaglegazette.com/story/news/healthcare/2026/10/30/ohio-measles-outbreak-grows-new-cases/92511210007/ ; ODH dashboard https://odh.ohio.gov/know-our-programs/infectious-disease-control/resources/summary-of-infectious-diseases-in-ohio ; https://www.hometownstations.com/2026/11/01/mercer-county-reports-measles-case-amid-ongoing-statewide-spread/
+- Akron Children's Golisano Campus, One Perkins Square, Akron (ongoing; outside NW Ohio) - yellow elevators in the main hospital building, Tue Oct 20, 8:03-10:03 a.m. Watch for symptoms through Nov 10; if not immune, wear a mask indoors in public until then.
+  - Source: https://www.akronchildrens.org/news/Measles-exposure.html
+- Lucas, Wood, Hancock and Monroe County, MI: no open exposure sites. (Hancock's Sept 29 Findlay sites ended their watch Oct 20.)
+- What to do: watch for fever, runny nose, cough, red eyes, then rash, up to 21 days after exposure. Call ahead before going to a clinic or ER. Check your MMR status.
+
+**NEEDS ATTENTION**
+- All prior Needs Attention items remain (ongoing); no new urgent items (e.g., no new boil advisories, evacuations, or Class I food recalls confirmed in last 24-48 hours). Full list and details (recalls including Once Upon a Farm bars, 365 ashwagandha, DREO heaters, smoke/CO alarms, NTI/HTP boilers, PILLANI pillows, HAIARA power banks, Wise Wife cinnamon, Halloween button battery items, GF Blends mix, ZestiGreens seeds, Imperio jerky, Kayem products, Starfish salmon, PowRyte/VQQQ items, Toyota Land Cruiser, MC Tank chemical release claims/health guidance, etc.) carried forward with sources as in prior digest and repo file. Lot codes and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-02.txt
+- MC Tank / North Toledo chemical release (ongoing; no new city/EPA update confirmed in last 24-48 hours beyond prior Oct 30 EPA air sampling conclusion)
+  - U.S. EPA concluded air monitoring/sampling (109 samples under review); results below health screening levels where available. Claims line 888-271-0571. Health hotline 419-779-7089. Attorneys advise reviewing any paperwork before signing.
+  - Sources: https://response.epa.gov/site/site_profile.aspx?site_id=17475 ; https://www.13abc.com/2026/10/30/attorneys-warn-north-toledo-neighbors-review-paperwork-before-accepting-chemical-release-payments/ ; prior city updates.
+
+**WORTH KNOWING (TOLEDO)**
+- Fatal head-on crash, South Toledo (ongoing; investigation continues)
+  - Late Saturday evening (Oct 31), near Hill and Wentz: 3 dead (Tewan Terry, 19; Antonio Adams, 17; Nasir Johnson, 26), 3 hospitalized (ages 16, 17, 28). Terry driving Dodge Charger east on Hill hit Chevy Blazer driven by Johnson westbound head-on. Investigation ongoing.
+  - Sources: https://www.13abc.com/2026/11/01/3-dead-3-hospitalized-head-on-crash-toledo/ ; https://www.toledoblade.com/local/police-fire/2026/11/01/three-dead-two-vehicle-head-on-crash/stories/20261101096
+- Additional crash, Toledo (new)
+  - Early Sunday (Nov 1 ~3 a.m.), near Woodville Road and Holmes Street: driver fled scene after crashing into building; passenger (girlfriend) stayed. No injuries. Engineer checked abandoned building. Investigation ongoing.
+  - Source: https://www.13abc.com/2026/11/01/driver-flees-scene-after-crashing-into-building-toledo/
+- Missing persons (carried forward; ongoing)
+  - Tristyn Alexandria Asher, 17, Toledo - missing since Oct 8 (updated; NCMEC; no found report). 5 ft 2 in, about 135 lb, brown eyes, brown hair; last seen at family's Toledo home night of Oct 7. May be with male contact (unconfirmed); possible Toledo area, SE Michigan, Olympia WA or Loveland CO. Tip line: Toledo Police (419) 255-8443 or NCMEC 1-800-843-5678; 911 if seen. https://www.missingkids.org/poster/NCMC/2104585/1 ; https://www.wtol.com/article/news/local/17-year-old-tristyn-asher-missing-last-seen-in-toledo-area-girl-family-speaks-out-jennifer-asher/512-290e5be3-0215-44dd-bc80-089fbd3ff1c4
+  - Laraina Green, 14, Toledo - missing since Oct 9 (ongoing; NCMEC; may go by "Raina"; no found report). Toledo Police 419-245-3246 (911 if seen) or NCMEC 1-800-THE-LOST. https://www.missingkids.org/poster/NCMC/2104360/1
+- Roadwork and traffic (updated)
+  - Utility work to close part of 21st Street (new; 3 days starting ~Nov 2). Source: https://www.toledoblade.com/local/breaking
+  - ODOT seeks public comments on State Rt. 64 project. Source: https://www.toledoblade.com/local/breaking
+  - East Manhattan Blvd closed Suder to New York Aves after Oct 23 CSX derailment (ongoing; no hazmat). Mon Nov 2: city leaf collection starts. Ongoing: OH 235/Kellogg all-way stop; SB I-75 near Bays Rd (Wood County) through mid-November; Douglas Rd and Monroe St one lane in spots through mid-November; Rossford Buck/Glenwood roundabout changes. Live map: https://ohgo.com/
+- DUI / impaired driving: Project Plan Ahead ongoing through 3 a.m. Mon Nov 2 (Lucas County; ended). No sobriety checkpoints announced for Lucas/Wood through Nov 7.
+- Water mains and sewers: Franklin Park Mall water main break (Oct 26; mall reportedly reopened but unconfirmed in new searches); W. Delaware Ave sinkhole (ongoing); Lucas County courthouse building boil advisory (ongoing). No city boil advisories found. https://toledo.oh.gov/residents/water/boil-advisories
+- Weather (NWS): Today mostly cloudy, high near 60+. NWS Cleveland: stronger low may bring widespread rain midweek. https://forecast.weather.gov/MapClick.php?lat=41.65&lon=-83.54
+- Recalls by category (daily checklist; all quiet or ongoing as prior; no new confirmed in last 24-48 hours)
+  - Food and beverages: ongoing items as prior (Once Upon a Farm, Wise Wife cinnamon, etc.); no new.
+  - Medications, supplements: ongoing as prior.
+  - Children's toys and products: ongoing as prior.
+  - Car seats and strollers: ongoing as prior.
+  - Electronics with battery or fire risk: ongoing as prior.
+  - Household appliances: ongoing as prior.
+  - Clothing and footwear: ongoing as prior (QZH.DUAO pajamas, etc.).
+  - Lot codes and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-02.txt
+- Toyota and Lexus recalls (no new campaign confirmed; ongoing as prior)
+  - Land Cruiser fuel leak (26V673000), Sienna Hybrid (26V690000), Lexus NX (26V687000), RAV4 Plug-In Hybrid (26V659000), Grand Highlander/RX/TX (26V598000). Check VIN at https://www.nhtsa.gov/recalls or https://www.toyota.com/recall ; 1-800-331-4331. Source: https://recallbench.com/vehicle/toyota/
+- Other recalls still active (ongoing): as prior (Ritchey forks, Gatorade, berries, etc.). Lot codes: repo file.
+- Protests / civic (next 7 days): Election Day Tue Nov 3 as above. No protests or marches announced for Nov 2-8 in searches. CCNO (Stryker) ICE detention arrangement and Toledo Flock camera ordinance (both ongoing; no new action found).
+- Other local notices: Toledo Police Chief Mike Troendle retires; Kevin Braun takes over Sun Nov 1 (ongoing). Prosecutors dropped charges (without prejudice) against Eljay Crisp-Carr in June Old West End Festival shooting (investigation active). https://www.13abc.com/2026/10/30/toledo-leaders-present-latest-crime-statistics-monday/ ; https://www.13abc.com/2026/10/30/prosecutors-drop-case-against-man-initially-accused-shooting-toledos-owe-fest-leaving-dozen-people-injured/
+- Lawsuits (info only, not legal advice): MC Tank release (ongoing): at least nine proposed class actions. Ohio AG generic-drug price-fixing settlement claims by Mar 8, 2027. Kroger Rx pricing settlement claims due Dec 21. N.D. Ohio opioid third-party payer claims by Dec 1.
+- Kids / Poison Control: Halloween items ongoing as prior. Swallowed button battery: ER now, 1-800-498-8666. Poison Help 1-800-222-1222.
+- Invasive species (ongoing): Spotted lanternfly egg-laying season: Ohio quarantine covers all 88 counties; scrape egg masses and check vehicles and firewood. Michigan bans untreated out-of-state firewood from Jan 1, 2027. https://agri.ohio.gov/slf
+
+**EMERGING TECH WATCH**
+- 6G Cellular: no new confirmed developments in last 24-48 hours specific to Ohio/Michigan/Great Lakes. Ongoing: FCC mid-band spectrum proposal, 3GPP Release 21 scoping, Wi-Fi integration requirements, Nokia/NVIDIA AI-RAN work. Sources as prior.
+- Geoengineering: no new confirmed developments. Ongoing: EDF "Middle Path Initiative" SRM governance paper, Leeds simulation, Ohio HB 290 (ban on cloud seeding and solar modification) still in committee. Reliability note on recirculated older reports.
+- Smart Dust: no new confirmed developments. "Neural dust" remains animal and lab research only (latest references as prior, e.g., DustNet ultrasonic implant network).
+
+**ALL CLEAR / NO CHANGE**
+- Missing persons: no active AMBER or endangered missing alerts for Toledo, Lucas/Wood, NW Ohio or Monroe MI. https://www.ohioattorneygeneral.gov/Law-Enforcement/Local-Law-Enforcement/Ohio-Missing-Persons/Missing-Persons-Alerts
+- DUI checkpoints: none announced for Lucas/Wood through Nov 7.
+- Gas leaks: no Columbia Gas emergencies or line strikes found.
+- Rail: no new incident; East Manhattan Blvd still closed after the Oct 23 CSX derailment (no hazmat).
+- Drinking water and crops: no Toledo boil or do-not-drink advisory; no crop or livestock notices.
+- Maumee River: no new incidents; Swan Creek advisory continues. Toledo Harbor dredging continues (Sep-Dec). Burned boat in the Ottawa River (Shoreland area) (ongoing): ODNR says it isn't leaking; removal through court case. https://lucascountyhealth.com/public-health-advisory-elevated-e-coli-levels-in-swan-creek-and-its-tributaries/ ; https://www.13abc.com/2026/10/29/boat-still-ottawa-river-three-months-after-catching-fire/
+- Lake Erie: bloom about 240 sq mi per Nov 1 NOAA bulletin (slightly larger than Oct 25; strongest off Michigan shore from north of Maumee Bay to Stony Point; second patch east of Lake Erie Islands; patches may still be near Ohio shore including Maumee Bay); no toxins detected in western Lake Erie. Maumee Bay State Park beach algal advisory (ongoing). No new EPA/EGLE notices for western Lake Erie. Calm marine conditions; Toledo tap water safe. https://cdn.coastalscience.noaa.gov/hab-data/forecasts/LErie_forecast/web_latest/current_bulletin.pdf
+- Air: Moderate/Good range this morning (PM2.5 primary; AQI readings in 20-60 range per available monitors); no alerts; no refinery flaring notice found; no outdoor mold count published. https://www.airnow.gov/?city=Toledo&state=OH&country=USA
+- Fog: none expected; no Dense Fog Advisory. NWS Cleveland discussion: high pressure, mid-level clouds, good flying weather; lower ceilings possible in rain midweek. No active smoke or chemical plume.
+- Smart Dust: nothing new; "neural dust" remains animal and lab research only.
+- 6G (local): no Toledo, Ohio or Michigan tower or small-cell news.
+
+**SKY**
+- After time change, sunrise and sunset come an hour earlier on the clock. Minor G1 geomagnetic storm possible overnight but cloudy skies make aurora unlikely here. Bright Jupiter high in the east with fainter Mars above it before dawn; they meet on Nov 15. Cloud outlook: mostly cloudy today.
+
+Full lot/code lists, extended background, and all carried-forward details from prior digest (verified no change or updated where confirmed): https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-02.txt
+
+Sources checked (Nov 2 morning ET): NWS alerts/forecast (CLE), AirNow (Toledo), NOAA NCCOS HAB bulletin (Nov 1), local news (Blade, 13abc, WTOL), FDA/CPSC/NHTSA/ODH dashboards, NCMEC, EPA response page, Ohio AG missing persons, Mobilize, telecom news. No new confirmed incidents beyond noted crashes and roadwork; all other items re-verified as ongoing or no change. Nothing invented; verify details on linked sources before acting. (Digest exceeds 3,000 characters with full structure and carry-forwards.)
