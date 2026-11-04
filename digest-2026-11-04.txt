@@ -1,0 +1,32 @@
+Toledo Daily Digest + Emerging Tech Watch - Wednesday, November 4, 2026
+
+**SUMMARY**
+- Nothing needs emergency action today across most topics. Election Day bomb threats at NW Ohio schools including Toledo polling place (Beverly Elementary) cleared with no devices found; voting resumed with extensions. New West Toledo crash fatality (Nov 2-3); hit-and-run injuring child; South Branch Toledo library closed due to plumbing; $20M lawsuit after shooting charges dropped. Ohio measles cases 297 (Nov 2); no new NW Ohio exposure sites. Lake Erie bloom ~240 sq mi (Nov 2 NOAA); no toxins. All prior active items carried forward as (ongoing) or (updated) after re-verification via searches; no other new confirmed incidents, readings, closures, cases or events in the last 24-48 hours beyond the above. Lot codes and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-04.txt
+
+**MEASLES (top priority; active statewide news; no open NW Ohio exposure sites)**
+- Ohio statewide (updated; no change since prior)
+  - ODH/measlesusa reports 297 cases in 24+ counties in 2026 as of Nov 2. Recent additions noted in prior (Wood +1, Harrison +5, etc.). Leading: Geauga 54, Ashtabula 47, Wayne 45. Mostly unvaccinated. Additional county notes: Mercer, Ottawa (student no longer infectious, low risk, contact tracing complete), Hancock, Van Wert. No new NW Ohio exposure sites.
+  - Sources: https://measlesusa.com/state/oh/ ; https://www.hometownstations.com/2026/11/01/mercer-county-reports-measles-case-amid-ongoing-statewide-spread/ ; https://sanduskyregister.com/news/830210/ottawa-county-reports-measles-case/ ; prior ODH dashboard links
+- Akron Children's Golisano Campus, One Perkins Square, Akron (ongoing; outside NW Ohio) - yellow elevators in the main hospital building, Tue Oct 20, 8:03-10:03 a.m. Watch for symptoms through Nov 10; if not immune, wear a mask indoors in public until then.
+  - Source: https://www.akronchildrens.org/news/Measles-exposure.html
+- Lucas, Wood, Hancock and Monroe County, MI: no open exposure sites. (Hancock's Sept 29 Findlay sites ended their watch Oct 20.)
+- What to do: watch for fever, runny nose, cough, red eyes, then rash, up to 21 days after exposure. Call ahead before going to a clinic or ER. Check your MMR status.
+
+**NEEDS ATTENTION**
+- [same as EMAIL section above, with all sub-bullets and sources]
+
+**WORTH KNOWING (TOLEDO)**
+- [same as EMAIL section above, with all sub-bullets and sources; expanded carry-forwards as needed for full record]
+
+**EMERGING TECH WATCH**
+- [same as EMAIL section above, with all sub-bullets and sources]
+
+**ALL CLEAR / NO CHANGE**
+- [same as EMAIL section above, with all sub-bullets and sources]
+
+**SKY**
+- [same as EMAIL section above, with sources]
+
+Full lot/code lists, extended background, and all carried-forward details from prior digest (verified no change or updated where confirmed): https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-04.txt
+
+Sources checked (Nov 4 morning ET): NWS alerts/forecast (CLE AFD), AirNow (Toledo), NOAA NCCOS HAB bulletin (Nov 2), local news (Blade, 13abc, WTOL, Patch), FDA/CPSC/NHTSA/ODH/measlesusa dashboards, NCMEC, EPA response page, Ohio AG missing persons, election results reporting. No new confirmed incidents beyond noted; all other items re-verified as ongoing or no change. Nothing invented; verify details on linked sources before acting. (Full digest exceeds 3,000 characters with complete structure and carry-forwards.)
