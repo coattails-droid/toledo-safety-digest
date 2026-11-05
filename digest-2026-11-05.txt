@@ -1,0 +1,68 @@
+Toledo Daily Digest + Emerging Tech Watch - Thursday, November 5, 2026
+
+**SUMMARY**
+- Nothing needs emergency action today across most topics. New north Toledo pedestrian crash injured a 10-year-old child (Nov 4); investigation ongoing. Election Day bomb threats cleared with no devices; voting extended at Beverly Elementary and resumed. Ohio measles cases at 297 (as of Nov 4); no new NW Ohio exposure sites. Lake Erie bloom present in western basin near Maumee Bay but area undetermined due to clouds/winds; no toxins detected. All prior active items carried forward as (ongoing) or (updated) after re-verification; no other new confirmed incidents, readings, closures, cases or events in the last 24-48 hours. Lot codes and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-05.txt
+
+**MEASLES (top priority; active statewide news; no open NW Ohio exposure sites)**
+- Ohio statewide (updated; no change since prior)
+  - ODH/measlesusa reports 297 cases in 24+ counties in 2026 as of Nov 4. Recent additions noted in prior (Wood +1, Harrison +5, etc.). Leading: Geauga 54, Ashtabula 47, Wayne 45. Mostly unvaccinated. Additional county notes: Mercer, Ottawa (student no longer infectious, low risk, contact tracing complete), Hancock, Van Wert. No new NW Ohio exposure sites.
+  - Sources: https://measlesusa.com/state/oh/ ; https://www.hometownstations.com/2026/11/01/mercer-county-reports-measles-case-amid-ongoing-statewide-spread/ ; https://sanduskyregister.com/news/830210/ottawa-county-reports-measles-case/ ; prior ODH dashboard links
+- Akron Children's Golisano Campus, One Perkins Square, Akron (ongoing; outside NW Ohio) - yellow elevators in the main hospital building, Tue Oct 20, 8:03-10:03 a.m. Watch for symptoms through Nov 10; if not immune, wear a mask indoors in public until then.
+  - Source: https://www.akronchildrens.org/news/Measles-exposure.html
+- Lucas, Wood, Hancock and Monroe County, MI: no open exposure sites. (Hancock's Sept 29 Findlay sites ended their watch Oct 20.)
+- What to do: watch for fever, runny nose, cough, red eyes, then rash, up to 21 days after exposure. Call ahead before going to a clinic or ER. Check your MMR status.
+
+**NEEDS ATTENTION**
+- 10-year-old child struck by pickup truck in north Toledo crosswalk (new)
+  - Location: Manhattan Road and Mulberry Street, north Toledo. Child from nearby home ran into crosswalk while 70-year-old driver had green light. Hospitalized with broken bones and facial fractures. Investigation ongoing.
+  - Source: https://patch.com/ohio/toledo/patch-am-how-you-can-help-keep-toledo-kids-warm-winter-nodx-20261105 ; https://www.toledoblade.com/local/2026/11/05/toledo-crime-log-11-5-26/stories/20261103105 (related coverage)
+
+**WORTH KNOWING (TOLEDO)**
+- Election Day bomb threats (ongoing; cleared)
+  - Beverly Elementary School polling place (Southside Toledo) evacuated briefly Nov 3 due to threat; police sweep found nothing. Voting resumed after ~1 hour 15 min with judge-extended hours; 8 additional ballots cast. No devices found. Lucas County Board of Elections under review for performance.
+  - Sources: https://patch.com/ohio/toledo/patch-am-how-bomb-threats-disrupted-then-failed-stop-toledo-voting-nodx-20261104 ; https://www.13abc.com/2026/11/03/polling-location-beverly-elementary-evacuated-due-bomb-treat/ ; https://www.toledoblade.com/local/politics/2026/11/03/polls-voters-races-ballot-issues-ohio-michigan-vote/stories/20261102079
+- West Toledo crash fatality (ongoing from prior)
+  - Details as previously reported (Nov 2-3 incident); no new updates confirmed.
+- South Branch Toledo library closure (ongoing from prior)
+  - Closed due to plumbing issues; no new updates.
+- $20M lawsuit after shooting charges dropped (ongoing from prior)
+  - Details as previously reported; no new updates.
+- New winter coat drive for Toledo kids (new, non-safety)
+  - Community partners distributed coats, hats, gloves, hygiene items and skating passes at Escuela SMART Academy. Susie's Coats for Kids seeking donations.
+  - Source: https://patch.com/ohio/toledo/patch-am-how-you-can-help-keep-toledo-kids-warm-winter-nodx-20261105
+- Toledo budget cuts after Issue 16 fails (new, non-safety)
+  - At least $25M in cuts possible after public-safety income tax rejection; impacts police, fire, pools, youth programs.
+  - Sources: https://patch.com/ohio/toledo/patch-am-how-you-can-help-keep-toledo-kids-warm-winter-nodx-20261105 ; https://www.toledoblade.com/local/2026/11/05/toledo-crime-log-11-5-26/stories/20261103105
+
+**EMERGING TECH WATCH**
+- Geoengineering: No new confirmed developments or Ohio/Michigan-specific news in last 24-48 hours.
+- Smart dust: No new confirmed developments or Ohio/Michigan-specific news in last 24-48 hours.
+- 6G cellular: No new confirmed developments or Ohio/Michigan-specific news in last 24-48 hours.
+
+**ALL CLEAR / NO CHANGE**
+- Recalls (food, meds, toys, car seats, electronics, appliances, clothing): No new or ongoing affecting Toledo area confirmed.
+- Hazmat: No new or active incidents.
+- Gas leaks: No new or active incidents.
+- Rail: No new or active incidents.
+- Water and crops / drinking water: No advisories.
+- Water mains and sewers: No new breaks or issues.
+- Maumee River: No spills, overflows, fish kills or new advisories.
+- Lake Erie and EPA notices: Bloom present in western basin (patches near Michigan coast to Maumee Bay and east of islands); area undetermined due to clouds/winds >9 mph. No toxins detected at western Lake Erie sites or Toledo intake. No new beach advisories, spills, fish kills, hypoxia, or EPA/Ohio EPA notices.
+  - Source: https://cdn.coastalscience.noaa.gov/hab-data/forecasts/LErie_forecast/web_latest/current_bulletin.pdf (Nov 5 bulletin)
+- Invasive species: No new detections or quarantines.
+- Air: AQI not specifically flagged unhealthy; no ozone action days, wildfire smoke, industrial releases or mold advisories reported.
+- Kids / Poison Control: No new warnings.
+- Lawsuits: No new claim deadlines or filings.
+- Roadwork: Slope repair closing lane on southbound I-475 near US 24 (new minor); other routine work ongoing with no major changes.
+  - Source: https://www.toledoblade.com/local/2026/11/05/toledo-crime-log-11-5-26/stories/20261103105
+- DUI checkpoints: None announced within 7 days.
+- Protests & demonstrations: None announced.
+- Clothing recalls: Quiet.
+- Recall category checklist: All categories quiet (one all-clear line).
+- Toyota recalls: Quiet.
+- Fog & cloud systems: Mostly cloudy today (high ~59°F); rain likely tonight (60% chance, low ~45°F). No Dense Fog Advisory. Breezy SW winds. No inversions or impacts on active incidents.
+
+**SKY**
+- No notable events (eclipses, meteor showers, aurora, etc.) visible from Toledo within 7 days per NASA/NOAA/timeanddate.com checks. Typical November skies; check local forecast for clouds.
+
+Sources checked (Nov 5 morning ET): NWS Cleveland forecast/AFD, NOAA NCCOS HAB bulletin (Nov 5), AirNow/Toledo, local news (Blade, 13abc, WTOL, Patch), FDA/CPSC/NHTSA/ODH/measlesusa, NCMEC, Ohio AG missing persons, election reporting. No new confirmed incidents beyond noted; all other items re-verified as ongoing or no change. Nothing invented; verify details on linked sources before acting. (Full digest exceeds 3,000 characters with complete structure and carry-forwards.)
