@@ -1,0 +1,164 @@
+Toledo Daily Digest + Emerging Tech Watch - Monday, November 9, 2026
+
+SUMMARY
+- Nothing needs emergency action today: no evacuation, shelter-in-place, boil or do-not-drink orders found for Toledo, no AMBER or endangered missing alerts for our area, and no NWS land alerts (NWS Cleveland AFD 6:54 a.m.: "OH...None"). The Toledo-Lucas County Health Department building is closed to the public starting today (Nov 9-13). Western Lake Erie Small Craft Advisories have expired, but NWS says new ones will be needed tonight/Tuesday and Thursday-Friday (marginal gale possible).
+- New today: (1) the PAHO measles-elimination review meets Nov 10-13 and U.S. status may be revoked; (2) NWS/local forecasts show a big cool-down: rain Wed night-Thu, lake-effect rain/snow showers Thu night-Fri (no sticking snow expected), highs low 40s Friday; (3) T-Mobile asked the FCC for a two-year 2.7 GHz 6G test window (report undated; see Emerging Tech). Sunny today, high near 56; Tuesday sunny, near 62. Air is Good (Open-Meteo US AQI 27, PM2.5 5.9 at 7 a.m.). All earlier recalls below still apply.
+- Items marked "(ongoing)" are carried forward from Nov 8 unless a new source is cited.
+- Lot codes and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-09.txt
+
+MEASLES (top priority; active statewide news; no open NW Ohio exposure sites)
+- Ohio statewide (ongoing; ODH dashboard Thu Nov 5, no newer official update; next expected Thu Nov 12)
+  - 310 cases in 25 counties in 2026 (+14 that week, 61% fewer than the prior week's 36). Leaders: Geauga 54, Ashtabula 47, Wayne 45, Medina 27, Pike 23, Harrison 18, Trumbull 13, Ashland 8, Mercer 4. Trackers show Wood 1, Ottawa 1, Hancock 1. WFMJ (this week) cites 311 cases in 25 Ohio counties and 5,182 U.S. cases, a slightly different tally date.
+  - Sources: https://www.cincinnati.com/story/news/healthcare/2026/11/06/ohio-measles-outbreak-cases-2026/92639110007/ ; https://measlesusa.com/news/
+- PAHO measles-elimination review (NEW): the Americas re-verification commission meets Nov 10-13; observers expect the U.S. may lose its measles-elimination status after over a year of continuous transmission (WFMJ framing; the decision is not made yet). https://www.wfmj.com/news/local-news/u-s-measles-free-status-threatened-as-valley-cases-increase/article_6ca3fc05-3139-4fbb-8d0a-bc386fa616d5.html
+- Mercer County (Celina area) - 4 cases on ODH (ongoing). Health district said public exposure was unlikely but measles is circulating in the region. Check MMR: 419-586-3251. https://mchdohio.org/one-confirmed-measles-case-in-mercer-county/
+- Mahoning County - one case, unvaccinated resident (ongoing; Nov 6). No public location; MCPH contacts exposed people directly. https://www.wfmj.com/news/local-news/mahoning-county/measles-case-confirmed-in-mahoning-county/article_2a6e2739-6f6b-462d-b306-6b8ce98689d8.html
+- Akron Children's Golisano Campus, One Perkins Square, Akron (ongoing; outside NW Ohio) - yellow elevators, main building, Tue Oct 20, 8:03-10:03 a.m. Symptom watch ends TOMORROW, Nov 10. https://www.akronchildrens.org/news/Measles-exposure.html
+- Wood County Bowling Green September sites: watches ended mid-October. Lucas, Wood, Hancock, Ottawa and Monroe County MI: no open exposure sites found.
+- What to do: watch for fever, runny nose, cough, red eyes, then rash, up to 21 days after exposure. Call ahead before going to a clinic or ER. Check your MMR status.
+
+NEEDS ATTENTION
+- Little Giant ladders with Rapid Locks - fall/head injury (ongoing; CPSC Nov 5; about 3,662,000)
+  - Models: Adjustable Fortress 2.0, Conquest 2.0, Dark Horse 2.0, Epic, King Kombo XT, Leveler, MegaLite, MegaLite+, Multi, Quantum, Vector; black or orange Rapid Locks; exclude units with an orange "QC" sticker. Sold Dec 2015-Oct 2026. 25 incidents, 19 injuries.
+  - What to do: stop using until you get the repair kit; 866-201-9069 or https://www.littlegiantladders.com/pages/recalls . https://www.cpsc.gov/Recalls/2027/Little-Giant-Recalls-Ladders-with-Rapid-Locks-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard
+- Bose S1 Pro / S1 Pro+ battery packs - fire (ongoing; CPSC Nov 5; about 634,759 U.S.)
+  - Can overheat, melt, smoke or burn (7 reports; no injuries). Remove the pack; register serial at http://www.bose.com/support/s1-battery-recall for a free replacement; dispose per lithium-ion rules. 800-278-1083. https://www.cpsc.gov/Recalls
+- Gourmia 9-slice digital air-fryer ovens, model GTF7530, UPC 810002862779 - burns (updated; CPSC Nov 5; about 175,951)
+  - Doors can close unexpectedly: 57 reports, 40 burns. Sold at Target stores and Target.com Oct 2021-Jun 2026 (about $150). Model/UPC on box and back label.
+  - What to do: stop using; request a free mail-in repair kit (adds a doorstop; no receipt needed; arrives in about 2-4 weeks); 888-834-0092; http://www.gourmia.com/recall.asp . https://www.9news.com/article/news/nation-world/gourmia-recall-air-fryers-burn-hazard/507-3a158ab9-8567-4b4e-abc1-e24d2abcc7fb
+- Baby Brezza SuperFast Sterilizer Dryers BRZ0083, BRZ0154, BRZ0156 - overheating/burns (updated; CPSC Nov 5; about 29,000)
+  - 32 reports of overheating or melting; no injuries. Sold Jan 2024-Oct 2026 at TJ Maxx, Marshalls, babybrezza.com, Target, Babylist ($160-180).
+  - What to do: stop using; free replacement - register, unplug and cut the cord, upload photos; 888-527-9824; recall@babybrezza.com. https://www.fox5dc.com/news/recalled-baby-bottle-sterilizer-dryer-could-overheat-cause-burns
+- X-VESOLJE nursing pillows NP001 - infant suffocation (ongoing; CPSC Nov 5; about 19,596; Amazon Apr 2025-Jun 2026). Stop using; contact seller for refund. https://www.cpsc.gov/Recalls
+- Magnetopia magnetic building cubes (ongoing; CPSC Nov 5; about 7,600) - magnet ingestion. Models in full file. Stop using; refund at recall.magnetopia.com. Swallowed magnet: ER now; Poison Help 1-800-222-1222. https://www.cpsc.gov/Recalls/2027/Magnetopia-Recalls-Magnetic-Building-Cubes-and-Blocks-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Hazard
+- Arlopu slide playsets KT-CS17, LY-31 - head/neck entrapment (ongoing; CPSC Nov 5; about 10,318). Stop using; free repair kit, 800-657-9218. https://www.cpsc.gov/Recalls/2027/Arlopu-Recalls-Slide-Playsets-Due-to-Risk-of-Serious-Injury-and-Death-from-Head-and-Neck-Entrapment-Hazards
+- Brad's Crunchy Kale and Veggie Chips Kale - possible thallium (ongoing; FDA Nov 3; still in national coverage Nov 8)
+  - About 25,000 bags, shipped nationwide; 2 oz Original, Cheeze It Up, Radical Ranch and 3 oz Veggie Chips Kale; best-by Dec 21, 2026-Feb 17, 2027. Lots/UPCs: full file.
+  - What to do: don't eat; throw away (no refunds). https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/snack-right-super-foods-inc-dba-brads-raw-chips-recalls-brads-crunchy-kale-veggie-chips-due
+- Once Upon a Farm "Tractor Wheels" toddler soft-baked bars - choking (ongoing; FDA Nov 3). All flavors/lots to 8/26/2027 (Costco, Target, Walmart, online). Don't serve; refund or discard; 1-888-983-1606; choking: 911. https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-consumers-not-buy-or-serve-once-upon-farm-tractor-wheels-organic-toddler-soft-baked-bars
+- Tandem Mobi insulin pumps - FDA Class I (ongoing; about 80,938). False blockage alarms can pause insulin: respond to every alarm, check blood sugar, call Tandem 1-877-801-6901. https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfres/res.cfm?id=222734
+- 365 Whole Foods ashwagandha capsules, lot 2025-26227 - Salmonella (ongoing). Don't take; refund at Whole Foods. https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/vitality-works-inc-recalls-365-whole-foods-market-ashwagandha-capsules-sold-nationwide-due-potential
+- Lidl Gelatelli Coffee & Vanilla Gelato 16 oz - Listeria (ongoing; Class I; 1,122 units). Don't eat; return to Lidl. https://www.newsweek.com/gelato-recall-fda-listeria-lidl-12663104
+- DREO DR-HSH015 space heaters - fire (ongoing; CPSC Oct 29; about 338,800). Stop using; free replacement 833-820-0887. https://www.cpsc.gov/Recalls/2027/DREO-Recalls-DR-HSH015-Space-Heaters-Due-to-Fire-and-Burn-Hazards
+- Smoke/CO alarms that may not sound (ongoing; CPSC Oct 29): JuzhiAnn/Yfwsrecinoe/JAEHSKA JZA-540COM; GuardianSense/KLTseanife YHW-542COM-R. Replace with UL-listed alarms. https://www.cpsc.gov/Recalls
+- NTI and HTP gas boilers (Ariston) - fire/CO (ongoing; 4,726). Stop using; free repair 800-688-2575. https://ntiboilers.com/safety-recalls
+- PILLANI nursing pillows NP4351 (suffocation) and HAIARA W5 PRO power banks (fire) (ongoing; CPSC Oct 29). https://www.cpsc.gov/Recalls
+- Wise Wife ground cinnamon 110 g, UPC 0688474302754 - lead; sold in OH and MI (ongoing; FDA alert). Don't use; ask about a blood lead test if a child ate it regularly. https://www.fda.gov/food/alerts-advisories-safety-information/more-ground-cinnamon-products-added-fda-public-health-alert-due-presence-elevated-levels-lead
+- Button batteries and magnets in recalled kids' items (ongoing): CIYTI light-up costumes, Bamamon finger lights, ASONPAO gate remotes, CHE-US magnetic stick figures, Wnd and Clouds fidget balls, plus Magnetopia cubes. Swallowed one? ER now; 1-800-498-8666; Poison Help 1-800-222-1222. https://www.cpsc.gov/Recalls
+- Class I food recalls (ongoing; details in full file): GF Blends gluten-free mixes (undeclared wheat); ZestiGreens broccoli seeds (Salmonella); Imperio beef jerky (no inspection; MI and IN); Kayem/Al Fresco/McKenzie ready-to-eat meats (about 1.58 million lb; 800-426-6100); Starfish cold smoked salmon lot D080-148 and Cold Smoked Trio lot D139149161-153 (Listeria; sold in OH among others).
+- PowRyte pressure washers (electrocution) and VQQQ gas patio heaters (gas leak/fire) (ongoing; CPSC Oct 22). https://www.cpsc.gov/Recalls
+- Toyota Land Cruiser 2024-2027 Hybrid - fuel leak/fire risk (ongoing; NHTSA 26V673000; 105,794). Free repair; owner letters about Nov 29. If you smell fuel, don't drive it. VIN check https://www.toyota.com/recall ; 1-800-331-4331. https://pressroom.toyota.com/toyota-recalls-certain-my2024-2027-land-cruiser-vehicles/
+- Cherry Oil (Cherry & Central, Old West End) gasoline release (ongoing; no city update since Oct 2). Gasoline smell indoors? Open windows, refill drain traps, call Engage Toledo 419-936-2020. https://toledo.oh.gov/news/2026/09/22/city-investigating-gasoline-odor-reports
+
+WORTH KNOWING (TOLEDO)
+- Toledo-Lucas County Health Department move (updated; begins today)
+  - Building on Erie St. closed to the public Mon Nov 9-Fri Nov 13; new building at 1933 Spielbusch Ave. opens Mon Nov 16. Vital Statistics stays open at 635 N. Erie St. (street-level double doors) 8 a.m.-3:45 p.m. on Nov 9, 10 and 12; closed Nov 11 and 13. General info 419-213-4100 (WTVG); urgent 419-350-9510. https://www.13abc.com/2026/11/08/toledo-lucas-health-department-building-closed-during-move/
+- Halloween-night Hill Ave and Wenz Rd crash (updated; WTVG Nov 9)
+  - Police said a Dodge Charger and a Chevy Blazer collided head-on; three people died (Nasir Johnson and two teenagers) and three others were hurt. A week later police have not released a cause or confirmed speeding or racing; a police spokesperson said the department has no update. Johnson's funeral is Tuesday Nov 10. https://www.13abc.com/2026/11/09/mother-awaits-answers-week-after-halloween-night-crash-killed-3-toledo/
+- Birchall Road house fire (ongoing; Sat Nov 7, attic fire; 11 escaped, no injuries; cause under investigation). https://www.13abc.com/2026/11/07/11-people-escape-house-fire-toledo/
+- Eleanor Avenue pedestrian crash (ongoing): 15-year-old hit Nov 5, serious injuries; council member asks to restore a signal. https://www.13abc.com/2026/11/07/toledo-councilwoman-calls-traffic-safety-upgrades-after-teen-hit-eleanor-avenue/
+- MC Tank parent company - Barberton HCl leak (ongoing; WTOL 11 Investigates Nov 6)
+  - KAG Specialty Products (Kenan Advantage Group, owner of MC Tank) was the carrier in an Oct 19 ~50-gallon hydrochloric acid leak in Barberton; two employees exposed, one hospitalized. PUCO found the trailer already moved to Walbridge; it reportedly closed its inquiry without inspecting it. Different chemical from Toledo GMA. https://www.wtol.com/article/news/investigations/11-investigates/mc-tank-parent-kag-barberton-acid-leak-before-toledo-chemical-release/512-fbcbfd23-4854-42bd-bad1-a030ce24e345
+- City budget and Flock cameras (ongoing)
+  - Issue 16 failed by about 6,000 votes; the administration will give layoff figures Nov 15; working budget contemplates about 73 layoffs (roughly half police/fire) and possible cuts to recycling, pools and recruit classes; nothing final. https://www.toledobuzz.com/2026/11/08/toledo-voters-killed-the-public-safety-tax-now-73-jobs-hang-in-the-balance-until-nov-15/
+  - Flock: council vote to end the contract failed 5-6, then tied 6-6; Mayor Kapszukiewicz may break the tie at the Nov 17 meeting. A separate ordinance to tighten Flock rules was sent to the Public Safety & Criminal Justice Reform committee, meeting Dec 3, 4 p.m. (public comment allowed). Four Flock cameras were vandalized over Halloween weekend; police are investigating. Cameras stay on during the city audit. https://www.13abc.com/2026/11/04/toledo-city-council-votes-against-ending-flock-contract/ ; https://toledo.substack.com/p/november-7-2026
+- MC Tank / Brent Industries public meeting (ongoing): District 3 committee, Thu Nov 19, 5 p.m., Council Chambers, One Government Center; on the Oct 20 GMA leak and the Aug 18 Brent explosion that killed Heladio G. Perez, 46, and Mary Allen, 64. https://www.13abc.com/2026/11/06/toledo-city-council-committee-hold-public-meeting-mc-tank-chemical-leak-brent-industries-explosion/
+- Crashes (ongoing): Byrne Road Nov 5 (Oscar Macuixtle, 23, died); Gregory Kowalski, 66, died Nov 2 (Midwood Ave); Upton Ave hit-and-run Oct 28 - dark Ford SUV fled, 6-year-old Mykayla Arrington critically injured; Crime Stoppers 419-255-1111. Unsolved Sept 20 hit-and-run that killed Nate La Belle: Crime Stoppers 419-255-1111. https://www.wtol.com/article/news/local/man-dies-after-crash-on-byrne-road-in-south-toledo/512-9f72a2a8-b220-4525-95de-322c129da046
+- Roadwork (ongoing)
+  - Leaf collection first pass for ZIP 43614 and 43607 starts this week (week of Nov 9). Rake to the curb no more than 2 days prior; move cars. https://toledo.oh.gov/residents/neighborhoods/leaf-collection
+  - Douglas Rd/Monroe St lane restrictions and SB I-75 near Bays Rd through mid-November; Rossford roundabout work; East Manhattan Blvd (Suder to New York) closed since the Oct 23 CSX derailment, no reopening found. https://ohgo.com/
+- Missing persons (ongoing; NCMEC posters; none have an AMBER or endangered alert)
+  - Kaylee Alyssa Drefahl, 17, Toledo - missing since Oct 17; hair dyed red. Toledo Police (419) 255-8443 or NCMEC 1-800-843-5678; 911 if seen. https://www.missingkids.org/poster/NCMC/2105543/1
+  - Tristyn Alexandria Asher, 17, Toledo - missing since Oct 8; 5 ft 2, about 135 lb, brown eyes and hair. Toledo Police (419) 255-8443; NCMEC 1-800-843-5678. https://www.missingkids.org/poster/NCMC/2104585/1
+  - Laraina Green, 14, Toledo - missing since Oct 9. Toledo Police 419-245-3246 or NCMEC. https://www.missingkids.org/poster/NCMC/2104360/1
+- Hazmat (ongoing)
+  - MC Tank, 1266 Progress Ave.: cleanup under Ohio EPA oversight (EPA update still Oct 30); neighborhood readings below screening levels. Claims 888-271-0577; health line 419-779-7089. https://response.epa.gov/site/site_profile.aspx?site_id=17475
+  - Woodville Rd tank fire, Perrysburg wastewater leak, Brent soot: no new updates.
+- Recalls by category (daily checklist)
+  - Food and beverages: no new FDA or FSIS recall found since yesterday. Ongoing FSIS public health alert (Nov 6-7) for Betterballen frozen Bami Rolls, Saté Kroketten and Bitterballen (undeclared sesame; Bitterballen also fish/anchovy); no longer for sale; don't eat. https://www.foodsafetynews.com/2026/11/usda-issues-warning-about-betterballen-beef-and-chicken-products-because-of-undeclared-allergens/ . Others ongoing: 7-Eleven Horchata bag-in-box, frozen organic berries, Bettergoods Alfredo, Haifa sprats, mung beans, Vienna sausages, Darwin's cat food, sprouting seeds.
+  - Medications and supplements: ongoing FDA Enforcement Report items classified Nov 6 (aggregator-sourced, not confirmed on FDA.gov): ORL Organic Oral Care toothpastes/mouthwashes incl. kids' flavors (Class II; undeclared hormones; 1-888-723-3332) and Sun Pharma lisdexamfetamine 40 mg 100-count (Class II; lots AD97036, AE05842; distributed in Ohio) - talk to your pharmacist before stopping. Also Tandem pumps and Whole Foods ashwagandha (above); plus Visine, theophylline, fludrocortisone, atorvastatin, Ventec ventilators, Ultimate Forza, gripe water, RAPTURE, RootStim. Lots: full file.
+  - Children's toys and products: Magnetopia, X-VESOLJE, Arlopu, Baby Brezza (above); Harkla sensory swings (844-939-2122); Yinklev/SOOWERY/HAUOMS dressers; Costway and bbluv high chairs; water-bead toys; Papablic sleepers; ONTHEWEI bath seats; X-PRO ATVs; Vevor BMX bikes.
+  - Car seats and strollers: Britax B-Safe and Endeavours infant seats (ongoing; NHTSA 26C006000) - free handle clip kit, 1-888-427-4829; keep using properly installed; don't carry by handle until fixed.
+  - Electronics with battery or fire risk: Bose, HAIARA, smoke/CO alarms (above); 3M laminators; hand warmers; Dollar Tree balloon pumps; Cupcakes and Cashmere lamps.
+  - Household appliances: Little Giant, Gourmia, DREO, NTI/HTP, VQQQ (above); Bodum French presses (888-879-8213); Whatever Works microwave grills; Tristar and Kalorik air fryer ovens; adult bed rails.
+  - Clothing and footwear: QZH.DUAO children's pajama sets (ongoing; fail flammability; refund by emailing a photo). https://www.cpsc.gov/Recalls
+- Toyota and Lexus (carried from Nov 8; not re-searched this morning)
+  - Land Cruiser (above). Ongoing: Sienna Hybrid seat backs (26V690000); Lexus NX (26V687000); RAV4 PHEV power loss (26V659000); Grand Highlander/Lexus RX/TX steering knuckles (26V598000); C-HR software. VIN check https://www.nhtsa.gov/recalls
+- Other recalls still active (ongoing; details in full file): Ritchey forks; Gatorade 28 oz (OH/MI); raw-milk cheeses; HatsanUSA air rifles; Decathlon bikes; Audi Q4 e-tron; Ember trailers; Vanderhall Brawley; C.A.M.P. ice axes; Fire Blaze lighters.
+- Weather (NWS Cleveland AFD 6:54 a.m. EST Mon; api.weather.gov point forecast)
+  - Today sunny, high near 56, light west wind; tonight mostly cloudy, low about 43; Tuesday sunny, high near 62; Wednesday clouds, rain Wed night; Thursday rain, breezy, highs upper 40s; Friday lake-effect rain/snow showers (flakes not expected to stick), highs low 40s, wind chills 20s-30s; the chilliest air so far this fall. 38 F at 7:30 a.m. https://forecast.weather.gov/MapClick.php?lat=41.65&lon=-83.54
+- Lake Erie (updated)
+  - Small Craft Advisories for Maumee Bay to The Islands expired 7 a.m.; Islands to Avon Point until 10 a.m.; Avon Point east until 3 p.m. Winds rise to 20-25 kt SW tonight ahead of a cold front; NWS says new advisories will be issued this afternoon. Thursday-Friday: brisk NE then NNW winds, more advisories and a lower but non-zero chance of a marginal gale. https://tgftp.nws.noaa.gov/data/raw/fx/fxus61.kcle.afd.cle.txt
+  - NOAA HAB bulletin (model Nov 9, 6 a.m.): bloom present but cloud/wind prevent sizing; Nov 3 imagery shows bloom along the Michigan coast north of Maumee Bay to Stony Point plus a patch east of the islands; patches may be near Ohio shore incl. Maumee Bay. "No toxins have been detected in western Lake Erie." https://cdn.coastalscience.noaa.gov/hab-data/forecasts/LErie_forecast/web_latest/current_bulletin.pdf
+- Maumee River (ongoing): no new spill, fish kill or sewage notice found. Toledo Harbor dredging Oct 2, 2026-Jan 2027 (USACE). Swan Creek E. coli advisory still posted; avoid wading, swimming or fishing from Eastgate to the Maumee, especially after rain. Burned Ottawa River boat removed Nov 5. https://lucascountyhealth.com/public-health-advisory-elevated-e-coli-levels-in-swan-creek-and-its-tributaries/
+- Air (ongoing): Good - Open-Meteo US AQI 27, PM2.5 5.9 near Toledo at 7 a.m. No smoke/ozone alert or refinery flaring notice found. No outdoor mold count published. https://www.airnow.gov/?city=Toledo&state=OH&country=USA
+- Protests / civic: no marches, rallies or strikes found for Nov 9-15. Next dates: budget numbers Nov 15, Flock decision Nov 17, MC Tank/Brent meeting Nov 19. CCNO (Stryker) ICE detainee contract (ongoing; no new action).
+- Election results (ongoing; unofficial until canvass): Issue 16 failed; TPS, library and Imagination Station levies passed; Oregon Issue 25 passed; Beverly Elementary provisional ballots pending court action.
+- Lawsuits (info only, not legal advice)
+  - MC Tank (ongoing): at least nine proposed class actions, most before Lucas County Judge Lindsay Navarre (who denied consolidation, no class-certification ruling); a Nurenberg, Paris, Heller & McCarthy suit for eight plaintiffs was filed. One federal case in E.D. Michigan. https://www.toledobuzz.com/2026/11/07/mc-tanks-parent-company-had-another-chemical-leak-22-hours-before-toledos-emergency/
+  - Ongoing claim deadlines: N.D. Ohio opioid third-party payer Dec 1; Kroger Rx pricing Dec 21; Ford Transit Trail Jan 15, 2027; Ohio AG generic-drug Mar 8, 2027 (AGGenericDrugs.com).
+- Kids / Poison Control (ongoing): keep leftover Halloween candy, cannabis edibles, magnets and button batteries away from kids. Swallowed button battery or magnet: ER now, 1-800-498-8666; Poison Help 1-800-222-1222. No new poison-center product warning found. https://www.poison.org/battery/tips
+- Invasive species (ongoing): spotted lanternfly egg-laying season; Ohio quarantine covers all 88 counties; scrape egg masses, check vehicles and firewood. Michigan bans untreated out-of-state firewood from Jan 1, 2027. https://agri.ohio.gov/slf
+- Water mains and sewers (ongoing): no new breaks found. W. Delaware Ave sinkhole repair status unconfirmed since Nov 6. No citywide boil advisory found; check address-level notices https://toledo.oh.gov/residents/water/boil-advisories
+
+EMERGING TECH WATCH
+- Geoengineering (ongoing; nothing new confirmed in 48 hours)
+  - Planetary Sunshade Institute space-reflector study (Nature coverage; about 5,000 reflectors near L1; decades out; not a deployment). Ohio HB 290 still in House Natural Resources Committee. Carnegie "Planetary Power" paper (Oct); Middle Path Initiative governance paper (SRM360, Nov 6; not a field trial). A Chemistry World feature on UK-funded outdoor SRM experiments surfaced in search (date not verified; background, not new). https://www.nature.com/articles/d41586-026-03415-2
+- 6G Cellular
+  - T-Mobile reportedly asked the FCC for a two-year 2.7 GHz 6G test window and experimental licenses (2.7 and 4.8-4.9 GHz) - NEW to this digest but undated; single secondary source, verify before relying. https://flash24.org/stories/t-mobile-seeks-two-year-fcc-test-window-in-2-7ghz-for/
+  - Ongoing: 3GPP SA2#178, Calgary, Nov 16-20 (6G core architecture); Release 21 first freeze March 2027, final December 2028; Ericsson/MediaTek pre-6G multi-vendor trial with T-Mobile (400 MHz; date not verified); FCC Oct 29 proposal on 25 MHz mid-band for direct-to-phone satellite remains open. https://www.3gpp.org/news-events/3gpp-news/rel21-timeline
+- Smart Dust (ongoing): research only; DustNet (0.7 mm ultrasonic neural-implant network, IEEE TBCAS) and cortical mote implantation work are preclinical (dates not verified). No local or regulatory news.
+
+ALL CLEAR / NO CHANGE
+- Missing persons alerts: Ohio AG page shows no active AMBER Alert; active Endangered Missing Adult alerts are elsewhere in Ohio (Cuyahoga, Lorain, Licking), none for our area. https://www.ohioattorneygeneral.gov/Law-Enforcement/Local-Law-Enforcement/Ohio-Missing-Persons/Missing-Persons-Alerts
+- DUI checkpoints: none found for Lucas/Wood through about Nov 15.
+- Gas leaks: no Columbia Gas emergencies or line strikes found.
+- Rail: no new derailment or release.
+- Drinking water and crops: no Toledo boil or do-not-drink order; no crop or livestock notices.
+- Water mains and sewers: no new breaks found.
+- Maumee River: no new incidents; Swan Creek advisory continues.
+- Lake Erie: no toxins detected; Small Craft Advisories ended in the western basin; new ones expected tonight.
+- Air: Good (AQI 27); no alerts; no mold count published.
+- Fog: no Dense Fog Advisory; AFD shows a cold front passage and mostly sunny skies west of Cleveland-Canton, lake-effect clouds only in far NE Ohio/NW PA; no active smoke or chemical plume for fog to trap.
+- Smart Dust: nothing new.
+- 6G (local): no Toledo, Ohio or Michigan tower or small-cell news.
+
+SKY
+- Aurora: NOAA SWPC (issued 7:30 a.m. EST Nov 9): observed Kp 4 in the past 24 hours; G1 (minor) storming likely Nov 9, strongest 4-7 p.m. EST (Kp about 4.7). Northern Ohio usually needs Kp 6+ for a naked-eye show: low odds; clouds increase tonight. New moon was Nov 9 at 2:02 a.m. EST (dark skies this week). Northern Taurids peak around Nov 12 (NASA; about five an hour, occasional fireballs). Jupiter and Mars about 1.2 degrees apart before dawn Nov 15-16. https://services.swpc.noaa.gov/text/3-day-forecast.txt
+
+Full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-09.txt
+
+==================================================================
+FULL LOT / CODE LISTS AND BACKGROUND (email links here; not repeated in full in the email body)
+==================================================================
+
+New or changed today (Nov 9):
+- Sources checked: NWS CLE AFD 654 AM EST Mon Nov 9; api.weather.gov alerts (no land alerts) and point forecast; NOAA HAB bulletin (model 2026-11-09 06 AM EST); SWPC 3-day forecast issued 2026-11-09 1230 UTC; Open-Meteo 12:00 UTC (7 AM EST) air quality US AQI 27, PM2.5 5.9; Ohio AG missing-persons alerts page.
+- PAHO measles re-verification commission meeting Nov 10-13, 2026 (WFMJ).
+- Gourmia GTF7530, UPC 810002862779 (codes 3021 and 0126 on the back label also cited); sold Target Oct 2021-Jun 2026; remedy is a mail-in repair kit (doorstop), per 9News/607 News Now citing CPSC. Yesterday's file said "stop using until remedied" with replacement wording; the repair-kit wording is the current one.
+- Baby Brezza: sold at TJ Maxx, Marshalls, babybrezza.com, target.com, babylist.com; 888-527-9824 9-5 ET Mon-Fri; recall@babybrezza.com.
+- Hill Ave/Wenz Rd Oct 31 crash: WTVG Nov 9; Dodge Charger and Chevy Blazer head-on; three killed, three hurt; no cause released.
+- Flock: committee on tighter regulation Dec 3, 4 p.m.; four cameras vandalized Halloween weekend (This Week in Toledo, Nov 7).
+- Marine: LEZ142-143 SCA until 7 AM EST Nov 9; LEZ144-145 until 10 AM; LEZ146>149 until 3 PM; NWS expects new SCAs for tonight/Tuesday and Thursday-Friday (marginal gale possible).
+- SWPC: observed max Kp 4 past 24 h; G1 likely Nov 9 (CH HSS); Kp 4.67 forecast 21-00 UTC (4-7 PM EST); M-class flares likely.
+- Not re-searched this morning (carried from Nov 8): Toyota/NHTSA, DUI checkpoints beyond a general search, Leaf collection, FDA enforcement items.
+
+Carried forward lot codes (from prior digests; still active):
+- Brad's Crunchy Kale / Veggie Chips Kale: about 25,000 bags (about 2,097 cases). Crunchy Kale Original 2 oz UPC 813104021679 lots 33525-1/2/3 (best by Feb 1, 2027), 34525-1 (Feb 11, 2027), 35125-2 (Feb 17, 2027); Cheeze It Up 2 oz UPC 813104021877 lot 35025-3 (Feb 16, 2027); Radical Ranch 2 oz UPC 813104020726 lot 29425-1 (Dec 21, 2026); Veggie Chips Kale 3 oz UPC 854615002054 lots 33225-3 (Jan 28, 2027), 33325-2 (Jan 29, 2027), 33425-1 (Jan 30, 2027), 33525-1 (Feb 1, 2027). Consumer Reports (Nov 6; page 403 today): CDPH still advises avoiding four additional Brad's varieties not in the FDA recall (Vampire Killer, Balsamic Salad Snack, Ranch Salad Snack, Nacho).
+- Once Upon a Farm Tractor Wheels: all lots/flavors/dates through 8/26/2027.
+- Starfish Seafood (Krasnyi Oktyabr): Cold Smoked Trio UPC 4751048940341 lot D139149161-153 exp 12/01/2027; Cold Smoked Norwegian Salmon UPC 4751048940099 lot D080-148 best before 27.11.2027; Event 100089; incl. OH.
+- 7-Eleven Horchata FD 4:1 BIB (Sunny Sky): item L0496F010201; lots 12/08/2026, 12/16/2026, 01/17/2027, 01/25/2027, 01/26/2027, 01/28/2027, 01/29/2027, 02/04/2027, 02/05/2027, 02/09/2027, 02/13/2027, 02/15/2027; 9,289 cases; Class II.
+- Wise Wife cinnamon 110 g UPC 0688474302754 (also an earlier Wise Wife UPC 0 688474 302853 distributed to NJ, NY, FL, MD, MN, OK, OH).
+- 365 Whole Foods ashwagandha 120 ct lot 2025-26227; UPC printed as 9948252099 on the official page; expiration 10/13/2028.
+- Lidl Gelatelli Coffee & Vanilla Gelato 16 oz (Class I Listeria; 1,122 units).
+- Betterballen PHA-11062026-01: Bami Rolls BR-2026-01/02; Saté Kroketten SK-1026-01; Bitterballen BB-1026-01; BEST BY October 2027; EST M3177/P3177; produced Oct 15, 16, and 27, 2026.
+- Little Giant Rapid Lock models as listed by CPSC Nov 5; exclude orange QC sticker units.
+- Bose S1 Pro / S1 Pro+ battery packs - register serial at bose.com/support/s1-battery-recall.
+- Magnetopia models MAT-030..040, T009, T025, T076, T078.
+- Baby Brezza BRZ0083, BRZ0154, BRZ0156.
+- Arlopu KT-CS17, LY-31.
+- Tandem Mobi: event 99851; recall Z-0316-2027; 80,938 total / 77,559 U.S. / 3,379 outside U.S.; still Open/Classified.
+- Toyota Land Cruiser Hybrid NHTSA 26V673000 (105,794); Sienna 26V690000; Lexus NX 26V687000; RAV4 PHEV 26V659000; Grand Highlander/RX/TX 26V598000.
+
+Carried forward from Nov 8 appendix: ORL Labs lots/UPCs (Event 100140; D-0175-2027 to D-0179-2027) and Sun Pharma lisdexamfetamine NDC 57664-049-88, lots AD97036 and AE05842 (Event 100165; D-0174-2027): see https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-08.txt
+Parallel comparison note: GitHub Actions workflow daily-digest.yml ran only short scheduled jobs (~8-10 s) on Nov 6, 7 and 8 and had not committed a digest after Nov 5. This file is the Grok Bot routine digest for Nov 9, saved as digest-2026-11-09.txt because no workflow file existed. First workflow-sent digest remains Nov 2, 2026 ~8:44 a.m. EST.
