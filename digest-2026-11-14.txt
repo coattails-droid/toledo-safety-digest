@@ -1,0 +1,83 @@
+Toledo Daily Digest + Emerging Tech Watch - Saturday, November 14, 2026
+
+SUMMARY
+- Nothing needs emergency action in Toledo: no evacuation, shelter-in-place, or boil/do-not-drink order found; no NWS alerts for Lucas/Wood land zones (api.weather.gov, ~7:40 a.m. EST); no AMBER or endangered-missing alert found for Lucas, Wood or Monroe counties. First freeze of the season this morning (lows upper 20s/low 30s); breezy, highs mid 40s.
+- Measles (top priority): Ohio is now 327 cases in 26 counties (ODH update Nov 12; +17 vs +14 the prior week, a 21% rise). Mahoning added its first case; Ashtabula +6. Wood 1, Ottawa 1, Hancock 1 are the only NW Ohio counties listed. No open NW Ohio exposure sites found.
+- New today: (1) Toyota Tundra camshaft recall, about 62,000 vehicles (Nov 13; risk of loss of power at speed); (2) Toledo city layoffs: unions told Friday of cuts (fire dept losing 11 firefighters); budget released Monday; (3) Small Craft Advisory on western Lake Erie until 10 a.m. Sunday; (4) FDA Nov 13: Medline beds/rails/mattresses (fire/entrapment), OsteoDenx capsules (undeclared milk); (5) Wise Wife ground cinnamon upgraded to Class II (lead), distributed in Ohio; (6) Blade Holiday Parade 10 a.m. downtown, student veterans' 24-mile Ruck the Ball march BGSU to UT.
+- Items marked (ongoing)/(updated) carry from Nov 13.
+- Full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-14.txt
+
+MEASLES (top priority; statewide active; no open NW Ohio exposure sites)
+- Ohio statewide (updated; ODH dashboard Nov 12)
+  - 327 cases in 26 counties in 2026 (310 on Nov 5, 296 Oct 29, 260 Oct 22). More than 6x all of 2025 (45). Third Ohio outbreak of 2026 continues.
+  - By county: Geauga 56, Ashtabula 53, Wayne 46, Medina 28, Pike 24, Harrison 18, Trumbull 15, Tuscarawas 15, Morrow 13, Holmes 10, Ashland 8, Franklin 8, Knox 5, Meigs 4, Mercer 4, Cuyahoga 3, Gallia 3, Morgan 3, Van Wert 3, Hancock 1, Mahoning 1 (new), Ottawa 1, Portage 1, Stark 1, Vinton 1, Wood 1, unknown 1.
+  - Cases mostly unvaccinated; ages 15 months to 20 years. Nationally 5,182 cases as of Nov 5 (CDC).
+  - What to do: confirm MMR status (two doses ~97% effective); if exposed or symptomatic (fever, rash, cough, red eyes) call your provider BEFORE visiting.
+  - Source: https://www.dispatch.com/story/news/healthcare/2026/11/13/ohio-measles-outbreak-super-spreader-us-eliminated-status/92755598007/
+- PAHO measles-elimination review (ongoing)
+  - Commission met Nov 10-13; official decision expected about Nov 17; U.S. likely to lose elimination status. Not announced as of this morning.
+- Geauga/Lake County exposure sites (ongoing; NE Ohio, outside our area; Geauga Public Health)
+  - Berkshire Middle School, Burton (Nov 2-5, ~7:45 a.m.-5:15 p.m.); Kent State Geauga Campus (Nov 3, 3:30-7 p.m.); The Hambone, Hambden Twp (Nov 3 and 5 evenings); Berkshire choir concert (Nov 3, 5:30-9:30 p.m.); SPC Sports and Longhorn Steakhouse, Mentor (Nov 6); UH Urgent Care Concord (Nov 7, 5:54-8:48 p.m.).
+  - Watch window: symptoms possible Nov 9 through Nov 28. Source: https://www.news-herald.com/2026/11/12/geauga-public-health-reports-measles-exposures-in-lake-geauga-counties/
+- School rules (ongoing): State Rep. Angie King's proposals to reverse parts of the Oct 30 ODH school-exclusion order; current rules remain in effect.
+- Lucas, Wood, Hancock, Ottawa, Monroe MI: no open exposure sites found.
+
+NEEDS ATTENTION
+- Toyota Tundra camshaft recall (new; Nov 13)
+  - About 62,000 model year 2022-2023 and 2025-2026 non-hybrid Tundras; one supplier lot (~300 camshafts) built incorrectly; a camshaft could snap and cause loss of motive power at higher speeds.
+  - What to do: check VIN at Toyota.com/recall or nhtsa.gov/recalls; dealer inspects and replaces at no cost; owner letters by mid-January 2027; Toyota 1-800-331-4331.
+  - Source: https://pressroom.toyota.com/toyota-recalls-certain-model-year-2022-2023-and-2025-2026-toyota-tundra-vehicles/
+- Toyota/Lexus Takata front-passenger airbag recall (ongoing; Nov 12)
+  - About 314,000 Toyota and Lexus vehicles; degraded inflator propellant can rupture and send metal fragments into the cabin. Model list not yet published (NHTSA documents expected).
+  - What to do: check VIN at Toyota.com/recall or nhtsa.gov/recalls; free inflator or airbag replacement. Source: https://pressroom.toyota.com/toyota-recalls-front-passenger-airbags-in-certain-vehicles/
+- Cummins Onan P5000iDF EFI dual-fuel generators (ongoing; CPSC Nov 12)
+  - ~3,000 dark gray units; valve installed incorrectly can build pressure, push fuel out or eject fuel cap (11 reports, one person splashed in face): fire/burn hazard. Stop use and contact Cummins. Source: https://cedarnews.net/newstasks/1142763/product-recall-consumer-safety-roundup-november-13/
+- Medline beds, rails, mattresses and accessories (new; FDA Nov 13)
+  - Potential fire hazard and entrapment risk; check Medline notice and FDA page. Source: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts
+- Huffy Buzz Cerana T2 e-trike, model E4004 (ongoing; CPSC Nov 12)
+  - ~286 units; rear wheels can loosen or detach (12 reports, 3 injuries). Stop riding; free replacement axle assemblies; Huffy 855-430-6240. Source: https://krissys-newsletter-9ff8b4.beehiiv.com/p/recalls-friday-november-13-2026
+- Sharper Image tabletop fire pits, ~265,000 (ongoing; CPSC Nov 12; details in the Nov 13 file)
+- Small Craft Advisory, western Lake Erie (new)
+  - NWS Cleveland, issued Nov 14 3:18 a.m. until 10 a.m. Sunday Nov 15 (zone LEZ144). Northwest winds; small boats should stay in port.
+
+WORTH KNOWING (TOLEDO)
+- City of Toledo layoffs (updated)
+  - Union leaders say the fire department is losing 11 firefighters (at least four administrative layoffs, about 21 moved from office roles to the line); AFSCME members also told of layoffs. Earlier reports cited about 100 workers and up to 20 firefighters; Mayor Kapszukiewicz's 2027 budget is released Monday Nov 16. Source: https://www.13abc.com/2026/11/14/toledo-unions-learn-how-many-members-face-layoffs-2027-budget/
+- Blade Holiday Parade (today)
+  - 39th annual, 10 a.m.-noon downtown; begins N. Summit St and Jefferson Ave, left on Jackson Blvd to Huron St, finishes on Washington St. Expect downtown closures. Source: https://www.toledo.com/events/2026/11/14/holiday-event/the-blade-holiday-parade-in-toledo/
+- Ruck the Ball march (today; demonstration-type event)
+  - UToledo and BGSU student veterans leave BGSU 8 a.m., march 24 miles to Veterans' Plaza at UT to raise awareness of veteran suicide; game ball for Nov 20 Battle of I-75 at Glass Bowl. Community welcome; contact 419-530-1392. Source: https://news.utoledo.edu/index.php/11_13_2026/utoledo-bgsu-student-veterans-to-hold-fourth-annual-ruck-the-ball-march
+- MC Tank / Brent Industries release (ongoing)
+  - Nine lawsuits filed over the North Toledo chemical release, attorneys seeking consolidation; City Council District 3 public meeting Nov 19. Source: https://www.wtol.com/article/tech/science/environment/sixth-lawsuit-filed-north-toledo-chemical-release-attorneys-seek-combine-cases-mc-tank-chemical-leak/512-394c6966-9d35-4c14-9826-3aae8a957577
+- Wise Wife Brand Ground Cinnamon (updated; FDA Class II)
+  - 110 g (3.88 oz) clear plastic container with black screw cap; lead 2.118 ppm; sold in Ohio and 13 other states Sep 8, 2025 to Jun 28, 2026. Return for refund. Source: https://fox8.com/news/fda-upgrades-ohio-cinnamon-recall-to-class-ii-over-lead-concerns/
+- OsteoDenx capsules (new; FDA Nov 13): contain undeclared milk (allergy risk); bioQuad Life Sciences.
+- Tainted supplements (ongoing; FDA Nov 12): Candy Power For Man Honey (undeclared tadalafil); 10 Day Forecast capsules 3200mg (sildenafil and acetaminophen).
+- Other carried recalls: Family Farmstead raw cheddar (Listeria), Laub's hay cubes (botulism risk), Fresh to You sausage biscuit (Listeria), Brad's kale chips (thallium), Eugia vancomycin (glass particle), Once Upon a Farm toddler bars (choking), Bose S1 Pro battery packs, Gourmia air fryers, Kakgold RC car (button battery), Lexus NX 2022-2024 meter software (26V687000, 68,356 vehicles).
+- Missing persons: no active AMBER, endangered missing child or adult alert for Lucas, Wood or Monroe counties (Ohio AG/BCI list, Nov 13). Long-standing: Brian Bailey, 16, missing from Oregon, Ohio since 11/6/2025; Lucas County Sheriff's Office (419) 213-4975.
+- Roadwork: no new closure list found this morning (carried; see ODOT District 2/OHGO). Downtown streets closed for the parade this morning.
+- DUI checkpoints: OVI checkpoint at 1470 South McCord Rd was Friday Nov 13 (past); none announced for the coming week found (not exhaustive).
+
+EMERGING TECH WATCH
+- Geoengineering (ongoing; nothing new in deployment)
+  - Nov 13 coverage: growing private investment in stratospheric aerosol work (SRM360), and "weather sovereignty" geopolitics (Asia Times). No local spraying program; Ohio HB 290 still in committee. https://srm360.org/article/who-funds-work-on-solar-geoengineering-2026/ ; https://asiatimes.com/2026/11/weather-sovereignty-the-new-geopolitics-of-atmospheric-intervention/
+- 6G cellular (ongoing)
+  - Nokia testing integrated sensing and communications to detect drones; Nova FCT reconfigurable-surface "smart mirror" prototype; 3GPP SA2#178 Calgary Nov 16-20. Research only, no U.S. deployment. https://www.telecomtv.com/content/5g/what-s-up-with-nokia-ntt-spacex-56689/
+- Smart dust (new)
+  - A foresight review of micro-sensor swarms and surveillance technologies (Scienmag); research-stage only, no deployment. https://scienmag.com/smartdust-foresight-review-assesses-fictional-surveillance-technologies-and-emerging-engineering-realities/
+
+ALL CLEAR / NO CHANGE
+- Maumee River: no new spill, sewage, fish-kill or algae notice found; Toledo Harbor dredging continues (USACE); Swan Creek E. coli advisory still posted (carried).
+- Lake Erie: Small Craft Advisory (above); NOAA HAB bulletin (Nov 12): low-moderate bloom along Michigan shore, no toxins detected (carried).
+- Air: Good (AQI 30, PM2.5 2.8, Open-Meteo ~7 a.m.); no smoke, ozone or refinery-flaring notice found; no outdoor mold count published.
+- Fog: no Dense Fog Advisory or fog outlook in NWS alerts; no active hazmat/smoke plume, so no fog or inversion concern.
+- Hazmat, gas leaks, rail, water mains/sewers: no new Toledo incident found (a Nov 13 injury crash at Oakdale Ave/Tracy St and a Detroit Ave vacant-house fire Nov 12 only; MC Tank cleanup carried).
+- Water/crops, invasive species, kids/poison control, clothing recalls (SHEIN rattle sets unverified, carried): nothing new found.
+- Recall checklist: food/bev and meds/supplements = items above; children's products = Kakgold; car seats/strollers = none found; electronics battery = Bose carried; appliances = Gourmia carried, generators/fire pits; clothing = none.
+
+SKY
+- Geomagnetic quiet today (Kp ~1.3-1.7); no aurora expected, minor rise to Kp ~3 by Nov 16 (NOAA SWPC). NWS Toledo: partly sunny, high near 45, NW wind 16 mph gusting 22; tonight low ~37; Sunday partly sunny, high ~45. Sunny stretch next week.
+
+PARALLEL COMPARISON NOTE
+- No github-actions[bot] digest-2026-11-14.txt or email file existed after pull at ~7:40 a.m. EST. Saved as digest-2026-11-14.txt. First workflow-sent digest remains Nov 2, 2026 ~8:44 a.m. EST.
+- Not re-checked today (carried): ODH dashboard direct, detailed roadwork lists.
