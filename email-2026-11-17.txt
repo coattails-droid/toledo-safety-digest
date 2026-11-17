@@ -1,0 +1,6 @@
+Toledo Daily Digest + Emerging Tech Watch - Tuesday, November 17, 2026
+- **ACTION NEEDED:** New hazmat release at MC Tank Transport in North Toledo (glycidyl methacrylate); 1-mile evacuation and 3-mile shelter-in-place in effect; avoid area, follow official alerts. No other boil orders, gas leaks, or major road closures confirmed today.
+- Measles: Ohio at 327 cases in 26 counties (updated); new NW Ohio exposure sites in Paulding/Defiance counties; confirm MMR status.
+- Ongoing: MC Tank/Brent monitoring and lawsuits; city layoffs (89 announced); carried recalls and missing person alert.
+- Full lot codes, exposure lists, and details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-17.txt
+- All clear on Maumee River, Lake Erie (low bloom), air, fog (no advisory), and most other sections.
