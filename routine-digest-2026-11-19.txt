@@ -1,0 +1,75 @@
+Toledo Daily Digest + Emerging Tech Watch - Thursday, November 19, 2026
+
+SUMMARY
+- No evacuation, shelter-in-place, area-wide boil order, active hazmat incident, AMBER or endangered-missing alert found for Toledo/Lucas/Wood/Monroe. NWS (api.weather.gov, 7:35 a.m. EST): no active alerts for Lucas/Wood.
+- Measles (top priority): Paulding/Defiance exposure sites (Nov 11-14) still in watch window; Ohio 327 cases/26 counties (ODH Nov 12; no newer count found). No additional linked cases announced as of Nov 18.
+- TODAY 5 p.m.: Toledo council Sustainability & Beautification Committee public hearing on the MC Tank chemical release and Brent Industries explosion, Council Chambers, One Government Center.
+- New: Lucas/Wood ballot challenge at Ohio Supreme Court (House District 44); $10.2M settlements for five wrongfully imprisoned Toledo men; new recalls (Fresh to You biscuit sandwiches - Listeria, TX-area only; Santa Cruz Paleo pre-workout - undeclared milk; SHEIN baby rattle sets; Sharper Image fire pits).
+- Full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/routine-digest-2026-11-19.txt
+
+MEASLES (top priority)
+- Paulding/Defiance counties exposure sites (ongoing; Paulding County Health Dept, Nov 17-18)
+  - One confirmed case. Sites: Dr. Timothy Hogan's office, Nov 11, 4:15-7:15 p.m.; Defiance Walmart Pharmacy, Nov 11, 5:30-8 p.m.; Paulding County Hospital X-ray/lab, Nov 12, noon-3 p.m.; Paulding County Hospital ER/X-ray, Nov 12, 4:30-9:15 p.m.; Rusty's Relics, Oakwood, Nov 14, 9-10 a.m.
+  - 21-day watch ends (my calculation): ~Dec 2 (Nov 11 sites), ~Dec 3 (Nov 12 sites), ~Dec 5 (Nov 14 site).
+  - What to do: if you were there, call Paulding County Health Dept 419-399-3921. If unsure of immunity call your provider; post-exposure MMR works only within 72 hours of exposure (that window has passed for all sites; immune-globulin/provider advice may still apply). Fever or rash: call ahead before visiting a clinic/ER.
+  - Source: https://thefostoriafreepress.com/paulding-county-measles-case-exposure-sites/ ; https://www.progressnewspaper.org/2026/11/17/news/h1-paulding-county-measles-case-with-multiple-exposures-h1/
+- Ohio statewide (ongoing; ODH dashboard Nov 12)
+  - 327 cases in 26 counties (45 in all of 2025; only 20 from out of state per Ohio Capital Journal Nov 19). Geauga 56, Ashtabula 53, Wayne 46, Medina 28, Harrison 18, Trumbull 15, Tuscarawas 15. Nearby: Mercer 4, Van Wert 3. A new ODH update may post today; Paulding/Defiance were not yet on the county list.
+  - Source: https://www.dispatch.com/story/news/2026/11/17/ohio-measles-cases-2026-spread-paulding-defiance-counties/92827568007/ ; https://ohiocapitaljournal.com/2026/11/19/measles-is-making-a-comeback-in-ohio-and-everyone-is-paying-for-it/
+- U.S. (updated): PAHO removed U.S. measles-elimination status (Nov 17); CDC ~5,212 cases, 590 hospitalized, 6 deaths in 2026 (Cleveland19 Nov 16).
+  - Source: https://www.cleveland19.com/2026/11/16/tracking-ohios-measles-cases-us-loses-elimination-status/
+- Geauga/Lake County exposure sites (ongoing, NE Ohio): watch window through about Nov 28.
+- Lucas, Wood, Hancock, Ottawa, Monroe MI: no open exposure sites found.
+
+NEEDS ATTENTION
+- MC Tank / Brent Industries public hearing TODAY 5 p.m. (ongoing)
+  - Toledo City Council Sustainability & Beautification Committee, Council Chambers, One Government Center; public invited to speak. Background: MC Tank (1266 Progress Ave) released glycidyl methacrylate Oct 20; U.S. EPA ended on-site response Nov 11 and Ohio EPA leads cleanup; an independent investigator reports formaldehyde above screening levels near MC Tank, while EPA and the city say no current public hazard. Brent Industries explosion Aug 18 killed two. Class action by residents/businesses filed.
+  - Source: https://www.toledobuzz.com/2026/11/19/tonight-at-5-toledo-finally-gets-its-say-on-the-chemical-spill-and-the-explosion/ ; https://toledo.legistar.com/MeetingDetail.aspx?G=E5BDDE21-C978-430C-804D-EE97005A5E73&GID=416&LEGID=4126
+- Sharper Image tabletop and tabletop infinity fire pits (updated; CPSC; ~265,000 units)
+  - Burning fuel can escape or jet from fuel containers; 4 injuries incl. 3rd/4th-degree burns. Sold Jan 2023-Jun 2026 at Home Depot, Lowe's, Target, Walmart, TJ Maxx, Ace and online ($30-50). Stop using; contact Allstar Marketing Group for a full refund.
+  - Source: https://nbcmontana.com/news/local/shein-baby-toys-sharper-image-fire-pits-recalled-over-choking-and-burn-hazards
+- SHEIN baby rattle & teether 7-piece sets (new; CPSC; ~2,657 sets; choking)
+  - SKU sk25070936134444119 on package label; knobs detach. Sold on SHEIN.com Nov 2025-Jul 2026. Take away from children; contact SHEIN for refund.
+- Toyota/Lexus Takata front-passenger airbag inflators (ongoing; NHTSA; 314,029 vehicles MY2002-2017 incl. Lexus SC430, IS250, GX460)
+  - Check VIN at nhtsa.gov/recalls or toyota.com/recall; dealer replaces free.
+  - Source: https://pressroom.toyota.com/toyota-recalls-front-passenger-airbags-in-certain-vehicles/
+
+WORTH KNOWING (TOLEDO)
+- Lucas/Wood ballot challenge (new)
+  - Ohio House Republican Organizational Committee sued in Ohio Supreme Court to throw out provisional ballots from voters registered in another county; focus Ohio House District 44 (Schimmel leads by <40 votes with Ottawa and Wood complete). Wood certified District 75 (Rettig) Wednesday. Lucas Board of Elections keeps counting unless a court orders otherwise.
+  - Source: https://www.13abc.com/2026/11/19/group-asks-ohio-supreme-court-throw-out-some-lucas-county-ballots/
+- Toledo budget cuts (ongoing)
+  - Curbside recycling planned to end after Jan 4 while the refuse fee stays the same; 89 layoffs and demolition/blight cuts reported earlier this week.
+  - Source: https://www.13abc.com/2026/11/18/i-team-toledo-residents-losing-curbside-recycling-will-pay-same-refuse-fee/
+- Lawsuits (new/ongoing)
+  - Ohio agreed to $10.2M settlements for five men wrongfully imprisoned 34 years in the 1992 Wilson Park killing (not final: needs attorney general, Court of Claims, Controlling Board approval). MC Tank/Brent class actions continue.
+  - Source: https://www.toledobuzz.com/2026/11/19/midnight-briefing-10-2m-justice-cma-history-toledos-biggest-day/
+- Protests/events (new)
+  - Peace walk for Judy Tanner (killed in a Toledo crosswalk) steps off Thursday; Flock camera council vote still pending the mayor's tie-break.
+  - Source: same ToledoBuzz briefing.
+- Health Department closure Nov 9-13 has ended (resolved).
+- Recall category checklist (details)
+  - Food/beverage (FDA): Fresh to You Sausage, Egg & Cheese Biscuit Sandwich (expanded; Listeria; Longview TX, sold AL/AR/LA/MS/OK/TN/TX; not Ohio). ALDI Priano tortelloni (botulism risk; AL/GA/NC/SC only) and Herb to Body Yellow Dock Root (Salmonella; nationwide) and Naia sorbetto (allergen; N. California) from Nov 17 remain in effect. Family Farmstead raw cheddar (Listeria, Nov 10) ongoing.
+  - Meds/supplements (FDA): Santa Cruz Paleo Pineapple Caffeine (lot 2606161) and Island Punch Caffeine (lot 2512293) pre-workout powder, undeclared milk, sold on Amazon (new). OsteoDenx (undeclared milk), Candy Power For Man honey (tadalafil), 10 Day Forecast capsules (sildenafil) ongoing.
+  - Children's toys (CPSC): SHEIN baby sets (above).
+  - Car seats/strollers (NHTSA/CPSC): no new.
+  - Electronics battery/fire: Sharper Image fire pits (above, fire); Medline beds/rails (FDA, fire/entrapment, ongoing).
+  - Household appliances: QIOMALA HWT12P pressure washers (~80; short cord; Amazon) and Boshengya shag rugs (~83; flammability; Amazon) - minor.
+  - Clothing: no new.
+
+EMERGING TECH WATCH
+- Geoengineering: no new local action found.
+- Smart dust: research-stage, no new item found.
+- 6G: research/standards stage only, no new item found.
+
+ALL CLEAR / NO CHANGE
+- Maumee River: no new spill/overflow/fish kill found; Toledo Harbor dredging continues; Swan Creek E. coli advisory status unchanged (not re-verified today).
+- Lake Erie: no NWS marine advisories (NWS 7:35 a.m.); algal bloom season over, no new toxin notice found.
+- Air: no ozone action day or hazmat plume found; AQI not re-checked at AirNow. Mold count not published.
+- Fog: no Dense Fog Advisory; NWS forecast mostly sunny, no fog flagged. No plume to disperse (no active release).
+- Gas leaks, rail, water/crops, water mains & sewers, invasive species, kids/poison control, DUI checkpoints, roadwork: nothing new found.
+- Missing persons: Ohio AG shows no active AMBER; no NW Ohio/Monroe alert found.
+- Not directly verified today: ODH dashboard, OHGO, NOAA HAB bulletin, individual NHTSA notices, Wood County items.
+
+SKY (last)
+- Mostly sunny, high 61, tonight 42 (NWS Toledo); Friday sunny, 61. Geomagnetic: a brief G1 storm (Kp 5) around 7 p.m. EST Nov 18; Kp ~2-3 forecast today, so aurora unlikely this far south.
