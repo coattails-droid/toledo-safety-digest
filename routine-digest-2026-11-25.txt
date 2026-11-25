@@ -1,0 +1,94 @@
+Toledo Daily Digest + Emerging Tech Watch - Wednesday, November 25, 2026
+(Routine edition, written ~7:50 a.m. ET. No digest-2026-11-25.txt from the GitHub Actions workflow existed at write time; its recent runs have landed in the afternoon/evening, e.g. Nov 24 at 4:28 p.m. ET.)
+
+SUMMARY
+- MEASLES (top priority): Ohio 359 cases in 28 counties (ODH, week of Nov 19; next weekly update expected Thursday Nov 26). Paulding/Defiance exposure sites remain inside the 21-day watch. No new NW Ohio exposure sites found.
+- GOOD NEWS: Washington Township (Lucas County) boil-water advisory near Shoreland/Summit was LIFTED Tuesday Nov 24 (flush cold taps). A separate Patriot Rd advisory (~16 residences) was still awaiting a final test per county statement Nov 24. Township has had 8 main/valve issues since Oct 18.
+- Thanksgiving weather: rain Thursday (1-2 in), NE gusts to 45 mph; Gale Watch for western Lake Erie Thursday morning through late Thursday night, waves 5-8 ft nearshore. NWS "First Alert Weather Day" per 13abc.
+- Bridges: Craig Memorial and MLK bridges closing more often this week (Maumee River dredging; Craig mechanical problems).
+- New: fatal shooting 700 block Woodstock Ave (Ryan Shutters, Tue 7:24 p.m.); Lucas County passed $211.1M 2027 budget (57 positions cut); Toledo proposes trash/recycling fee $21.50 on April 1; Flock audit vote tabled.
+- Recalls: nothing new from CPSC since Nov 19; FDA Nov 24: Par Pharmaceutical injectables (particulate), GSMS ibuprofen 800 mg (aluminum particulate), Green Lumber "Natural Fuel For Men" (undeclared taladalfil); botulism fish recall (dried herring/croaker) ongoing.
+- No evacuation, shelter-in-place, active hazmat, rail, gas-leak or AMBER alert found for the Toledo area.
+- Full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/routine-digest-2026-11-25.txt
+
+MEASLES (top priority)
+- Ohio statewide (ongoing)
+  - 359 confirmed cases in 28 counties in 2026 (358 as of Nov 19; 327 on Nov 12; 45 in all of 2025). Geauga 65, Ashtabula 58, Wayne 54, Medina 28, Pike 26, Harrison 18, Trumbull 16, Mahoning 2.
+  - NW Ohio counties listed: Hancock 1, Ottawa 1, Wood 1, Paulding 1, Mercer 4, Van Wert 3. Lucas and Defiance not listed. Monroe MI: none found.
+  - Coshocton County reported its first case Nov 19 (Coshocton Public Health, per measlesusa.com).
+  - Caveat: ODH dashboard not opened directly; figures via WFMJ, USA Today Network, measlesusa.com. Next ODH update expected Thursday Nov 26.
+  - Sources: https://www.the-daily-record.com/story/news/healthcare/2026/11/20/ohio-measles-outbreak-us-eliminated-status-2026/92875049007/ ; https://www.wfmj.com/news/local-news/eighth-measles-death-in-pennsylvania-49-cases-in-the-valley/article_c03e48cb-3e0e-415b-932c-ca41f602eeb0.html ; https://measlesusa.com/news/
+- Paulding and Defiance exposure sites (ongoing; Paulding County Health Dept)
+  - Dr. Timothy Hogan's Office, Paulding, Nov 11, 4:15-7:15 p.m.
+  - Defiance Walmart Pharmacy, Nov 11, 5:30-8:00 p.m.
+  - Paulding County Hospital X-Ray/Laboratory, Nov 12, 12:00-3:00 p.m.
+  - Paulding County Hospital ER and X-Ray, Nov 12, 4:30-9:15 p.m.
+  - Rusty's Relics, Oakwood, Nov 14, 9:00-10:00 a.m.
+  - 21-day watch ends (my calculation): Dec 2 (Nov 11), Dec 3 (Nov 12), Dec 5 (Nov 14).
+  - What to do: if you were there call Paulding County Health Dept 419-399-3921; unsure of immunity call your provider; with fever or rash call ahead before going to a clinic/ER. Protected = born before 1957, 1+ documented MMR dose (2 recommended), or provider-diagnosed measles.
+  - Source: https://www.dispatch.com/story/news/2026/11/17/ohio-measles-cases-2026-spread-paulding-defiance-counties/92827568007/
+- U.S. (ongoing): elimination status lost Nov 17 (PAHO); 5,739 U.S. cases per Johns Hopkins as of Nov 13. Holiday travel and gatherings flagged by health departments: check MMR status before Thanksgiving gatherings.
+- NE Ohio Geauga/Lake exposure sites (ongoing): watch ends about Nov 28 (my calculation).
+
+NEEDS ATTENTION
+- Washington Township water (updated)
+  - Shoreland/Summit boil advisory (issued Nov 20) LIFTED Tuesday Nov 24 after second clear test; flush cold taps before normal use. Source: https://www.toledobuzz.com/2026/11/24/good-news-before-thanksgiving-washington-township-boil-advisory-lifted/
+  - Separate Nov 20 break at 5441 Patriot: boil advisory for ~16 residences, awaiting final water test per county as of Nov 24 evening (13abc/WTOL); no lift notice found. Nov 19 N. Summit advisory lifted earlier.
+  - Eight water main/valve incidents Oct 18-Nov 23 (Shoreland, Belpre, Windamar, N. Summit, Patriot, Raintree, Pageland Nov 23, no advisory). County cites aging pipes and temperature swings. Questions: Lucas County Sanitary Engineer 419-213-2926.
+  - Sources: https://www.13abc.com/2026/11/25/washington-township-reports-8-water-main-valve-issues-recent-weeks/ ; https://www.wtol.com/article/news/local/washington-township-residents-concerns-water-main-breaks/512-778d87a1-c14e-4ab3-8c3b-7feec903747e
+- Thanksgiving storm/travel (new)
+  - Wednesday partly sunny, mid 40s, NE wind 10-15 mph gusts to 30; Thursday rain 1-2 in, NE winds 20-25 gusting 45; Gale Watch western Lake Erie Thursday morning to late night, 5-8 ft nearshore waves (NWS Cleveland; 13abc). Secure outdoor items; allow extra time.
+  - Bridge delays: Craig Memorial and MLK bridges closing more often this week due to Maumee dredging; Craig left raised when mechanical problems occur; no estimate for easing. ODOT planning 2-year Craig rehab. Source: https://www.wtol.com/article/news/local/why-are-toledos-craig-memorial-and-mlk-bridges-closing-more-often-this-week/512-523dc4e1-c958-4f15-95be-9c15c326cd9f
+  - Trash/recycling pickup runs one day late for Thanksgiving (Republic Services).
+- Recalls that may affect your household (details in checklist)
+  - Dried Herring Fish (Prime Food Processing, lot 25180) and Dried Croaker Fish: botulism risk, Asian grocery stores incl. Ohio. Discard/return; seek care for blurred vision, trouble swallowing/speaking. (ongoing)
+  - Hultafors trade tools (229,430; button cells) and CHE-US magnetic robot toys (101,282; magnets): keep from children. (ongoing)
+
+WORTH KNOWING (Toledo)
+- Fatal shooting (new): Ryan Shutters found shot, 700 block Woodstock Ave, Tuesday 7:24 p.m.; died at scene. Crime Stoppers 419-255-1111 (up to $5,000). Source: https://www.wtol.com/article/news/local/toledo-police-investigate-fatal-shooting-in-central-toledo/512-88b8f8a9-50e2-4de6-b37f-8c0d8294b786
+- Lucas County budget (new): commissioners passed a balanced $211.1M 2027 budget Tuesday, $30M cut from requests, funding for 57 positions cut, no reserves used. Source: https://dailytoledo.com/local-news/editions/11-25-2026
+- Toledo trash/recycling fee (new): administration proposes one increase to $21.50/month on April 1 (now $18.50; seniors $10.50 to $12.00); council floated a December hearing before a final vote. Source: https://www.13abc.com/2026/11/25/toledo-administration-proposes-earlier-refuse-fee-increase-continue-curbside-recycling/
+- Flock cameras (updated): Lucas County commissioners tabled the vote on a forensic audit of Flock searches (reported by WTOL/Daily Toledo; yesterday's digest expected a vote).
+- Wood County (new): petition of 900+ signatures for safety study of Dunbridge/Sugar Ridge intersection.
+- Toledo firefighter / Walk the Word Church $168,811 charges probe (ongoing); Schroeder $50,000 settlement first reading held Nov 24 (ongoing); House District 44 40-vote result, recount pending (ongoing). No newer details found today.
+- Dexter St shooting of a 12-year-old girl (Nov 22, ongoing) and MC Tank Terminal Oct 22 release/lawsuits (ongoing): no new development found.
+- Gas prices in Toledo below $3/gal for first time in weeks (Daily Toledo).
+- Lawsuits: nothing new beyond the above. Protests: nothing new found.
+- DUI checkpoints: no OVI checkpoint announced for Lucas/Wood in the next week (last Lucas listing Nov 13, S. McCord Rd). Wood County announced increased DUI patrols Nov 25-29 (BG Independent News). Ohio "Project Plan Ahead" ride credits (Lyft code 15OHLQ per Nov 24 report) run through Nov 29. Source: https://bgindependentmedia.org/thanksgiving-traffic-blitz-begins-tomorrow-nov-25/
+- Roadwork (ongoing): Turnpike bridge work, I-75 lane closures; bridge closures above. OHGO not directly checked.
+
+RECALL CATEGORY CHECKLIST (Nov 24-25)
+- Food/beverage: Prime Food Processing Dried Herring and Dried Croaker Fish (botulism; Nov 23-24; 28/25 states); Brett Anthony Foods frozen cheeseburger products/BAO buns (undeclared sesame, soy; Nov 22-23); Sanniu Evergreen Biscuits (undeclared milk, shrimp in Salt and Pepper Soda Biscuits; Nov 20); Grand Strand Lunch Box biscuits (Listeria; NC, SC, VA only); Fresh To You sandwiches (Listeria; OR/WA). Nothing new Nov 25 found.
+- Meds/supplements (new Nov 24 FDA): Par Pharmaceutical/Endo injectables (particulate: cellulose, polystyrene, stopper material, aluminum); Golden State Medical Supply ibuprofen 800 mg (aluminum particulate); Green Lumber "Natural Fuel For Men" (undeclared taladalfil). Ongoing: OsteoDenx (milk), Breckenridge propranolol ER 60 mg, Greenwich Rx compounded sterile products (Nov 20), Lipofit Extreme 2.0, Teva dasatinib, Beta Bionics iLet.
+- Children's products: CHE-US magnetic robot toys (101,282; Amazon Apr 2025-Aug 2026), Kidsview infant bouncers, Xentrawave adult bed rails, Qpancy children's pajama sets (1,309; violate sleepwear flammability standards; burn hazard; Amazon Mar-Aug 2026; email qpancyrecall@outlook.com for refund), Cipton youth bicycle helmets (16,730; Dick's, JC Penney). All dated Nov 19; nothing newer.
+- Car seats/strollers: nothing new found.
+- Electronics battery/fire: ororo PD10K-Pro lithium battery packs (269 US; Nov 19). Nothing newer.
+- Household appliances: nothing new found. Other: Hultafors tools (229,430), Fidlock dry bags (490), Vanderhall Brawley GTS electric ROVs (brake).
+- Clothing: Qpancy children's pajamas (above); nothing else new.
+- Sources: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts ; https://www.cpsc.gov/Recalls ; https://recallbench.com/recalls-this-week/ ; https://storerecalls.com/recalls-this-week/
+- Not verified: Ohio Dept of Agriculture, USDA FSIS directly, local retailer notices.
+
+TOYOTA / LEXUS RECALLS
+- NHTSA 26V748 (ongoing): 314,029 US vehicles, Takata front-passenger airbag inflators may rupture. 2002-2010 Lexus SC430, 2011 IS250, 2017 GX460, 2003-2008 Corolla, 2005-2006 Tundra, 2005-2007 Sequoia, 2016-2017 4Runner. Free fix; check VIN at nhtsa.gov/recalls or toyota.com/recall.
+- 26V750 (ongoing): 62,490 non-hybrid 2022-2023 and 2025-2026 Tundras, camshaft may crack and stall engine; owner letters expected by mid-January 2027. Source: https://pressroom.toyota.com/toyota-recalls-certain-model-year-2022-2023-and-2025-2026-toyota-tundra-vehicles/
+- No newer Toyota/Lexus notice found today.
+
+EMERGING TECH WATCH
+- Geoengineering (updated): research and governance, not deployment. New modelling (ACS Env Sci & Tech) on particle formation in SO2/H2S stratospheric plumes; UK-funded outdoor experiments and drone-based aerosol-material tests (no release); a University of Amsterdam legal analysis argues precaution implies non-use; governance simulations found no agreement on an SAI framework. Sources: https://www.chemistryworld.com/features/solar-geoengineering-blocking-sunlight-to-help-dial-down-global-temperatures/4024478.article ; https://aria.org.uk/insights/2026/who-decides-putting-climate-cooling-governance-into-practice ; https://seven.uva.nl/en/news/2026/precaution-means-non-use-international-law-points-away-from-solar-geoengineering-researchers-find
+- Smart dust (ongoing, quiet): no product news; framed as massive-IoT/beyond-6G research, no 3GPP spec.
+- 6G (updated): 3GPP 6G work on schedule; Rel-20 studies finish 2027, Rel-21 (first normative 6G release) Stage 1 starts March 2027, Stage 3 freeze Dec 2028. SA2#178 (Calgary) reached no consensus on 6G architecture; open issues (AI, intent delivery, 4G-6G interworking) go to SA#114; RAN1#127 adopted an 80 ms sync burst as working assumption. Sources: https://3gpp-explorer.com/articles/sa2-178-calgary-6g-architecture-outcomes/ ; https://www.3gpp.org/specifications-technologies/releases/release-21
+
+MISSING PERSONS AND CHILDREN
+- No active AMBER Alert in Ohio (Ohio AG / Ohio AMBER Plan, Nov 24). No endangered-missing alert found for Toledo/Lucas/Wood/NW Ohio/Monroe MI.
+- Long-standing (Ohio AG list, not active alerts): Londyn Warren, 12, Toledo PD 419-245-3246; Brian Bailey, 16, Oregon OH, Lucas County Sheriff 419-213-4975; Sabastian Booher (last seen Aug 24, 2026) and Daray Brown (June 23, 2026) also listed by the Ohio AG for Toledo/Lucas County.
+
+ALL CLEAR / NO CHANGE
+- Maumee River: no new spill, overflow or fish kill found; Toledo Harbor/Maumee dredging continues (causing bridge closures above); Swan Creek E. coli advisory not re-verified.
+- Lake Erie: GALE WATCH western basin Thursday morning through late Thursday night (NE gales, 5-8 ft nearshore); algal bloom over for 2026; no beach notice found.
+- Air: no ozone action day or hazmat plume found; AirNow not re-checked.
+- Fog: no Dense Fog Advisory found; Wednesday clearing, partly sunny. Thursday rain/gusty. No release for fog to trap.
+- Rail, gas leaks (only an indoor leak at 3016 Daleford Dr Nov 17, old), hazmat, Toledo city drinking water and crops, sewers (beyond Washington Twp), invasive species, kids/poison control: nothing new found.
+- Not directly verified today: ODH dashboard, OHGO, NOAA HAB bulletin, individual NHTSA pages, USDA FSIS, Wood County items.
+
+SKY (last)
+- Wednesday partly sunny, high mid 40s, NE wind 10-15 mph gusting to 30; Thanksgiving rain, windy, high mid 40s (NWS). Sunrise about 7:34 a.m., sunset about 5:06 p.m. Geomagnetic activity not checked.
