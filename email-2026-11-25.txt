@@ -1,0 +1,24 @@
+Toledo Daily Digest + Emerging Tech Watch - Wednesday, November 25, 2026
+- Summary: New MC Tank Transport hazmat incident (glycidyl methacrylate leak/explosion, evacuations/shelter-in-place in North Toledo) requires immediate attention; measles statewide active (~359 cases); carried water main boil advisory updates and other ongoing items. No other acute emergencies confirmed in last 24-48 hours. Lot codes and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-25.txt
+- **MEASLES (top priority; statewide active)**
+  - Ohio statewide (updated; ODH/measlesusa.com ~Nov 20-25): 359 cases in past 6 months as of Nov 24 (up slightly); mostly unvaccinated. No major new NW Ohio county changes noted. What to do: Confirm MMR status; if exposed/symptomatic call provider first. Source: https://measlesusa.com/state/oh/
+- **NEEDS ATTENTION**
+  - MC Tank Transport new hazmat incident (Nov 24-25): Chemical tank explosion/leak of glycidyl methacrylate at/near 1266 Progress Ave., North Toledo; 1-mile evacuation zone, 3-mile shelter-in-place; potential explosion risk noted. What to do: Follow local emergency alerts, evacuate if in zone, shelter-in-place as directed, monitor Toledo Fire/EMA/news for updates. Sources: https://www.1027espn.com/news-daypop/hazardous-material-leak-after-explosion-of-chemical-tank-in-toledo-ohio-prompts-evacuations-shelter-in-place-orders/ (and related local reports).
+  - Lucas County water main breaks/boil advisory (updated/ongoing from Nov 20): Affected Washington Twp. areas; repairs largely complete, advisory pending final tests (one report indicates nearing end). What to do: Boil or use bottled water until lifted. Sources: https://www.toledoblade.com/local/environment/2026/11/20/boil-advisory-issued-for-eastern-washington-township/stories/20261120093 ; local updates.
+  - MC Tank prior incident (updated/ongoing; Oct 20): Lawsuits, health monitoring continue amid new event. Sources as prior.
+- **WORTH KNOWING (TOLEDO)**
+  - City/Lucas County budget/layoffs (updated): Recent announcements of positions eliminated. Monitor local gov/news. Sources: https://www.toledoblade.com/local/city
+  - Carried recalls and other items (ongoing): Details in full digest/repo.
+  - Missing persons: No new active AMBER/endangered alerts; carried long-standing as prior.
+  - Roadwork (updated/ongoing): Carried items re-verified where possible.
+  - Toyota recalls (ongoing): Carried.
+- **EMERGING TECH WATCH**
+  - Geoengineering, Smart Dust, 6G: No new confirmed developments in last 24-48 hours specific to area or otherwise; research/ongoing only.
+- **ALL CLEAR / NO CHANGE**
+  - Maumee River: no new spill, sewage, fish-kill or algae notice.
+  - Lake Erie: Bloom season ended per prior; no new toxins/advisories.
+  - Air: No new violations, smoke, or issues reported.
+  - Fog: Per typical NWS outlook, no Dense Fog Advisory noted.
+  - Other sections (hazmat beyond new incident, gas leaks, rail, water mains beyond carried, invasive species, kids/poison, clothing recalls, protests, DUI): No new confirmed.
+- **SKY**
+  - Quiet; check NWS/NOAA for details. Sources: Standard forecasts.
