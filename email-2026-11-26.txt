@@ -1,0 +1,77 @@
+Toledo Daily Digest + Emerging Tech Watch - Thursday, November 26, 2026
+- Summary: No new acute emergencies confirmed in last 24-48 hours requiring immediate action (no new boil advisories, shelter-in-place, major spills, or road closures). Carried/updated items from prior: MC Tank Transport hazmat incident (ongoing health/lawsuit developments amid recent reporting); Lucas County water main boil advisory (repairs complete/pending final tests); measles statewide (~359 cases, no major NW Ohio change); city/layoffs budget; roadwork. All carried items re-verified where possible via searches. Lot codes and full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/digest-2026-11-26.txt
+- New/updated today: MC Tank ongoing updates; water advisory status; measles count; holiday traffic patrols.
+- Items marked (ongoing)/(updated) carried from Nov 25 and re-verified via searches Nov 25-26.
+
+**MEASLES (top priority; statewide active)**
+- Ohio statewide (updated; ODH/measlesusa.com ~Nov 20-25)
+  - 359 cases in past 6 months as of Nov 24 (slight uptick); cases mostly unvaccinated. No major change in NW Ohio counties (Hancock 1, Ottawa 1, Wood 1, Lucas none listed new; similar nearby).
+  - What to do: Confirm MMR status (two doses ~97% effective); if exposed/symptomatic call provider before visiting.
+  - Source: https://measlesusa.com/state/oh/ and related ODH reporting.
+- PAHO measles-elimination review (ongoing)
+  - US lost elimination status due to outbreaks; national cases high.
+  - Source: https://www.cleveland19.com/2026/11/16/tracking-ohios-measles-cases-us-loses-elimination-status/
+- NW Ohio exposure sites (no new sites reported recent days)
+  - Prior listings carried until symptom watch ends; no open exposure sites beyond prior in relevant counties.
+  - Source: Related dispatch/ODH reports.
+- School rules (ongoing): Current rules remain.
+
+**NEEDS ATTENTION**
+- MC Tank Transport hazmat incident (updated/ongoing; Oct 20 primary incident with Nov 24-25 reporting on effects)
+  - Glycidyl methacrylate release at 1266 Progress Ave., North Toledo (prior resolved Oct 23 all-clear per mayor/EPA, employee error); ongoing resident health symptoms (headaches, breathing issues), independent monitoring for formaldehyde, lawsuits (9+ filed, seeking consolidation), long-term health monitoring plans (cancer etc.). Recent town hall Nov 25 on lingering concerns. What to do: Monitor Toledo Fire/EMA/local news for updates; report claims to company line if applicable (888-271-0577); seek medical help for symptoms.
+  - Sources: https://newsforce247.com/north-toledo-residents-press-health-questions-at-town-hall-after-chemical-leak/ ; https://www.toledoblade.com/local/city/2026/11/19/toledo-residents-voice-frustration-in-aftermath-of-north-toledo-chemical-leak/stories/20261119111 ; https://www.13abc.com/2026/11/20/toledo-council-hears-first-responders-response-two-industrial-incidents/ ; prior EPA/Blade links.
+- Lucas County water main breaks/boil advisory (updated/ongoing; Nov 20)
+  - 4 water main breaks in Washington Township; affected area includes all water customers north and east of the Summit Street and Shoreland Avenue roundabout, as well as most properties on the west side of Summit between Shoreland and the Michigan border (exception handful closest to Shoreland on west side). Repairs expected complete early Nov 21; one repaired by late Nov 20; advisory at least 72 hours pending lab tests (reports indicate nearing end/pending final tests as of Nov 24). Attributed to aging pipe system/valve bolts.
+  - What to do: Boil water for drinking/cooking at least 1 minute or use bottled water; flush taps; monitor Lucas County Sanitary Engineer or local news for lift notice.
+  - Sources: https://www.toledoblade.com/local/environment/2026/11/20/boil-advisory-issued-for-eastern-washington-township/stories/20261120093 ; https://www.13abc.com/2026/11/20/water-main-breaks-prompt-boil-advisory-some-washington-twp-homes-businesses/ ; recent updates.
+
+**WORTH KNOWING (TOLEDO)**
+- City of Toledo/Lucas County layoffs/budget (updated/ongoing; recent Nov)
+  - Announcements of layoffs and position eliminations amid budget; council discussions on impacts (10 layoffs, 47 positions in Lucas County noted).
+  - What to do: Monitor https://toledo.oh.gov or local news for service impacts.
+  - Sources: https://www.toledoblade.com/local/city ; https://www.toledoblade.com/local
+- Carried recalls (ongoing)
+  - Wise Wife Brand Ground Cinnamon (FDA Class II; 110g clear plastic; lead concerns; return for refund).
+  - OsteoDenx capsules (FDA Nov 13; undeclared milk/allergy).
+  - Tainted supplements (FDA Nov 12; Candy Power For Man Honey - tadalafil; 10 Day Forecast - sildenafil/acetaminophen).
+  - Other: Family Farmstead raw cheddar (Listeria), Laub's hay cubes (botulism), Fresh to You sausage biscuit (Listeria), Brad's kale chips (thallium), Eugia vancomycin (glass), Once Upon a Farm toddler bars (choking), Bose S1 Pro battery packs, Gourmia air fryers, Kakgold RC car (button battery), Lexus NX meter software, Cummins Onan P5000iDF EFI generators (CPSC; fuel ejection/fire), Medline beds/rails/mattresses (FDA; fire/entrapment), Huffy Buzz Cerana T2 e-trike (CPSC; wheels loosen), Sharper Image tabletop fire pits (CPSC).
+  - New nationwide (not Toledo-specific impact confirmed): Sanniu biscuits (undeclared milk/shrimp, FDA Nov 20); Grand Strand sandwiches (Listeria, FDA Nov 19); Hultafors/CLC lighted portfolios and Johnson Level tools (button battery ingestion, CPSC Nov 19); Xentrawave bed rails (entrapment, CPSC Nov 19). Check FDA/CPSC for details if purchased.
+  - Source links in prior file/repo.
+- Missing persons (ongoing)
+  - No active AMBER or endangered missing alerts for Lucas/Wood/Monroe (Ohio AG/BCI recent lists).
+  - Long-standing: Brian Bailey, 16, missing from Oregon, Ohio since 11/6/2025; Lucas County Sheriff's Office (419) 213-4975.
+  - Source: Ohio AG missing persons lists.
+- Roadwork (updated/ongoing)
+  - Ohio Turnpike bridge redecking at Maumee River continues (two lanes each direction on westbound half); potential peak-period congestion. Napoleon Bypass US 6/24 (Henry County) bidirectional traffic on eastbound side.
+  - Other: I-75 left lane closings possible Michigan border to Maumee River (drain cleaning); southbound right lane closed approaching Cygnet interchange (Wood County) for slope repair until ~Nov 25.
+  - What to do: Check OHGO or ODOT District 2 for real-time; plan extra time for holiday travel.
+  - Sources: https://www.toledoblade.com/local/transportation/2026/11/23/road-warrior-turnpike-project-napoleon-work-pose-holiday-delay-hazards/stories/20261122104 ; ODOT/OHGO.
+- DUI checkpoints: Extra traffic patrols/saturation for holiday weekend (impaired driving focus) through Sunday in Toledo PD and Wood County areas; no specific checkpoint locations announced.
+  - Source: https://www.toledoblade.com/local/police-fire/2026/11/25/extra-traffic-patrols-planned-for-holiday-weekend/stories/20261124117
+- Protests & demonstrations: None announced.
+- Toyota recalls (ongoing)
+  - Tundra camshaft (~62,000 MY 2022-2023/2025-2026 non-hybrid; supplier lot issue; camshaft could snap/loss of motive power); check VIN at Toyota.com/recall or nhtsa.gov/recalls; free dealer repair; letters by mid-Jan 2027. Source: https://pressroom.toyota.com/toyota-recalls-certain-model-year-2022-2023-and-2025-2026-toyota-tundra-vehicles/
+  - Lexus/Takata front-passenger airbag (~314,000 vehicles; degraded inflator risk); check VIN; free replacement. Source: https://pressroom.toyota.com/toyota-recalls-front-passenger-airbags-in-certain-vehicles/
+
+**EMERGING TECH WATCH**
+- Geoengineering (ongoing; nothing new in deployment)
+  - Prior coverage on private investment in SRM and geopolitics; no local spraying; Ohio HB 290 in committee.
+  - Sources: Prior links.
+- 6G cellular (ongoing)
+  - Nokia testing integrated sensing; Nova FCT prototype; 3GPP SA2#178 meeting Nov 16-20. Research only, no U.S. deployment.
+  - Source: Prior telecom reports.
+- Smart dust (new/ongoing)
+  - Foresight review of micro-sensor swarms/surveillance (Scienmag); research-stage only.
+  - Source: Prior scienmag link.
+
+**ALL CLEAR / NO CHANGE**
+- Maumee River: no new spill, sewage, fish-kill or algae notice; Toledo Harbor dredging continues (USACE Sep-Dec); Swan Creek E. coli advisory still posted (carried).
+- Lake Erie: NOAA HAB bulletin (Nov 19-23 final): 2026 bloom season ended (SI 3.4 moderate); low-moderate activity resolved, no toxins at key sites. Sources: Prior NOAA/Blade links.
+- Air: Good to moderate conditions (AQI low-moderate, PM2.5 main but low); no smoke, ozone, refinery-flaring, or violation notices; no outdoor mold count published. Sunny/mild conditions noted in forecasts.
+- Fog: Patchy/river valley fog possible early morning per outlook; no Dense Fog Advisory; improves quickly. No active hazmat/smoke plume trapping noted beyond incident response. NWS: mostly sunny/mild, clearing.
+- Hazmat, gas leaks, rail, water mains/sewers (beyond carried breaks above and ongoing MC Tank): No new incidents confirmed in last 24-48 hours.
+- Water/crops, invasive species, kids/poison control, clothing recalls: Nothing new found.
+- Recall checklist: Food/bev and meds/supplements = items above (new biscuits/sandwiches nationwide); children's products = Kakgold carried + new bed rails/bouncers; car seats/strollers = none; electronics battery = Bose carried + new tools; appliances = Gourmia carried, generators/fire pits; clothing = none.
+
+**SKY**
+- Geomagnetic quiet (Kp ~1-2); no aurora expected. NWS Toledo: sunny/mild today, light winds; tonight low with partly cloudy skies. Visible: clear skies favor any evening viewing early. Sources: NWS forecasts and NOAA Space Weather.
