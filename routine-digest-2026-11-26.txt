@@ -1,0 +1,98 @@
+Toledo Daily Digest + Emerging Tech Watch - Thursday, November 26, 2026 (Thanksgiving)
+(Routine edition, written ~7:55 a.m. ET. No digest-2026-11-26.txt from the GitHub Actions workflow existed at write time; its runs have recently landed in the afternoon/evening.)
+
+SUMMARY
+- STORM DAY: Lakeshore Flood Warning (Lucas, Ottawa, Sandusky, Erie) 10 a.m. Thu - 4 a.m. Fri; Gale Warning western Lake Erie same window (NE gusts to 45 kt, waves 7-12 ft); Wind Advisory Lucas/Wood 1 p.m. Thu - 3 a.m. Fri (gusts to 50 mph). Toledo water level forecast near 82 in. above low water datum this evening (NWS Cleveland).
+- MEASLES (top priority): Ohio 358-359 cases in 28 counties (last figures reported; ODH weekly update expected today). Paulding/Defiance exposure sites remain in 21-day watch. No new NW Ohio sites found.
+- HAZMAT (new): Southwyck Landing apartments, 2233 Foxbourne Rd (south Toledo), one building evacuated ~9:15 p.m. Wed for unidentified chemical odor; several coughing, no injuries reported; substance/source not identified as of late Wed.
+- Recalls Nov 25: CPSC Zenara plug-in CO/natural gas detectors (210,410); Zero XB/XE off-road motorcycles; YATORP youth ATVs; Justforjoyful magnets; VerticalBase hangboard mounts. FDA: Ethel's Baking Pecan Dandy bars (undeclared soy).
+- No AMBER Alert in Ohio; no endangered-missing alert for Toledo/Lucas/Wood/NW Ohio/Monroe MI.
+- Full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/routine-digest-2026-11-26.txt
+
+MEASLES (top priority)
+- Ohio statewide (ongoing)
+  - 358 cases in 28 counties as of ODH update reported Nov 20 (327 on Nov 12; 45 in all of 2025); +31 in the week, 82% jump. Geauga 65, Ashtabula 58, Wayne 54, Medina 28, Pike 26, Harrison 18, Trumbull 16, Tuscarawas 15, Holmes 14, Morrow 13. Coshocton first case Nov 19.
+  - NW Ohio counties listed: Hancock 1, Ottawa 1, Wood 1, Paulding 1, Mercer 4, Van Wert 3. Lucas and Defiance not listed. Monroe MI: none found.
+  - Caveat: ODH dashboard not opened directly; figures via Columbus Dispatch/USA Today Network. Next ODH update expected today (Thanksgiving; may be delayed).
+  - Source: https://www.dispatch.com/story/news/healthcare/2026/11/20/ohio-measles-outbreak-us-eliminated-status-2026/92875049007/
+- Paulding and Defiance exposure sites (ongoing; Paulding County Health Dept)
+  - Dr. Timothy Hogan's Office, Paulding, Nov 11, 4:15-7:15 p.m.
+  - Defiance Walmart Pharmacy, Nov 11, 5:30-8:00 p.m.
+  - Paulding County Hospital X-Ray/Laboratory, Nov 12, 12:00-3:00 p.m.
+  - Paulding County Hospital ER and X-Ray, Nov 12, 4:30-9:15 p.m.
+  - Rusty's Relics, Oakwood, Nov 14, 9:00-10:00 a.m.
+  - 21-day watch ends (my calculation): Dec 2 (Nov 11), Dec 3 (Nov 12), Dec 5 (Nov 14).
+  - What to do: if you were there call Paulding County Health Dept 419-399-3921; unsure of immunity call your provider (post-exposure vaccine works within 72 hours; window has passed for these dates); with fever or rash call ahead before going to a clinic/ER. Protected = born before 1957, 1+ documented MMR dose (2 recommended), or provider-diagnosed measles.
+  - Source: https://www.progressnewspaper.org/2026/11/17/news/h1-paulding-county-measles-case-with-multiple-exposures-h1/
+- U.S. (ongoing): elimination status lost Nov 17 (PAHO). Check MMR status before holiday gatherings.
+- NE Ohio Geauga/Lake exposure sites (ongoing): watch ends about Nov 28 (my calculation).
+
+NEEDS ATTENTION
+- Lakeshore flood / gale / wind (new)
+  - NWS Cleveland: Lakeshore Flood Warning 10 a.m. Thu to 4 a.m. Fri for Lucas, Ottawa, Sandusky, Erie. Numerous roads closed and low-lying property (lots, lawns, homes, businesses) inundated near the lake; some shoreline erosion. Toledo water level to near 82 in. above low water datum this evening, falling Thursday night.
+  - Gale Warning Maumee Bay to Reno Beach etc.: NE 25-35 kt gusts to 45 kt, waves 7-12 ft, 10 a.m. Thu - 4 a.m. Fri (Small Craft Advisory until 10 a.m.). Stay in port.
+  - Wind Advisory Lucas/Wood/Ottawa/Sandusky/Erie: NE 20-30 mph gusts to 50 mph, 1 p.m. Thu - 3 a.m. Fri; tree limbs down, a few power outages possible.
+  - Rain steady and heavy at times from late morning; lows mid 30s, a few wet snowflakes possible west near the Indiana/Michigan line; rain and wind continue Friday (highs low 40s); improves Saturday (13abc First Alert Weather Day).
+  - What to do: avoid shoreline roads, never drive around barricades or through water of unknown depth, secure outdoor items, protect flood-prone property, allow extra travel time.
+  - Sources: https://www.weather.gov/wwamap/wwatxtget.php?cwa=dtx&wwa=all ; https://www.13abc.com/2026/11/26/rainy-gusty-thanksgiving-day-annies-first-alert-forecast-nov-26-2026/
+- Southwyck Landing chemical odor (new, hazmat)
+  - 2233 Foxbourne Rd (Unit 32 area, near Chatsworth/Foxbourne), south Toledo. Dispatch ~8:56 p.m. Wed; hazmat, decon and multiple engines responded. One building evacuated ~9:15 p.m.; strong chemical odor caused several residents to cough. No injuries reported. Substance and source not identified; officials said it likely came from inside the building and residents likely could return later that night after levels were evaluated. No later update found this morning.
+  - Fog/cloud note: no fog advisory; strong NE wind and rain would disperse any outdoor release quickly (general NWS-pattern statement; this was an indoor odor).
+  - Sources: https://www.wtol.com/article/news/local/several-south-toledo-apartment-building-evacuated-for-chemical-odor-causing-coughing-substance-unconfirmed-what-is-it/512-8832a6de-be96-4553-9dc7-1ac5cdda955d ; https://citizen.com/-P7KZJA1epbi64-xidsY
+- Washington Township water (updated)
+  - Shoreland/Summit boil advisory LIFTED Nov 24; flush cold taps. Separate 5441 Patriot advisory (~16 residences) awaited final test as of Nov 24; no lift notice found. Eight main/valve incidents Oct 18-Nov 23. Lucas County Sanitary Engineer 419-213-2926.
+  - Source: https://www.toledobuzz.com/2026/11/24/good-news-before-thanksgiving-washington-township-boil-advisory-lifted/
+- Recalls that may affect your household (new Nov 25)
+  - Zenara 4-in-1 plug-in Steadfast Haven carbon monoxide and natural gas detectors: 210,410 units; may fail to alert to hazardous CO/gas levels (1 report, no injuries). If you own one, see CPSC notice for remedy and use another working CO alarm. Source: https://www.prnewswire.com/news-releases/cpsc-posts-new-product-recalls-and-product-safety-warnings-to-its-web-site-302950652.html
+  - Dried Herring/Croaker fish (botulism, Asian grocery stores incl. Ohio) (ongoing): discard; seek care for blurred vision, trouble swallowing/speaking.
+  - Hultafors trade tools (button cells) and CHE-US magnetic robot toys (ongoing): keep from children.
+- Roads/bridges (ongoing): Craig Memorial and MLK bridges closing often (Maumee dredging); trash/recycling one day late this week.
+
+WORTH KNOWING (Toledo)
+- Overnight hit-and-run (new): two cars crashed into Bennett Auto Service building, Waggoner Blvd near Eleanor/Bennett ~1:15 a.m.; both drivers fled; Building Department to check structure. Source: https://www.13abc.com/2026/11/26/two-cars-crash-into-west-toledo-building/
+- Lucas County recycling facility (MRF) on hold (new): county ended talks with Balcones; depends on Toledo keeping curbside recycling. Source: https://www.13abc.com/2026/11/25/i-team-lucas-county-recycling-facility-is-hold/
+- Toledo budget (ongoing/updated): 89 layoff notices; refuse fee proposal $21.50/month Apr 1 to keep curbside recycling; possible December council hearing.
+- Four Corners (new): state awards $5M brownfield grant for hazmat cleanup/demolition at Spitzer and Nicholas buildings (360 units planned). Source: https://www.13abc.com/2026/11/26/state-awards-5-million-toledos-four-corners-redevelopment/
+- Gas prices (new): Toledo $2.74/gal, cheapest of 101 U.S. cities (ToledoBuzz).
+- Cherry Street Mission serves ~700 Thanksgiving meals at noon, 1501 Monroe St. Franklin Park Mall Black Friday opens 8 a.m.
+- Ongoing, no new details found: Woodstock Ave fatal shooting (Ryan Shutters; Crime Stoppers 419-255-1111), Dexter St shooting of 12-year-old, MC Tank Terminal Oct 22 release/lawsuits, Flock audit vote tabled, Schroeder settlement, House District 44 recount.
+- Lawsuits/protests: nothing new found.
+- DUI: Extra patrols through Sunday night; Wood County increased patrols Nov 25-29; no OVI checkpoint announced for Lucas/Wood. Project Plan Ahead ride credits (up to $15 Uber/Lyft) through Sunday. 
+- Roadwork (ongoing): Turnpike bridge work, I-75 lanes; OHGO not directly checked.
+
+RECALL CATEGORY CHECKLIST (Nov 25-26)
+- Food/beverage: Ethel's Baking Company Pecan Dandy Dessert Bars (undeclared soy lecithin; FDA, Nov 25). Ongoing: Prime Food Processing dried herring/croaker (botulism), Brett Anthony Foods frozen cheeseburger/BAO buns (sesame, soy), Sanniu biscuits (milk, shrimp).
+- Meds/supplements: GE Medical Systems CT system Class II (device, FDA). Ongoing: Par Pharmaceutical injectables, GSMS ibuprofen 800 mg, Green Lumber "Natural Fuel For Men" (taladalfil).
+- Children's products: Justforjoyful farm-animal refrigerator magnets, model JJ0212 (1,300; lead and phthalates exceed bans; Amazon Sep 2024-Jul 2025 ~$17; stop use, refund via JustforJoyful@outlook.com; CPSC 27-103). YATORP MXMOTO MX49-A2 / MXRACING MX49-A1 youth ATVs (162; violate ATV standard; Amazon Mar-Jul 2026; refund via yaletech2021@outlook.com; 27-101). Ongoing: CHE-US robot toys, Qpancy pajamas, Cipton youth helmets.
+- Car seats/strollers: nothing new found.
+- Electronics battery/fire: nothing new Nov 25 (ororo PD10K-Pro ongoing). Zero XB/XE 2026 electric off-road motorcycles (2,371; cruise control can increase power; stop using, free firmware repair at dealer, 888-786-9376; 27-107).
+- Household appliances/safety devices: Zenara detectors (above); VerticalBase hangboard doorframe mounts (227; fall hazard; repair kit late Jan 2027 or refund; yyvertical.mkp@gmail.com; 27-105).
+- Clothing: nothing new (Qpancy pajamas ongoing).
+- Sources: https://www.cpsc.gov/Recalls ; https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts
+- Not verified: Ohio Dept of Agriculture, USDA FSIS directly, retailer notices.
+
+TOYOTA / LEXUS RECALLS
+- NHTSA 26V748 (ongoing): 314,029 US vehicles, Takata front-passenger inflators may rupture. 2002-2010 Lexus SC430, 2011 IS250, 2017 GX460, 2003-2008 Corolla, 2005-2006 Tundra, 2005-2007 Sequoia, 2016-2017 4Runner. Free fix; VIN check at nhtsa.gov/recalls or toyota.com/recall.
+- 26V750 (ongoing): 62,490 non-hybrid 2022-2023 and 2025-2026 Tundras, camshaft may crack; letters by mid-January 2027.
+- No newer Toyota/Lexus notice found today.
+
+EMERGING TECH WATCH
+- Geoengineering (ongoing, quiet): no new items found today beyond yesterday's research/governance stories (modelling, UK outdoor experiment plans, UvA legal analysis); no deployment.
+- Smart dust (ongoing, quiet): no product news.
+- 6G (ongoing, quiet): 3GPP schedule unchanged (Rel-20 studies end 2027; Rel-21 first normative 6G release, Stage 3 freeze Dec 2028). Not re-searched in depth today.
+
+MISSING PERSONS AND CHILDREN
+- No active AMBER Alert in Ohio (Ohio AG, Nov 2026). No endangered-missing alert found for Toledo/Lucas/Wood/NW Ohio/Monroe MI.
+- Long-standing (Ohio AG list, not active alerts): Londyn Warren, 12, Toledo PD 419-245-3246; Brian Bailey, 16, Oregon OH, Lucas County Sheriff 419-213-4975; Laraina Green and Lelynd Gray (Toledo) also listed.
+
+ALL CLEAR / NO CHANGE
+- Maumee River: no new spill, overflow or fish kill found; dredging continues (bridge closures); expect high water/surge from NE gale. Swan Creek advisory not re-verified.
+- Lake Erie: see Needs attention (Gale Warning, Lakeshore Flood Warning). Algal bloom season over; no beach notice found.
+- Air: no ozone action day or plume found; AirNow not checked.
+- Fog: no Dense Fog Advisory; rain/wind day, fog not the hazard.
+- Rail, gas leaks, Toledo city drinking water and crops, sewers (beyond Washington Twp), invasive species, kids/poison control: nothing new found.
+- Quiet tech topics: smart dust, 6G, geoengineering (above).
+- Not directly verified today: ODH dashboard, OHGO, NOAA HAB bulletin, NHTSA pages, USDA FSIS.
+
+SKY (last)
+- Thanksgiving: rain and strong wind, lows mid 30s tonight; Friday highs low 40s. Sunrise about 7:35 a.m., sunset about 5:05 p.m. Cloud cover heavy; no viewing. Geomagnetic activity not checked.
