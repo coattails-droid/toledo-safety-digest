@@ -1,0 +1,106 @@
+Toledo Daily Digest + Emerging Tech Watch - Friday, November 27, 2026
+(Routine edition, written ~8 a.m. ET. No digest-2026-11-27.txt or email file from the GitHub Actions workflow existed at write time.)
+
+SUMMARY
+- QUIET MORNING AFTER THE STORM: NWS canceled the Lakeshore Flood Warning for Lucas, Ottawa, Sandusky and Erie at 1:28 a.m. Fri as winds eased and shifted north/northwest; Lake Erie is falling. Friday: rain showers, highs low 40s, NW winds 10-15 mph (gusts to 30), waves subsiding to 2-4 ft.
+- MEASLES (top priority): ODH's latest reported figure is still 358 cases in 28 counties (as of Nov 19; no newer ODH figure found). NEW: Mercer County Health District reports 11 cases since Oct 22 (Nov 23 release; 4 on ODH list). Paulding/Defiance exposure sites remain in 21-day watch.
+- NEW overnight: semi crash blocked the I-75 S to I-280 S ramp in Toledo (cleared ~2:30 a.m. tow); at least the second commercial-vehicle crash on that ramp this month.
+- NEW: shooting investigation at Meadowbrook Estates mobile home park, Butternut Lane, Springfield Twp (Reynolds Rd/South Ave), early Nov 27; details not yet released.
+- Southwyck Landing chemical odor (Foxbourne Rd): no cause announced yet.
+- Recalls: FDA Class I Tandem Mobi insulin pumps (Nov 25); FDA Class I Intersurgical 22 mm Smoothbore breathing tubes; CPSC HOMEAL and YiHe-US/Easymake adult bed rails (entrapment).
+- No AMBER Alert in Ohio found; no endangered-missing alert found for Toledo/Lucas/Wood/NW Ohio/Monroe MI.
+- Full details: https://github.com/coattails-droid/toledo-safety-digest/blob/main/routine-digest-2026-11-27.txt
+
+MEASLES (top priority)
+- Ohio statewide (ongoing)
+  - 358 cases in 28 counties per ODH dashboard update reported Nov 19-20 (327 on Nov 12; 45 in all of 2025); +31 that week. Geauga 65, Ashtabula 58, Wayne 54, Medina 28, Pike 26, Harrison 18, Trumbull 16, Tuscarawas 15, Holmes 14, Morrow 13. A tracking site (measlesusa.com, Nov 24) shows 359 including Coshocton's first case; that is not an ODH figure.
+  - NW Ohio counties listed: Hancock 1, Ottawa 1, Wood 1, Paulding 1, Mercer 4, Van Wert 3. Lucas and Defiance not listed. Monroe MI: none found.
+  - Caveat: ODH dashboard not opened directly; the weekly update was expected Thanksgiving week and no newer ODH number was found.
+  - Source: https://www.dispatch.com/story/news/healthcare/2026/11/20/ohio-measles-outbreak-us-eliminated-status-2026/92875049007/
+- Mercer County (new/updated; NW Ohio)
+  - Mercer County Health District (Celina) reports 11 measles cases in county residents since 10/22/2026 (release Nov 23). Linked to a limited number of households; no evidence of widespread community transmission at this time. No public exposure-site list found in the release.
+  - What to do: call Mercer County Health District 419-586-3251 to check records or get MMR; if symptoms (high fever, cough, runny nose, red watery eyes, then rash) isolate and call the medical office ahead before arriving.
+  - Source: https://mchdohio.org/11-measles-cases-11-23-26/
+- Paulding and Defiance exposure sites (ongoing; Paulding County Health Dept)
+  - Dr. Timothy Hogan's Office, Paulding, Nov 11, 4:15-7:15 p.m.
+  - Defiance Walmart Pharmacy, Nov 11, 5:30-8:00 p.m.
+  - Paulding County Hospital X-Ray/Laboratory, Nov 12, 12:00-3:00 p.m.
+  - Paulding County Hospital ER and X-Ray, Nov 12, 4:30-9:15 p.m.
+  - Rusty's Relics, Oakwood, Nov 14, 9:00-10:00 a.m.
+  - 21-day watch ends (my calculation): Dec 2 (Nov 11), Dec 3 (Nov 12), Dec 5 (Nov 14).
+  - What to do: if you were there call Paulding County Health Dept 419-399-3921; unsure of immunity call your provider (post-exposure vaccine window has passed for these dates); with fever or rash call ahead before going to a clinic/ER. Protected = born before 1957, 1+ documented MMR dose (2 recommended), or provider-diagnosed measles.
+  - Source: https://www.progressnewspaper.org/2026/11/17/news/h1-paulding-county-measles-case-with-multiple-exposures-h1/
+- U.S. (ongoing): elimination status lost Nov 17 (PAHO). Check MMR status before holiday gatherings.
+- NE Ohio Geauga/Lake exposure sites (ongoing): symptom watch ends about Nov 28 (my calculation).
+
+NEEDS ATTENTION
+- Southwyck Landing chemical odor (ongoing, hazmat)
+  - 2233 Foxbourne Rd (Unit 32 area, near Chatsworth/Foxbourne), south Toledo. Dispatch ~8:56 p.m. Wed Nov 25; hazmat, decon and multiple engines responded. One building evacuated ~9:15 p.m.; strong chemical odor caused several residents to cough. No injuries reported. Substance and source not identified; officials said it likely came from inside the building and residents likely could return later that night. No later update or cause found as of this morning.
+  - What to do: if you live there and have symptoms, seek care; ask management/Toledo Fire and Rescue for the all-clear.
+  - Sources: https://www.wtol.com/article/news/local/several-south-toledo-apartment-building-evacuated-for-chemical-odor-causing-coughing-substance-unconfirmed-what-is-it/512-8832a6de-be96-4553-9dc7-1ac5cdda955d ; https://citizen.com/-P7KZJA1epbi64-xidsY
+- I-75 to I-280 ramp semi crash (new)
+  - Southbound I-75 to southbound I-280 ramp, Toledo. Semi lost control while exiting and blocked the entire ramp; tow truck arrived shortly before 2:30 a.m. Injury information not released as of early Friday. State patrol information indicates at least the second commercial-vehicle crash on this ramp this month.
+  - What to do: expect residual delays; slow down on wet ramps (rain today).
+  - Source: https://www.wtol.com/article/news/local/semi-crash-blocks-i-75-to-i-280-ramp-in-toledo-overnight/512-b06a0411-74a3-494d-863b-3b3318a0b707
+- Lake Erie storm aftermath (updated)
+  - NWS Cleveland canceled the Lakeshore Flood Warning at 1:28 a.m. Fri (Lucas, Ottawa, Sandusky, Erie); water levels falling. Gale Warning for the western basin was scheduled to end 4 a.m. Fri. Friday: rain showers, highs lower 40s, NW winds 10-15 mph gusts to 30; waves 5-8 ft subsiding to 2-4 ft. Lake could dip below low water datum late Friday.
+  - What to do: expect lingering debris and wet roads near the shore; use caution on shoreline roads.
+  - Sources: https://firelandscurrent.com/news/lake-erie-lakeshore-flood-warning-november-26-2026 ; https://dailytoledo.com/oh/toledo/news/2026-11-27/lake-erie-seiche
+- Recalls that may affect your household (new Nov 25-26)
+  - Tandem Mobi insulin pumps (FDA Class I, Nov 25): certain pumps may give false-positive occlusion alarms and suspend insulin delivery; 1,248 serious injuries, no deaths reported as of Oct 28. If you use one, contact Tandem 877-801-6901 or techsupport@tandemdiabetes.com and follow the letter. Source: https://content.govdelivery.com/accounts/USFDA/bulletins/43414a1
+  - HOMEAL adult portable bed rails (3,897) and YiHe-US Easymake HC030-3 bed rails (4,499; Amazon Mar-Jul 2026, ~$60; CPSC 27-106): entrapment/asphyxiation hazard, violate mandatory standard. Stop using; YiHe refund via FWproductrecall@163.com. Source: https://www.cpsc.gov/Recalls/2027/YiHe-US-Recalls-Easymake-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails
+  - Zenara 4-in-1 plug-in CO/natural gas detectors (ongoing; 210,410 units): may fail to alert; use another working CO alarm and see CPSC remedy.
+  - Dried herring/croaker fish (botulism, ongoing): discard; seek care for blurred vision, trouble swallowing/speaking.
+- Washington Township water (ongoing)
+  - Shoreland/Summit boil advisory lifted Nov 24; some neighbors still distrustful after 8 main/valve incidents. Separate 5441 Patriot advisory (~16 residences): no lift notice found. Lucas County Sanitary Engineer 419-213-2926.
+  - Source: https://www.toledobuzz.com/2026/11/26/washington-townships-boil-advisory-is-over-but-after-8-water-main-breaks-neighbors-say-they-still-dont-trust-the-tap/
+- Roads/bridges (ongoing): Craig Memorial and MLK bridges close often (Maumee dredging).
+
+WORTH KNOWING (Toledo)
+- Meadowbrook Estates shooting (new): authorities investigating a suspected shooting on Butternut Lane, Springfield Twp, early Nov 27; no further details released yet. Source: https://www.13abc.com/2026/11/27/law-enforcement-responding-shooting-meadowbrook-estates/
+- Black Friday/shop local (new): Franklin Park Mall open 8 a.m.-8 p.m.; Plaid Friday today, Small Business Saturday Nov 28. Toledo gas about $2.65 (ToledoBuzz) vs $2.74 cited yesterday. Source: https://www.toledobuzz.com/2026/11/27/morning-briefing-blade-warning-record-thanksgiving-messi/
+- Cherry Street Mission served 700+ Thanksgiving dinners, its most ever; shelter about 90% full. Same source as above.
+- Data center vote (new): 594 Allen Township neighbors forced a vote on a 240-acre data center (ToledoBuzz headline; details not read).
+- Lucas County recycling facility on hold; Toledo budget (89 layoff notices; $21.50/month refuse fee proposal Apr 1; possible December council hearing) (ongoing).
+- Four Corners $5M brownfield grant (ongoing from Nov 26).
+- Ongoing, no new details found: Woodstock Ave fatal shooting (Crime Stoppers 419-255-1111), Dexter St shooting of 12-year-old, MC Tank Terminal Oct 20-22 release/lawsuits, Flock audit vote tabled, Schroeder settlement, House District 44 recount.
+- Lawsuits/protests: nothing new found.
+- DUI: extra patrols through Sunday night; Wood County increased patrols Nov 25-29; no OVI checkpoint announced for Lucas/Wood. Project Plan Ahead ride credits (up to $15 Uber/Lyft) through Sunday.
+- Roadwork (ongoing): Turnpike bridge work, I-75 lanes; OHGO not directly checked.
+
+RECALL CATEGORY CHECKLIST (Nov 25-27)
+- Food/beverage: nothing new found today. Ongoing: Ethel's Baking Pecan Dandy Dessert Bars (undeclared soy lecithin), Brett Anthony Foods frozen cheeseburger BAO buns and BBQ pork (sesame, soy; FSIS Nov 22), Prime Food Processing dried herring/croaker (botulism), Sanniu biscuits (milk, shrimp), Naia chocolate banana sorbetto (milk, eggs, nuts).
+- Meds/devices: Tandem Mobi pumps (above); Intersurgical 22 mm Smoothbore breathing tubes/systems (FDA Class I; 11 reference numbers, 38 lots; weakened bonded connectors can cause ventilation loss; hospital product). Early alert: ICU Medical Portex endotracheal tubes (Nov 25). Ongoing: GE CT system, Par injectables, GSMS ibuprofen 800 mg, Green Lumber "Natural Fuel For Men".
+- Children's products: nothing new found Nov 26-27. Ongoing: Justforjoyful magnets (JJ0212), YATORP youth ATVs, CHE-US robot toys, Qpancy pajamas, Cipton helmets, Hultafors button-cell tools.
+- Car seats/strollers: nothing new found.
+- Electronics battery/fire: nothing new found. Ongoing: Zero XB/XE motorcycles (free firmware fix 888-786-9376), ororo PD10K-Pro.
+- Household/safety devices: bed rails and Zenara detectors (above); VerticalBase hangboard mounts (ongoing).
+- Clothing: nothing new found.
+- Sources: https://www.cpsc.gov/Recalls ; https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts
+- Not verified: Ohio Dept of Agriculture, USDA FSIS directly, retailer notices.
+
+TOYOTA / LEXUS RECALLS
+- NHTSA 26V748 (ongoing): 314,029 vehicles with Takata front-passenger inflators (2002-2010 Lexus SC430, 2011 IS250, 2017 GX460, 2003-2008 Corolla, 2005-2006 Tundra, 2005-2007 Sequoia, 2016-2017 4Runner). Free fix; VIN check at nhtsa.gov/recalls.
+- 26V750 (ongoing): 62,490 non-hybrid 2022-2023 and 2025-2026 Tundras, camshaft may crack; letters by mid-January 2027.
+- No newer Toyota/Lexus notice found today.
+
+EMERGING TECH WATCH
+- Geoengineering (ongoing, quiet): no new deployment. Recent research/governance items: UvA legal analysis arguing precaution means non-use of solar radiation modification; UK-funded projects on SRM impacts in sub-Saharan Africa (Exeter); drone tests using volcanic plumes as analogues. Source: https://seven.uva.nl/en/news/2026/precaution-means-non-use-international-law-points-away-from-solar-geoengineering-researchers-find
+- Smart dust (ongoing, quiet): no product news found.
+- 6G (ongoing, quiet): 3GPP schedule unchanged (Rel-20 studies end 2027; Rel-21 first normative 6G release, Stage 3 freeze Dec 2028). Not re-searched in depth today.
+
+MISSING PERSONS AND CHILDREN
+- No active AMBER Alert in Ohio. No new endangered-missing alert found for Toledo/Lucas/Wood/NW Ohio/Monroe MI in the last 7 days.
+- Long-standing, not new: Tristyn Asher, 17, Toledo, listed by NCMEC as missing since Oct 8 (5 ft 2, about 135 lb, brown eyes/hair; reported Oct 23 by WTOL; call Toledo police or NCMEC 1-800-843-5678). Source: https://www.wtol.com/article/news/local/17-year-old-tristyn-asher-missing-last-seen-in-toledo-area-girl-family-speaks-out-jennifer-asher/512-290e5be3-0215-44dd-bc80-089fbd3ff1c4
+- Ohio AG list (not active alerts): Londyn Warren, 12, Toledo PD 419-245-3246; Brian Bailey, 16, Oregon OH, Lucas County Sheriff 419-213-4975.
+
+ALL CLEAR / NO CHANGE
+- Maumee River: no new spill, overflow or fish kill found; dredging continues (bridge closures); water falling after surge. Swan Creek advisory not re-verified.
+- Lake Erie: see storm aftermath above. Algal bloom season over; no beach notice found.
+- Air: no ozone action day or plume found; AirNow and mold count not checked.
+- Fog: no Dense Fog Advisory found; rain showers today, fog not the main hazard (not checked in detail).
+- Rail, gas leaks, Toledo city drinking water and crops, sewers (beyond Washington Twp), invasive species, kids/poison control: nothing new found.
+- Not directly verified today: ODH dashboard, OHGO, NOAA HAB bulletin, NHTSA pages, USDA FSIS.
+
+SKY (last)
+- Friday: rain showers and heavy cloud, highs low 40s; Friday night partly cloudy, lows low 30s; Saturday mostly cloudy then partly cloudy, highs mid 40s. Little viewing before Saturday night. Geomagnetic activity and meteor/planet events not checked.
